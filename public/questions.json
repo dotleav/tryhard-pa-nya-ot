@@ -1551,7 +1551,7 @@
       "IPMN subtipe gastrik",
       "IPMN subtipe pankreatobilier",
       "IPMN subtipe intestinal",
-      "IPMN subtipe onkositik"",
+      "IPMN subtipe onkositik",
       "Acinar cell carcinoma"
     ],
     "correct": 0,
@@ -1610,7 +1610,7 @@
     "options": [
       "MCN dengan karsinoma invasifn",
       "MCN low grade",
-      "IPMN subtipe pankreatobilier,
+      "IPMN subtipe pankreatobilier",
       "MCN high grade",
       "Serous cystadenocarcinoma"
     ],
