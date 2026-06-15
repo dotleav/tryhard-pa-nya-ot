@@ -1393,8 +1393,7 @@
     "explanation": "FNAB (Fine Needle Aspiration Biopsy) adalah pemeriksaan lini pertama (first-line) untuk evaluasi nodul tiroid karena bersifat minimal invasif, cepat, relatif murah, dan dapat dilakukan secara rawat jalan dengan jarum halus tanpa anestesi umum. FNAB sangat efektif mendeteksi karsinoma papiler tiroid karena gambaran sitologinya khas — sel-sel dengan nukleus besar, overlapping, 'Orphan Annie eye' (ground glass), dan nuclear groove dapat dikenali langsung dari aspirat. Hasil FNAB mengkategorikan nodul (sistem Bethesda) menjadi jinak, mencurigakan, atau ganas, yang menentukan apakah diperlukan tindakan bedah lanjutan.",
     "category": "Patologi Endokrin (Bergambar)",
     "img": "Karsinoma Papiler Kelenjar Tiroid/50_FNAB-BAJAH.jpeg"
-  }
-    },
+  },
   {
     "id": "P94",
     "question": "Pada skintigrafi tiroid dengan 99mTc-Technetium, gambaran A paling tepat disebut sebagai apa?",
@@ -1439,5 +1438,5 @@
     "explanation": "gambaran C (ditunjuk panah) menunjukkan area fokal yang tidak menangkap radioisotop. Gambaran tersebut disebut sebagai Solitary cold nodule. sudah pasti bukan Single hot nodule  in your area karena itu mah iklan disamping iklan zeus",
     "category": "Patologi Endokrin (Bergambar)",
     "img": "Struma Koloides [Goiter]/33.jpeg"
-  },
+  }
 ]
