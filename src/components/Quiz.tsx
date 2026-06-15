@@ -153,9 +153,13 @@ export default function Quiz() {
 
   // ── Load questions ──
   useEffect(() => {
-    fetch('./questions.json')
-      .then(r => r.json())
+    fetch(`${import.meta.env.BASE_URL}questions.json`)
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`)
+        return r.json()
+      })
       .then((data: Question[]) => setQuestions(data))
+      .catch(err => console.error('Gagal memuat questions.json:', err))
   }, [])
 
   // ── Restore biasa progress from localStorage once questions are loaded ──
