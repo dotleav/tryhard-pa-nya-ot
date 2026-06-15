@@ -136,7 +136,7 @@
   },
   {
     "id": "P10",
-    "question": "Skintigrafi tiroid dengan 99mTc-Technetium ini menunjukkan tiga pola berbeda (A, B, C). Pola B menunjukkan multiple 'hot' nodules, sedangkan pola C menunjukkan solitary 'cold' nodule (ditunjuk panah). Apa makna klinis cold nodule?",
+    "question": "Apa makna klinis cold nodule?",
     "options": [
       "Cold nodule menandakan goiter endemik akibat defisiensi iodin yang reversibel",
       "Cold nodule pasti jinak karena tidak aktif memproduksi hormon tiroid",
@@ -1436,6 +1436,36 @@
     ],
     "correct": 0,
     "explanation": "gambaran C (ditunjuk panah) menunjukkan area fokal yang tidak menangkap radioisotop. Gambaran tersebut disebut sebagai Solitary cold nodule. sudah pasti bukan Single hot nodule  in your area karena itu mah iklan disamping iklan zeus",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/33.jpeg"
+  },
+  {
+    "id": "P97",
+    "question": "Apa makna klinis hot nodule?",
+    "options": [
+      "Hot nodule memiliki risiko keganasan lebih tinggi dibandingkan cold nodule sehingga wajib dievaluasi dengan FNAB",
+      "Hot nodule hanya ditemukan pada penderita hipotiroidisme berat akibat Hashimoto thyroiditis",
+      "Hot nodule merupakan area hipometabolik yang tidak mengambil radioisotop pada skintigrafi",
+      "Hot nodule identik dengan kista jinak yang sama sekali tidak memproduksi hormon tiroid",
+      "Hot nodule hampir selalu jinak (area hipermetabolik) dan sangat jarang berisiko ganas (<1%)"
+  ],
+  "correct": 4,
+  "explanation": "Pada skintigrafi tiroid: 'hot' nodule = hipermetabolik (mengambil isotop lebih banyak dari jaringan sekitarnya dan memproduksi hormon, biasanya berupa adenoma toksik). Hot nodule hampir selalu jinak (risiko keganasan <1%), sehingga umumnya tidak memerlukan FNAB. Sebaliknya, 'cold' nodule = hipometabolik (kurang mengambil isotop) dan memiliki risiko keganasan yang lebih tinggi (~10-15%), sehingga membutuhkan evaluasi lebih lanjut dengan biopsi (FNAB).",
+  "category": "Patologi Endokrin (Bergambar)",
+  "img": "Struma Koloides [Goiter]/33.jpeg"
+  },
+  {
+    "id": "P98",
+    "question": "Gambar apakah ketiga sediaan ini?",
+    "options": [
+      "Skintigrafi tiroid",
+      "FNAB-BAJAH",
+      "FNAB",
+      "Pewarnaan Giemsa",
+      "Struma Koloides"
+    ],
+    "correct": 0,
+    "explanation": "Pada skintigrafi tiroid: 'hot' nodule = hipermetabolik (mengambil isotop lebih banyak, biasanya jinak/adenoma toksik). 'Cold' nodule = hipometabolik (tidak/kurang mengambil isotop) — dapat berupa kista atau tumor solid. Cold nodule memiliki risiko keganasan yang lebih tinggi (~10-15%) dibanding hot nodule, sehingga memerlukan evaluasi lebih lanjut dengan FNAB (Fine Needle Aspiration Biopsy/BAJAH).",
     "category": "Patologi Endokrin (Bergambar)",
     "img": "Struma Koloides [Goiter]/33.jpeg"
   }
