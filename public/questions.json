@@ -3,10 +3,10 @@
     "id": "P1",
     "question": "Perhatikan gambar klinis pasien ini. Gambar menunjukkan dua temuan khas pada kondisi ini. Apakah diagnosis dan mekanisme utama penyakit ini?",
     "options": [
-      "Karsinoma papiler tiroid — Keganasan akibat mutasi BRAF V600E yang memicu infiltrasi ekstratiroidal secara cepat",
+      "Struma koloides — Keganasan akibat mutasi BRAF V600E yang memicu infiltrasi ekstratiroidal secara cepat",
       "Tiroiditis Hashimoto — Penyakit autoimun akibat destruksi sel folikuler termediasi sel-T yang memicu hipotiroidisme akut",
       "Struma koloides — Pembesaran difus kelenjar tiroid sekunder akibat defisiensi yodium tanpa disertai kelainan fungsi hormon",
-      "Adenoma tiroid toksik — Neoplasma jinak akibat mutasi somatik reseptor TSH yang mensintesis hormon secara otonom",
+      "Penyakit Graves — Neoplasma jinak akibat mutasi somatik reseptor TSH yang mensintesis hormon secara otonom",
       "Penyakit Graves — Penyakit autoimun akibat imunoglobulin (TSI) yang berikatan dan mengaktivasi reseptor TSH secara kronis"
     ],
     "correct": 4,
