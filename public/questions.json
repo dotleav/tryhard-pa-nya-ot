@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "P1",
+    "question": "Perhatikan gambar klinis pasien ini. Tanda panah menunjukkan dua temuan khas pada kondisi ini. Apakah diagnosis dan mekanisme utama penyakit ini?",
+    "options": [
+      "Hashimoto thyroiditis, akibat defisiensi iodin menyebabkan hipotiroid",
+      "Graves disease, akibat TSI (Thyroid Stimulating Immunoglobulin) yang mengaktivasi reseptor TSH",
+      "Struma koloides, akibat pembesaran difus kelenjar tiroid tanpa disfungsi hormon",
+      "Karsinoma papiler tiroid, akibat mutasi BRAF menyebabkan massa tiroid progresif",
+      "Adenoma tiroid toksik, akibat mutasi somatik reseptor TSH yang otonom"
+    ],
+    "correct": 1,
+    "explanation": "Gambar menunjukkan pasien dengan exophthalmos (proptosis bola mata) dan thyroid mass (pembesaran leher). Ini adalah presentasi klasik Graves disease, penyakit autoimun dimana Thyroid-Stimulating Immunoglobulin (TSI) berikatan dan mengaktivasi reseptor TSH, menyebabkan produksi hormon tiroid berlebihan (hipertiroidisme). Exophthalmos terjadi akibat infiltrasi jaringan retroorbital oleh glikosaminoglikan dan limfosit.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/7.jpeg"
+  },
+  {
+    "id": "P2",
+    "question": "Preparat histopatologi ini berasal dari kelenjar tiroid pasien dengan gejala palpitasi, penurunan berat badan, dan exophthalmos. Gambaran 'moth-eaten' atau scalloped appearance pada tepi koloid menandakan apa?",
+    "options": [
+      "Deposisi amiloid pada folikel tiroid akibat karsinoma meduler",
+      "Resorpsi aktif koloid oleh sel folikel yang hiperaktif akibat stimulasi TSI",
+      "Infiltrasi limfosit yang menghancurkan folikel tiroid pada Hashimoto",
+      "Degenerasi folikel tiroid akibat defisiensi iodin kronik",
+      "Involusi koloid akibat terapi propiltiourasil (PTU)"
+    ],
+    "correct": 1,
+    "explanation": "Gambaran 'moth-eaten' (scalloped appearance) pada tepi koloid merupakan tanda histopatologi khas Graves disease. Hal ini mencerminkan resorpsi aktif koloid yang mengandung tiroglobulin oleh sel epitel folikel kolumnar tinggi yang hiperaktif, didorong oleh stimulasi TSI pada reseptor TSH. Sel epitel tampak tall columnar (tidak kuboid seperti normal) sebagai tanda hiperplasia difus.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/11.jpeg"
+  },
+  {
+    "id": "P3",
+    "question": "Preparat histopatologi ini menunjukkan gambaran tiroid pada hipertiroidisme. Sel-sel epitel folikel tampak seperti apa, dan apa maknanya secara fungsional?",
+    "options": [
+      "Sel kuboid rendah dengan koloid penuh — tanda tiroid inaktif (hipotiroid)",
+      "Sel kolumnar tinggi hiperaktif lining folikel — tanda stimulasi berlebihan pada Graves disease",
+      "Sel oksifilik (Hurthle cell) dengan sitoplasma granular — tanda Hashimoto thyroiditis",
+      "Sel clear (ground glass) dengan nuklei kosong — tanda karsinoma papiler tiroid",
+      "Sel basaloid kecil tanpa koloid — tanda adenoma embrional tiroid"
+    ],
+    "correct": 1,
+    "explanation": "Pada Graves disease, sel folikel tiroid tampak sebagai sel kolumnar tinggi hiperaktif (tall columnar epithelium) yang melapisi folikel-folikel. Ini berbeda dari tiroid normal yang selnya kuboid. Hiperplasia sel kolumnar tinggi ini diinduksi oleh Thyroid-Growth Immunoglobulin (TGI) yang menstimulasi pembesaran kelenjar, sementara TSI menstimulasi produksi hormon berlebihan.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/12.jpeg"
+  },
+  {
+    "id": "P4",
+    "question": "Diagram ini mengilustrasikan patogenesis suatu tiroiditis autoimun. Sel T helper mengaktivasi tiga jalur destruksi tirosit. Kondisi apakah ini, dan autoantibodi mana yang paling sering ditemukan (>95%)?",
+    "options": [
+      "Graves disease; anti-TSH receptor antibody (TSI)",
+      "Hashimoto thyroiditis; anti-thyroid peroxidase (anti-TPO) antibody",
+      "Tiroiditis subakut de Quervain; anti-tiroglobulin IgM",
+      "Tiroiditis Riedel; anti-nuclear antibody (ANA)",
+      "Karsinoma meduler tiroid; anti-calcitonin antibody"
+    ],
+    "correct": 1,
+    "explanation": "Diagram menggambarkan patogenesis Hashimoto thyroiditis (tiroiditis autoimun kronik). Jalur destruksi meliputi: (1) CD8+ cytotoxic T-cell melalui Fas-FasL, (2) CD4+ TH1 cell mengaktivasi makrofag via γ-IFN, dan (3) plasma cell menghasilkan anti-thyroid antibodies. Anti-thyroid peroxidase (anti-TPO) ditemukan pada >95% kasus Hashimoto, menjadikannya marker diagnostik utama.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/18.jpeg"
+  },
+  {
+    "id": "P5",
+    "question": "Gambaran gross patologi ini menunjukkan kelenjar tiroid yang simetris membesar dan noduler kasar. Penampang koronal memperlihatkan nodula-nodula ireguler dengan kapsul intak. Diagnosis apakah ini?",
+    "options": [
+      "Struma multinodular (goiter nodular non-toksik)",
+      "Karsinoma folikuler tiroid dengan invasi kapsul",
+      "Hashimoto thyroiditis — tiroid simetris membesar dengan nodula ireguler dan kapsul intak",
+      "Adenoma folikuler soliter dengan perubahan kistik",
+      "Graves disease — tiroid difus membesar tanpa nodulasi"
+    ],
+    "correct": 2,
+    "explanation": "Gambaran gross Hashimoto thyroiditis: tiroid simetris membesar (berat dapat mencapai 200g) dengan permukaan nodular kasar. Pada penampang koronal tampak nodula-nodula ireguler namun kapsul tetap intak (tidak ada invasi). Parenkim tampak pucat keabuan akibat infiltrasi masif sel mononuklear yang menggantikan jaringan tiroid normal.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/20.jpeg"
+  },
+  {
+    "id": "P6",
+    "question": "Gambaran gross tiroid ini tampak sangat pucat dan kenyal (fleshy whitish). Keterangan menyebutkan gambaran ini menyerupai permukaan potongan kelenjar limfe. Mengapa demikian?",
+    "options": [
+      "Karena terdapat metastasis karsinoma ke kelenjar tiroid membentuk deposit limfoid",
+      "Karena infiltrasi masif sel mononuklear dan pembentukan germinal center pada Hashimoto thyroiditis",
+      "Karena deposisi amiloid difus pada stroma tiroid akibat karsinoma meduler",
+      "Karena nekrosis kaseosa akibat infeksi tuberkulosis kelenjar tiroid",
+      "Karena perdarahan dan fibrosis pada adenoma tiroid yang mengalami infark"
+    ],
+    "correct": 1,
+    "explanation": "Pada Hashimoto thyroiditis, tiroid terinfiltasi secara masif oleh sel-sel mononuklear (limfosit, sel plasma) yang membentuk germinal center seperti kelenjar limfe. Infiltrasi lengkap ini menyebabkan parenkim tiroid tampak sangat pucat (whitish) dan kenyal (fleshy), mirip permukaan potongan kelenjar limfe — berbeda dengan tiroid normal yang merah-cokelat. Ini menjelaskan mengapa Hashimoto meningkatkan risiko limfoma tiroid primer.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/21.jpeg"
+  },
+  {
+    "id": "P7",
+    "question": "Preparat histopatologi ini menunjukkan folikel tiroid yang atrofik dengan infiltrat inflamasi kronik yang menonjol. Sel-sel inflamasi membentuk struktur apa, dan apa signifikansinya?",
+    "options": [
+      "Granuloma epiteloid dengan sel datia Langhans — tanda tiroiditis granulomatosa (de Quervain)",
+      "Lymphoid follicles dengan germinal center — hallmark Hashimoto thyroiditis",
+      "Pseudorosette sel tumor — tanda karsinoma meduler tiroid",
+      "Psammoma bodies (kalsifikasi konsentris) — tanda karsinoma papiler tiroid",
+      "Infiltrat neutrofil difus — tanda tiroiditis bakterial akut"
+    ],
+    "correct": 1,
+    "explanation": "Histopatologi Hashimoto thyroiditis menunjukkan folikel tiroid yang atrofik (kecil dengan sedikit koloid) dan infiltrat sel inflamasi kronik yang membentuk lymphoid follicles dengan prominent germinal centers. Ini merupakan hallmark diagnostik Hashimoto. Selain itu tampak Hurthle cell metaplasia (Askanazy cells) — sel folikel berukuran besar dengan sitoplasma eosinofilik granular akibat proliferasi mitokondria.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/22.jpeg"
+  },
+  {
+    "id": "P8",
+    "question": "Preparat histopatologi ini dari kasus Hashimoto thyroiditis menunjukkan dua zona berbeda. Zona kiri memperlihatkan folikel residual dengan sel-sel tertentu, zona kanan padat limfosit dengan germinal center. Sel apakah yang melapisi folikel residual tersebut?",
+    "options": [
+      "Sel clear (ground glass) — tanda karsinoma papiler tiroid",
+      "Sel kolumnar tinggi hiperaktif — tanda Graves disease",
+      "Hurthle cells (sel oksifilik/Askanazy) dengan sitoplasma eosinofilik granular",
+      "Sel goblet mukus-sekretori — tanda struma ovarii",
+      "Sel C (parafollicular cells) penghasil kalsitonin — tanda karsinoma meduler"
+    ],
+    "correct": 2,
+    "explanation": "Pada Hashimoto thyroiditis, folikel tiroid residual dilapisi oleh Hurthle cells (Askanazy cells / oxyphilic cells) — sel besar dengan sitoplasma eosinofilik granular abundant akibat akumulasi mitokondria abnormal. Ini merupakan metaplasia oksifilik sebagai respons terhadap jejas imunologis kronik. Dense lymphocytic infiltrates dengan germinal centers tampak di background.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/23.jpeg"
+  },
+  {
+    "id": "P9",
+    "question": "Gambar ini menunjukkan pasien dengan pembesaran leher masif (kiri) dan gambaran gross serta histologi (kanan). Gambaran histologi menunjukkan variasi ukuran folikel yang mencolok. Apakah diagnosis ini dan apa ciri khas histologinya?",
+    "options": [
+      "Hashimoto thyroiditis — folikel atrofik uniform dengan infiltrat limfosit",
+      "Non-toxic goiter (struma koloides) — marked variation in follicle size dengan koloid abundant",
+      "Graves disease — folikel uniform dengan epitel kolumnar tinggi dan scalloped colloid",
+      "Adenoma folikuler — folikel seragam dikelilingi kapsul fibrosa tipis",
+      "Karsinoma folikuler — folikel dengan invasi kapsul dan vaskular"
+    ],
+    "correct": 1,
+    "explanation": "Gambaran non-toxic goiter (struma koloides/nodular): klinis tampak pembesaran leher masif, gross tampak tiroid nodular ireguler, dan histologi menunjukkan marked variation in follicle size — dari folikel makro berisi koloid abundant hingga folikel mikro. Ini terjadi karena siklus berulang hiperplasia-involusi akibat fluktuasi kadar TSH, menghasilkan nodula dengan ukuran folikel bervariasi.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/32.jpeg"
+  },
+  {
+    "id": "P10",
+    "question": "Skintigrafi tiroid dengan 99mTc-Technetium ini menunjukkan tiga pola berbeda (A, B, C). Pola B menunjukkan multiple 'hot' nodules, sedangkan pola C menunjukkan solitary 'cold' nodule (ditunjuk panah). Apa makna klinis cold nodule?",
+    "options": [
+      "Cold nodule pasti jinak karena tidak aktif memproduksi hormon tiroid",
+      "Cold nodule memiliki risiko keganasan lebih tinggi dan perlu evaluasi lebih lanjut (FNAB)",
+      "Cold nodule identik dengan adenoma toksik yang memerlukan terapi radioiodin",
+      "Cold nodule hanya ditemukan pada Hashimoto thyroiditis dan tidak memerlukan biopsi",
+      "Cold nodule menandakan goiter endemik akibat defisiensi iodin yang reversibel"
+    ],
+    "correct": 1,
+    "explanation": "Pada skintigrafi tiroid: 'hot' nodule = hipermetabolik (mengambil isotop lebih banyak, biasanya jinak/adenoma toksik). 'Cold' nodule = hipometabolik (tidak/kurang mengambil isotop) — dapat berupa kista atau tumor solid. Cold nodule memiliki risiko keganasan yang lebih tinggi (~10-15%) dibanding hot nodule, sehingga memerlukan evaluasi lebih lanjut dengan FNAB (Fine Needle Aspiration Biopsy/BAJAH).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/33.jpeg"
+  },
+  {
+    "id": "P11",
+    "question": "Gambaran gross goiter nodular non-toksik ini menunjukkan kelenjar yang nodular kasar dengan area fibrosis dan perubahan kistik. Mengapa goiter nodular dapat mengalami perubahan sekunder ini?",
+    "options": [
+      "Akibat transformasi maligna menjadi karsinoma folikuler yang menginvasi stroma",
+      "Akibat siklus berulang hiperplasia-involusi: perdarahan, nekrosis, fibrosis, dan kalsifikasi",
+      "Akibat infiltrasi limfosit masif yang menggantikan parenkim tiroid normal",
+      "Akibat efek radiasi eksternal yang menyebabkan degenerasi stroma",
+      "Akibat defisiensi iodin akut yang menyebabkan nekrosis folikuler difus"
+    ],
+    "correct": 1,
+    "explanation": "Goiter nodular mengalami perubahan sekunder akibat siklus berulang hiperplasia (ketika TSH meningkat) dan involusi (ketika iodine cukup). Siklus berulang ini menyebabkan: (1) perdarahan fokal → hemosiderin, (2) nekrosis → kavitas kistik, (3) fibrosis reaktif → pita fibrosa antar nodula, dan (4) kalsifikasi dystrophik. Hasilnya adalah goiter dengan tampilan 'coarsely nodular' dengan area fibrosis dan cystic change.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/34.jpeg"
+  },
+  {
+    "id": "P12",
+    "question": "Gambar ini menunjukkan multinodular goiter pada penampang gross (kiri) dengan multinodularity dan adenoma folikuler berkapsul, serta histologi (kanan) dengan variasi ukuran folikel. Bagaimana membedakan multinodular goiter dari adenoma folikuler secara histologis?",
+    "options": [
+      "Multinodular goiter memiliki kapsul tebal sempurna; adenoma folikuler tidak berkapsul",
+      "Multinodular goiter: tidak berkapsul, folikel bervariasi, multiple; adenoma folikuler: berkapsul, folikel seragam, soliter",
+      "Keduanya tidak dapat dibedakan secara histologis, hanya dapat dibedakan secara klinis",
+      "Multinodular goiter selalu memiliki Hurthle cell metaplasia; adenoma folikuler tidak",
+      "Adenoma folikuler selalu menunjukkan invasi kapsul; multinodular goiter tidak"
+    ],
+    "correct": 1,
+    "explanation": "Perbedaan histologis kunci: Multinodular goiter — tidak memiliki kapsul yang memisahkan nodula dari jaringan tiroid sekitar, folikel bervariasi ukurannya, multinodular. Adenoma folikuler — memiliki kapsul fibrosa yang utuh memisahkan tumor dari parenkim tiroid, folikel lebih seragam, soliter. Jika gambar menunjukkan 'encapsulated follicular adenoma' dalam konteks multinodular goiter, hal ini tidak jarang — dapat terjadi multiple penyakit dalam satu tiroid.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/35.png"
+  },
+  {
+    "id": "P13",
+    "question": "Preparat histologi ini menunjukkan adenoma folikuler tiroid jenis Embryonal. Folikel-folikel tampak poorly formed dalam pola trabekular. Apa ciri khas Embryonal adenoma dibanding subtipe adenoma folikuler lainnya?",
+    "options": [
+      "Folikel besar penuh koloid (macrofollicular) menyerupai tiroid normal",
+      "Folikel kecil seragam (microfollicular) dalam pola fetal yang teratur",
+      "Pola trabekular dengan folikel poorly formed dan koloid minimal atau tidak ada",
+      "Sel oksifilik abundan dengan sitoplasma granular eosinofilik",
+      "Folikel ukuran bervariasi dengan scalloped colloid dan epitel kolumnar"
+    ],
+    "correct": 2,
+    "explanation": "Embryonal adenoma (subtipe adenoma folikuler) ditandai pola trabekular/solid dengan folikel yang poorly formed dan mengandung sedikit atau tidak ada koloid. Ini merupakan subtipe paling primitif/tidak berdiferensiasi dari adenoma folikuler. Subtipe lain: Fetal adenoma (microfollicular reguler), Simple adenoma (ukuran sedang), Colloid adenoma (macrofollicular), Hurthle cell adenoma (sel oksifilik).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/39.jpeg"
+  },
+  {
+    "id": "P14",
+    "question": "Gambaran gross adenoma folikuler jenis Colloid Adenoma ini menunjukkan massa berkapsul dengan permukaan potongan yang memperlihatkan tiga komponen. Apa ketiga komponen sekunder yang sering ditemukan pada adenoma folikuler tipe colloid?",
+    "options": [
+      "Kalsifikasi, osifikasi, dan metaplasia tulang rawan",
+      "Perdarahan (hemorrhage), fibrosis, dan perubahan kistik (cystic change)",
+      "Nekrosis kaseosa, kalsifikasi dystrophik, dan granuloma",
+      "Hiperplasia epitel, papilari intrakistik, dan psammoma bodies",
+      "Infiltrasi limfosit, germinal center, dan Hurthle cell metaplasia"
+    ],
+    "correct": 1,
+    "explanation": "Adenoma folikuler (terutama tipe colloid) sering mengalami perubahan sekunder akibat pertumbuhan yang relatif avaskular: (1) Hemorrhage — perdarahan intratumoral, (2) Fibrosis — jaringan ikat reaktif, dan (3) Cystic change — kavitas berisi cairan. Ketiga perubahan ini terlihat pada gambaran gross sebagai area gelap (perdarahan), putih (fibrosis), dan kavitas (kistik). Penting: perubahan ini tidak menandakan keganasan.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/40.jpeg"
+  },
+  {
+    "id": "P15",
+    "question": "Gambaran gross ini menunjukkan Follicular Adenoma sebagai solitary well-circumscribed nodule dengan area kistik. Apa ciri gross yang membedakan adenoma folikuler JINAK dari karsinoma folikuler?",
+    "options": [
+      "Adenoma jinak: ada perdarahan intratumoral; karsinoma: tidak ada perdarahan",
+      "Adenoma jinak: kapsul fibrosa utuh tanpa invasi; karsinoma: ada invasi kapsul dan/atau vaskular",
+      "Adenoma jinak: selalu soliter; karsinoma: selalu multipel",
+      "Adenoma jinak: berukuran <2cm; karsinoma: selalu >4cm",
+      "Adenoma jinak: 'cold' nodule pada skintigrafi; karsinoma: 'hot' nodule"
+    ],
+    "correct": 1,
+    "explanation": "Pembeda terpenting adenoma jinak vs karsinoma folikuler adalah INTEGRITAS KAPSUL: Adenoma folikuler jinak — kapsul fibrosa tipis yang utuh, memisahkan tumor dari parenkim tiroid tanpa invasi (kapsul intak seperti yang terlihat pada gambar ini). Karsinoma folikuler — terdapat invasi kapsul (penetrasi penuh kapsul oleh sel tumor) dan/atau invasi vaskular. Secara histologi sel tumor keduanya bisa identik — pembeda hanya ada/tidaknya invasi!",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/41.jpeg"
+  },
+  {
+    "id": "P16",
+    "question": "Preparat histologi adenoma folikuler ini menunjukkan folikel-folikel yang well-differentiated menyerupai parenkim tiroid normal. Apa ciri histologis yang MEMBEDAKAN simple/colloid adenoma dari jaringan tiroid normal di sekitarnya?",
+    "options": [
+      "Sel tumor lebih besar dengan nuklei atipik dan mitosis frequent",
+      "Adanya kapsul fibrosa yang memisahkan tumor dari parenkim sekitar",
+      "Pola folikel yang lebih besar dengan koloid lebih abundant dari normal",
+      "Tidak adanya koloid dalam folikel tumor",
+      "Folikel tumor disertai infiltrat limfositik intratumoral"
+    ],
+    "correct": 1,
+    "explanation": "Pada simple/colloid adenoma folikuler, sel tumor tampak well-differentiated menyerupai tiroid normal (folikel berisi koloid, sel kuboid teratur). Pembedanya dari jaringan tiroid normal di sekitarnya BUKAN sitologi (bisa identik), melainkan adanya KAPSUL FIBROSA yang memisahkan massa tumor dari parenkim tiroid normal yang terkompresi di luar kapsul. Tanpa evaluasi kapsul yang cermat, adenoma folikuler bisa sulit dibedakan dari jaringan tiroid normal.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/42.jpeg"
+  },
+  {
+    "id": "P17",
+    "question": "Preparat histologi Fetal Adenoma ini menunjukkan pola microfollicular yang teratur. Apa yang membedakan Fetal Adenoma dari Embryonal Adenoma secara histologis?",
+    "options": [
+      "Fetal adenoma: sel oksifilik dengan sitoplasma granular; Embryonal: sel clear",
+      "Fetal adenoma: regular pattern of small microfollicles; Embryonal: trabecular dengan folikel poorly formed",
+      "Fetal adenoma: macrofollicular dengan koloid abundant; Embryonal: microfollicular",
+      "Fetal adenoma: memiliki kapsul tebal; Embryonal: tidak berkapsul",
+      "Keduanya identik secara histologis dan hanya dapat dibedakan secara imunohistokimia"
+    ],
+    "correct": 1,
+    "explanation": "Perbedaan histologis subtipe adenoma folikuler: Fetal adenoma — pola microfollicular yang REGULAR (folikel kecil seragam tersusun teratur), menyerupai tiroid fetus, mengandung sedikit koloid. Embryonal adenoma — pola TRABEKULAR dengan folikel poorly formed dan koloid minimal/tidak ada, paling tidak berdiferensiasi. Simple adenoma — folikel ukuran sedang. Colloid adenoma — macrofollicular dengan koloid abundant.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/43.jpeg"
+  },
+  {
+    "id": "P18",
+    "question": "Preparat histologi Hurthle Cell Adenoma ini menunjukkan sel-sel dengan ciri morfologi yang sangat khas. Apa ciri sel Hurthle (Askanazy cell) yang terlihat pada gambar ini?",
+    "options": [
+      "Sel kecil dengan nuklei hiperkromatik padat dan sitoplasma sedikit",
+      "Sel dengan nuklei clear (ground glass) dan pseudoinclusion — tanda keganasan papiler",
+      "Sel besar dengan sitoplasma eosinofilik granular abundant dan nuklei kecil reguler",
+      "Sel mukus-sekretori dengan vakuola sitoplasma besar",
+      "Sel binukleat dengan nuklei vesikular dan nukleolus prominent"
+    ],
+    "correct": 2,
+    "explanation": "Hurthle cells (Askanazy cells / oxyphilic cells) memiliki ciri khas: sel berukuran besar, sitoplasma EOSINOFILIK GRANULAR ABUNDANT (akibat akumulasi mitokondria abnormal yang banyak), nuklei kecil reguler. Gambaran ini terlihat jelas pada preparat — sel-sel besar dengan sitoplasma merah muda granular. Hurthle cell adenoma adalah subtipe adenoma folikuler; dapat juga ditemukan sebagai Hurthle cell carcinoma (dengan invasi kapsul/vaskular).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/44.jpeg"
+  },
+  {
+    "id": "P19",
+    "question": "Gambar ini menunjukkan gambaran gross (kiri) dan FNAB/BAJAH (kanan) Papillary Thyroid Carcinoma. Pada pemeriksaan FNAB, sel-sel tumor PTC memperlihatkan gambaran nuklei yang sangat khas. Apa gambaran nuklei tersebut?",
+    "options": [
+      "Nuklei hiperkromatik dengan mitosis frequent dan nekrosis — tanda keganasan high-grade",
+      "Nuklei 'Orphan Annie eye' (ground glass / empty appearing) dengan nuclear groove dan pseudoinclusion",
+      "Nuklei vesikular besar dengan nukleolus prominent — tanda karsinoma folikuler",
+      "Nuklei elongated basaloid — tanda karsinoma meduler tiroid",
+      "Nuklei kecil uniform tanpa atipik — tanda adenoma folikuler jinak"
+    ],
+    "correct": 1,
+    "explanation": "Ciri nuklei khas PTC pada FNAB (BAJAH): (1) 'Orphan Annie eye' nuclei — nuklei tampak kosong/clear (ground glass) akibat dispersi kromatinhalus, (2) Nuclear grooves — lekukan longitudinal pada nuklei, (3) Intranuclear pseudoinclusions — invaginasi sitoplasma ke dalam nuklei. Ketiga gambaran ini merupakan hallmark diagnostik PTC yang dapat ditemukan baik pada FNAB maupun biopsi histologis. PTC adalah kanker tiroid terbanyak (90%).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/50_gross.jpeg"
+  },
+  {
+    "id": "P20",
+    "question": "Gambaran gross PTC ini menunjukkan cut surface dengan circumscribed pale tan mass dan foci cystic change. PTC berbeda dari karsinoma folikuler dalam hal pola penyebaran. Bagaimana PTC biasanya menyebar?",
+    "options": [
+      "Invasi vaskular ke organ jauh (paru, tulang) — seperti karsinoma folikuler",
+      "Invasi limfatik ke kelenjar limfe regional — berbeda dari karsinoma folikuler",
+      "Penyebaran hematogen ke otak dan hati",
+      "Invasi lokal ke trakea dan esofagus tanpa metastasis jauh",
+      "PTC tidak bermetastasis — selalu confined to thyroid"
+    ],
+    "correct": 1,
+    "explanation": "PTC khas menyebar melalui INVASI LIMFATIK ke kelenjar limfe regional leher (cervical nodes) — berbeda dari karsinoma folikuler yang cenderung invasi vaskular ke organ jauh (paru, tulang). Meskipun PTC sering bermetastasis ke KGB, prognosisnya tetap excellent (>90% 10-year survival) bahkan dengan KGB positif. Ini karena PTC umumnya growing slowly dan responsif terhadap terapi (surgery + radioiodine).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/51.jpeg"
+  },
+  {
+    "id": "P21",
+    "question": "Preparat histologi ini menunjukkan dua gambaran PTC: kiri (B) — well-formed papillae, kanan (C) — 'Orphan Annie eye' atau ground glass nuclei. Apa struktur papilla pada PTC secara histologis?",
+    "options": [
+      "Papilla tanpa sumbu fibrovaskular, dilapisi sel skuamosa berlapis",
+      "Papilla dengan sumbu fibrovaskular (fibrovascular core), dilapisi sel kolumnar dengan nuklei ground-glass",
+      "Papilla berisi sel lendir (goblet cells) dengan vakuola besar",
+      "Papilla dilapisi sel oksifilik (Hurthle cells) dengan sitoplasma granular",
+      "Papilla tanpa sel lapisan (free-floating papillae tanpa epitel)"
+    ],
+    "correct": 1,
+    "explanation": "Struktur papilla PTC: finger-like projections dengan FIBROVASCULAR CORE (sumbu jaringan ikat berisi pembuluh darah), dilapisi sel tumor kolumnar/kuboid dengan nuklei khas (ground-glass/Orphan Annie eye, nuclear grooves, pseudoinclusion). Gambaran B menunjukkan well-formed papillae sedangkan C menunjukkan nuklei ground-glass khas PTC. Psammoma bodies (kalsifikasi konsentris laminasi) juga sering ditemukan dan patognomonik PTC.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/52_Well-formed.jpeg"
+  },
+  {
+    "id": "P22",
+    "question": "Preparat histologi PTC ini menunjukkan branching papillae dilapisi epitel kolumnar neoplastik dengan nuklei clear, dan terdapat badan bulat hitam-gelap (ditunjuk panah). Struktur apa itu dan apa maknanya?",
+    "options": [
+      "Corpora amylacea — deposit glikoprotein jinak pada parenkim tiroid normal",
+      "Psammoma body (calcospherite) — kalsifikasi konsentris laminasi yang patognomonik PTC",
+      "Cristae di dalam mitokondria Hurthle cells — tanda metaplasia oksifilik",
+      "Hematoksilin body — deposit DNA dari sel yang mengalami apoptosis",
+      "Asteroid body — tanda tiroiditis granulomatosa sarkoidosis"
+    ],
+    "correct": 1,
+    "explanation": "Psammoma bodies (calcospherites) adalah badan kalsifikasi konsentris laminasi berbentuk bulat, tampak basofilik gelap pada H&E. Terbentuk akibat kalsifikasi bertahap pada pusat papilla yang nekrotik. Psammoma bodies sangat karakteristik PTC dan dianggap patognomonik — jika ditemukan di KGB leher tanpa tumor yang jelas, pikirkan PTC tersembunyi. Tersendiri ini tidak cukup untuk diagnosis PTC (perlu nuklei khas).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/53_Branching Papilae.jpeg"
+  },
+  {
+    "id": "P23",
+    "question": "Preparat histologi ini menunjukkan papillary carcinoma tiroid dengan branching papillae. Karsinoma papiler tiroid memiliki mutasi molekuler yang khas. Mutasi/rearrangement mana yang PALING sering ditemukan pada PTC?",
+    "options": [
+      "RAS mutation (NRAS codon 61) — paling sering pada karsinoma folikuler",
+      "PAX8-PPARγ1 fusion gene — khas karsinoma folikuler",
+      "BRAF V600E mutation dan RET/PTC rearrangement — khas PTC",
+      "MEN1 gene mutation — khas tumor neuroendokrin multipel",
+      "KRAS mutation — khas adenokarsinoma pankreas"
+    ],
+    "correct": 2,
+    "explanation": "Mutasi khas PTC: (1) BRAF V600E mutation — ditemukan pada 1/3-1/2 kasus PTC, paling sering pada PTC klasik; (2) RET/PTC rearrangement — ditemukan pada ~1/5 kasus, lebih sering pada anak-anak dan kasus post-radiasi; (3) RAS mutations — kurang sering. BRAF V600E dikaitkan dengan prognosis lebih buruk (ekstrakapsuler, rekurensi). Berbeda dengan karsinoma folikuler yang khas RAS mutation dan PAX8-PPARγ1 fusion.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/54.jpeg"
+  },
+  {
+    "id": "P24",
+    "question": "Preparat histologi ini menunjukkan PTC dengan papilla-papilla berliku. Perhatikan sel-sel yang melapisi papilla. Pada pembesaran lebih tinggi, nuklei PTC memiliki ciri 'Orphan Annie Eye'. Mengapa nuklei PTC tampak kosong/clear pada H&E?",
+    "options": [
+      "Akibat nekrosis sel tumor yang menyisakan nuklei kosong (ghost cells)",
+      "Akibat dispersi kromatin yang halus dan marginasi ke tepi membran nuklei, bukan konsentrasi di sentral",
+      "Akibat akumulasi glikogen dalam nuklei yang mendorong kromatin ke tepi",
+      "Akibat artefak fiksasi formalin yang menyebabkan clearing nuklei artifisial",
+      "Akibat invasi virus HPV yang menginduksi koilosit dengan nuklei clear"
+    ],
+    "correct": 1,
+    "explanation": "Nuklei 'ground glass' / 'Orphan Annie eye' pada PTC terjadi akibat DISPERSI KROMATIN YANG HALUS (finely dispersed chromatin) dan marginasi ke membran nuklei — bukan konsentrasi kromatin di sentral seperti nuklei normal. Ini menyebabkan nuklei tampak 'kosong' atau 'ground glass' pada H&E. Nama 'Orphan Annie' terinspirasi dari karakter komik Little Orphan Annie (NYT 1926) yang memiliki mata kosong tanpa pupil.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/56.jpg"
+  },
+  {
+    "id": "P25",
+    "question": "Preparat histologi ini menunjukkan PTC. Karsinoma papiler tiroid memiliki prognosis yang berbeda dari karsinoma tiroid lainnya. Manakah pernyataan yang BENAR tentang prognosis PTC?",
+    "options": [
+      "PTC memiliki prognosis paling buruk di antara semua kanker tiroid karena bermetastasis jauh",
+      "PTC memiliki prognosis excellent (>90% 10-year survival) bahkan dengan metastasis KGB regional",
+      "PTC dan karsinoma folikuler memiliki prognosis identik karena keduanya well-differentiated",
+      "PTC selalu fatal jika terjadi pada pasien >45 tahun karena staging otomatis meningkat",
+      "PTC dengan BRAF mutation memiliki prognosis sangat baik karena responsif kemoterapi"
+    ],
+    "correct": 1,
+    "explanation": "PTC memiliki prognosis EXCELLENT: 10-year survival >90% bahkan ketika KGB regional terlibat. Ini berbeda dari karsinoma folikuler (metastasis vaskular ke organ jauh, prognosis lebih buruk) dan karsinoma anaplastik (hampir selalu fatal dalam bulan). PTC yang terbatas (intratiroid, <4cm) pada pasien <45 tahun memiliki survival hampir 100%. Prognosis lebih buruk: invasi ekstrakapsuler, ukuran besar, usia >45 tahun, dan adanya mutasi BRAF V600E.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/58.jpg"
+  },
+  {
+    "id": "P26",
+    "question": "Preparat histologi ini menunjukkan PTC dengan papilla kompleks. PTC adalah kanker tiroid tersering (90%). Faktor risiko mana yang PALING kuat berkaitan dengan perkembangan PTC?",
+    "options": [
+      "Defisiensi iodin kronik — merupakan faktor risiko utama PTC dan karsinoma folikuler sama kuat",
+      "Riwayat paparan radiasi ionisasi pada leher/kepala — meningkatkan risiko PTC signifikan",
+      "Konsumsi goitrogen (sawi, kol) jangka panjang tanpa pengobatan",
+      "Riwayat Hashimoto thyroiditis berat yang meningkatkan risiko PTC secara langsung",
+      "Hipertiroidisme yang tidak diobati menyebabkan transformasi maligna folikel tiroid"
+    ],
+    "correct": 1,
+    "explanation": "Faktor risiko terkuat PTC: PAPARAN RADIASI IONISASI — terutama radiasi kepala/leher pada masa kanak-kanak (radiasi terapeutik, fallout nuklir seperti Chernobyl menyebabkan lonjakan PTC pada anak-anak). Radiasi menginduksi rearrangement RET/PTC. Faktor lain: kelebihan iodin (berbeda dari defisiensi iodin yang lebih meningkatkan risiko karsinoma folikuler), dan faktor genetik (first-degree relatives 4-10x risiko lebih tinggi).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/59.jpg"
+  },
+  {
+    "id": "P27",
+    "question": "Preparat histologi ini memperlihatkan PTC dengan papilla-papilla dan folikel. Karsinoma papiler tiroid dapat memiliki beberapa varian histologis. Varian mana yang memiliki prognosis PALING BURUK?",
+    "options": [
+      "Varian klasik (conventional) PTC — prognosis paling buruk karena paling sering",
+      "Varian folikuler PTC (follicular variant) — prognosis buruk karena sulit dibedakan dari adenoma",
+      "Varian tall cell PTC — prognosis lebih buruk, agresif, sering rekurensi dan metastasis jauh",
+      "Varian microcarcinoma PTC (<1cm) — prognosis paling buruk karena tidak terdeteksi",
+      "Varian diffuse sclerosing PTC — prognosis sangat baik meskipun presentasi dramatis"
+    ],
+    "correct": 2,
+    "explanation": "Varian histologis PTC dengan prognosis lebih buruk: TALL CELL VARIANT — sel tumor berbentuk kolumnar tinggi (tinggi 2-3x lebar), sitoplasma eosinofilik, lebih sering terjadi invasi vaskular, ekstrakapsuler, dan metastasis jauh. Tall cell variant dikaitkan dengan BRAF V600E yang lebih sering dan rekurensi lebih tinggi. Varian klasik memiliki prognosis excellent. Varian mikrokarsinoma (<1cm) justru prognosis terbaik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/60.jpg"
+  },
+  {
+    "id": "P28",
+    "question": "Preparat histologi ini menunjukkan metastasis PTC ke kelenjar limfe. Keterangan menyebutkan bahwa meskipun ada metastasis ini, prognosis tetap baik. Mengapa PTC dengan metastasis KGB masih bisa berprognosis baik?",
+    "options": [
+      "Karena PTC tidak pernah menyebar ke organ vital sehingga tidak mengancam jiwa",
+      "Karena PTC well-differentiated, growing slowly, dan responsif terhadap terapi (tiroidektomi + radioiodine)",
+      "Karena metastasis KGB pada PTC selalu bisa direseksi sempurna dengan limfadenektomi",
+      "Karena sistem imun naturally dapat mengeliminasi sel PTC yang bermetastasis ke KGB",
+      "Karena PTC yang bermetastasis ke KGB selalu mengalami regresi spontan"
+    ],
+    "correct": 1,
+    "explanation": "PTC berprognosis baik meskipun ada metastasis KGB karena: (1) Well-differentiated — masih memiliki kemampuan mengambil radioiodine (¹³¹I), sehingga metastasis dapat diablasi dengan terapi radioiodine pasca tiroidektomi total; (2) Growing slowly — tidak invasif secara biologis; (3) Responsif terhadap supresi TSH dengan levothyroxine. Kombinasi tiroidektomi total + radioiodine ablation + TSH suppression memberikan kontrol excellent bahkan pada penyakit metastatik regional.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/61.jpg"
+  },
+  {
+    "id": "P29",
+    "question": "Preparat histologi Insulinoma ini (IHC staining) menunjukkan sel-sel berwarna cokelat dalam pola ribbon/trabecular menyerupai sel islet Langerhans normal. Insulinoma ditandai oleh Whipple's triad. Apa komponen Whipple's triad?",
+    "options": [
+      "(1) Hiperglikemia episodik, (2) Gejala CNS saat gula tinggi, (3) Membaik dengan injeksi insulin",
+      "(1) Hiperinsulinemia dan hipoglikemia episodik, (2) Disfungsi CNS saat hipoglikemia, (3) Reversal dengan pemberian glukosa",
+      "(1) Hipoglikemia puasa, (2) Gejala adrenergik, (3) Membaik spontan tanpa intervensi",
+      "(1) Kadar insulin rendah, (2) C-peptide rendah, (3) Hipoglikemia setelah makan",
+      "(1) Tumor pankreas >3cm, (2) Metastasis hepar, (3) Hipoglikemia refrakter"
+    ],
+    "correct": 1,
+    "explanation": "Whipple's triad pada Insulinoma: (1) Episodic hyperinsulinemia dengan HIPOGLIKEMIA (gula darah rendah), (2) Gejala CNS temporal dengan hipoglikemia (confusion, anxiety, stupor, convulsion, coma — akibat neuroglycopenia), (3) Dramatic REVERSAL gejala CNS dengan pemberian glukosa. Insulinoma adalah tumor sel islet terbanyak, menghasilkan insulin berlebih. Sebagian besar (90%) jinak dan soliter.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Neuroendokrin Pankreas/65_Insulinoma_ribbon or brown stained cells resembling those of the normal islet of Langerhans.jpeg"
+  },
+  {
+    "id": "P30",
+    "question": "Preparat histologi ini menunjukkan Pancreatic Intraepithelial Neoplasia (PanIN): low grade (A, kiri) dan high grade (B, kanan). PanIN adalah lesi prekursor adenokarsinoma pankreas. Apa perbedaan utama PanIN low grade vs high grade?",
+    "options": [
+      "PanIN low grade: sel atipik berat dengan mitosis; PanIN high grade: sel normal tanpa atipik",
+      "PanIN low grade: arsitektur flat/undulasi minimal, sel relatif normal; PanIN high grade: arsitektur papilari kompleks, atipik nuklei berat, mitosis",
+      "PanIN low grade sudah invasif; PanIN high grade masih in situ",
+      "PanIN low grade: multifokal; PanIN high grade: selalu soliter",
+      "Keduanya memiliki prognosis identik karena sama-sama berkembang menjadi kanker"
+    ],
+    "correct": 1,
+    "explanation": "PanIN (Pancreatic Intraepithelial Neoplasia) adalah lesi prekursor adenokarsinoma pankreas dalam duktus kecil: PanIN low grade (sebelumnya PanIN-1,2) — arsitektur flat/papilari sederhana, sel kolumnar dengan musin apical, atipik nuklei minimal. PanIN high grade (sebelumnya PanIN-3/carcinoma in situ) — arsitektur papilari kompleks/cribriform, atipik nuklei berat, kehilangan polaritas sel, mitosis — seperti gambar B. Progresi: KRAS mutation (early) → CDKN2A → TP53/SMAD4 loss.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/68.jpeg"
+  },
+  {
+    "id": "P31",
+    "question": "Preparat histologi ini menunjukkan subtipe-subtipe Intraductal Papillary Mucinous Neoplasm (IPMN) pankreas: gastric (C), intestinal (D), pancreatobiliary (E), dan oncocytic (F). IPMN adalah lesi kistik pankreas berpotensi maligna. Subtipe IPMN mana yang memiliki risiko keganasan TERTINGGI?",
+    "options": [
+      "Subtipe gastrik (C) — paling sering, risiko keganasan tertinggi",
+      "Subtipe onkositik (F) — sel oksifilik agresif, selalu maligna",
+      "Subtipe pankreatobilier (E) dan intestinal (D) — risiko lebih tinggi dari subtipe gastrik",
+      "Subtipe intestinal (D) saja yang memiliki risiko keganasan signifikan",
+      "Semua subtipe IPMN memiliki risiko keganasan identik sehingga tidak perlu dibedakan"
+    ],
+    "correct": 2,
+    "explanation": "Subtipe IPMN dan risiko keganasan: Gastric type (C) — paling sering, risiko RENDAH (biasanya low-grade, jarang invasif). Intestinal type (D) — risiko SEDANG-TINGGI, jika invasif biasanya koloid karsinoma. Pancreatobiliary type (E) — risiko TINGGI, jika invasif berupa tubular/ductal adenocarcinoma, prognosis buruk. Oncocytic type (F) — langka, perilaku intermediate. Prinsip: 'main duct IPMN' (melibatkan ductus Wirsung) memiliki risiko maligna lebih tinggi dari 'branch duct IPMN'.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/69.jpg"
+  },
+  {
+    "id": "P32",
+    "question": "Preparat histologi ini menunjukkan variasi morfologi tumor kistik pankreas: invasive carcinoma dari IPMN (G, H) dan mucinous cystic neoplasm (I, J). Apa ciri khas Mucinous Cystic Neoplasm (MCN) pankreas yang membedakannya dari IPMN?",
+    "options": [
+      "MCN selalu berhubungan dengan ductus pankreatikus utama; IPMN tidak",
+      "MCN memiliki ovarian-type stroma di bawah epitel musinosa; IPMN tidak",
+      "MCN selalu jinak dan tidak pernah berkembang menjadi karsinoma invasif",
+      "MCN hanya ditemukan pada pria lanjut usia; IPMN pada wanita muda",
+      "MCN menghasilkan musin intraselular; IPMN menghasilkan musin ekstraselular"
+    ],
+    "correct": 1,
+    "explanation": "Ciri khas MCN pankreas yang membedakannya: adanya OVARIAN-TYPE STROMA di bawah epitel musinosa neoplastik — stroma seluler yang menyerupai stroma ovarium dengan sel spindle. Ini terlihat pada gambar I dan J. MCN juga: hampir eksklusif pada wanita (99%), biasanya di korpus/ekor pankreas, TIDAK berhubungan dengan ductus pankreatikus (berbeda dari main-duct IPMN). Risiko keganasan tergantung derajat dysplasia epitel.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/70.jpg"
+  },
+  {
+    "id": "P33",
+    "question": "Gambaran gross ini menunjukkan Adenoma Hipofisis yang menyebabkan hiperpituitarisme, terlihat sebagai massa soft well-circumscribed confined to sella turcica. Adenoma hipofisis diklasifikasikan berdasarkan sel yang diproduksi. Tipe adenoma mana yang PALING SERING?",
+    "options": [
+      "ACTH cell adenoma (corticotroph) menyebabkan Cushing disease",
+      "TSH cell adenoma (thyrotroph) menyebabkan hipertiroidisme sekunder",
+      "Prolactin cell adenoma (lactotroph) menyebabkan hiperprolaktinemia",
+      "GH cell adenoma (somatotroph) menyebabkan akromegali/gigantisme",
+      "Hormone-negative (null cell) adenoma tanpa gejala endokrin"
+    ],
+    "correct": 2,
+    "explanation": "Prolactin cell adenoma (lactotroph adenoma / prolactinoma) adalah adenoma hipofisis TERSERING. Presentasi: hiperprolaktinemia menyebabkan galaktore, amenore/oligomenore pada wanita, dan disfungsi seksual/infertilitas pada pria. Gambaran gross: adenoma hipofisis umumnya soft, well-circumscribed, confined to sella turcica (microadenoma <1cm) atau dapat menginvasi sella (macroadenoma >1cm). Terapi prolaktinoma: dopamine agonist (cabergoline, bromocriptine).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/76.jpeg"
+  },
+  {
+    "id": "P34",
+    "question": "Preparat histologi adenoma hipofisis ini menunjukkan monotonous population of polygonal cells lacking significant reticulin framework. Apa makna hilangnya reticulin framework pada adenoma hipofisis dibanding jaringan hipofisis normal?",
+    "options": [
+      "Hilangnya reticulin menandakan nekrosis tumor yang luas akibat infark pituitari",
+      "Hilangnya reticulin pada adenoma vs jaringan normal merupakan pembeda diagnostik kunci antara adenoma dan hiperplasia pituitari normal",
+      "Hilangnya reticulin menandakan transformasi maligna menjadi karsinoma hipofisis",
+      "Reticulin hanya ditemukan pada hipofisis janin, tidak pada hipofisis dewasa normal",
+      "Hilangnya reticulin merupakan artefak pewarnaan tanpa makna diagnostik"
+    ],
+    "correct": 1,
+    "explanation": "Reticulin fiber framework pada jaringan hipofisis NORMAL: membentuk jaringan reticulin yang mengelilingi setiap asinus (kelompok sel) hipofisis (acinar checkerboard pattern). Pada ADENOMA HIPOFISIS: reticulin framework HILANG/terganggu — sel tumor membentuk lembaran/sheets monoton dari sel poligonal uniform tanpa organisasi asinar. Ini adalah pembeda histologis kunci pada pewarnaan reticulin: adenoma (breakdown reticulin) vs hiperplasia/normal (reticulin intak). Monotonous population adalah ciri diagnostik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/77.jpeg"
+  },
+  {
+    "id": "P35",
+    "question": "Preparat histologi ini menunjukkan dua gambaran adenoma hipofisis: (A) nuclear pleomorphism, (B) mitoses pada macroadenoma. Keterangan menyebutkan nuclear pleomorphism tidak memiliki makna prognosis pada adenoma hipofisis. Mengapa?",
+    "options": [
+      "Karena nuclear pleomorphism pada adenoma hipofisis selalu menandakan karsinoma hipofisis",
+      "Karena nuclear pleomorphism merupakan temuan normal pada semua sel kelenjar endokrin",
+      "Karena pada adenoma hipofisis, nuclear pleomorphism tidak berkorelasi dengan behavior maligna — tidak seperti tumor epithelial lain",
+      "Karena adenoma hipofisis tidak pernah berkembang menjadi karsinoma sehingga pleomorfisme tidak relevan",
+      "Karena nuclear pleomorphism hanya terjadi pada null cell adenoma yang selalu jinak"
+    ],
+    "correct": 2,
+    "explanation": "Pada adenoma hipofisis, NUCLEAR PLEOMORPHISM bukan marker keganasan — berbeda dari tumor epithelial lain di mana pleomorfisme mengindikasikan high-grade malignancy. Hal ini karena adenoma hipofisis secara inheren memiliki variasi nuklei tanpa korelasi klinis. Karsinoma hipofisis (sangat langka) TIDAK dapat dibedakan dari adenoma berdasarkan histologi saja — hanya dapat didiagnosis karsinoma jika ada METASTASIS (serebro-spinal atau sistemik). Mitosis lebih sering pada macroadenoma namun juga tidak selalu bermakna maligna.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/78.jpeg"
+  },
+  {
+    "id": "P36",
+    "question": "Preparat histologi ini menunjukkan Pituitary Adenoma sebagai monotonous population of polygonal cells in sheets dengan loss of reticulin fiber framework. Dibandingkan dengan gambar normal pituitary acinar checkerboard yang menunjukkan diversity of cells, apa perbedaan utama yang terlihat?",
+    "options": [
+      "Adenoma: sel bervariasi (acidophils, basophils); Normal: sel monoton uniform",
+      "Adenoma: sel monoton uniform dalam lembaran tanpa asinus; Normal: sel bervariasi dalam acinar pattern dengan reticulin intak",
+      "Adenoma: tidak ada pembuluh darah; Normal: banyak kapiler di antara sel",
+      "Adenoma: sel berukuran sangat besar (giant cells); Normal: sel kecil uniform",
+      "Adenoma: banyak mitosis; Normal: tidak ada mitosis"
+    ],
+    "correct": 1,
+    "explanation": "Perbedaan kunci adenoma vs normal hipofisis: ADENOMA — monotonous population of polygonal cells yang identik membentuk sheets/lembaran tanpa organisasi asinar, reticulin framework hilang/breakdown. NORMAL (acinar checkerboard) — diverse cell population (acidophils dan basophils dengan berbagai intensitas staining), tersusun dalam asinus-asinus yang dibatasi reticulin network yang intak. Keberagaman sel normal mencerminkan berbagai tipe sel (somatotroph, lactotroph, corticotroph, dll.) yang bekerja secara terkoordinasi.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/79.jpeg"
+  },
+  {
+    "id": "P37",
+    "question": "Gambar normal pituitary acinar checkerboard ini menunjukkan sel-sel hipofisis anterior dengan keberagaman acidophils dan basophils dalam pola asinar. Ada 5 jenis sel hipofisis anterior. Sel SOMATOTROPH (acidophil) menghasilkan hormon apa, dan disfungsi apa yang terjadi jika mengalami adenoma sebelum vs sesudah penutupan lempeng epifisis?",
+    "options": [
+      "TSH; sebelum epifisis menutup → hipertiroidisme, sesudah → tidak ada efek",
+      "GH; sebelum epifisis menutup → gigantisme, sesudah epifisis menutup → akromegali",
+      "Prolaktin; sebelum epifisis menutup → galaktore neonatal, sesudah → sindrom amenore-galaktore",
+      "ACTH; sebelum epifisis menutup → Cushing disease infantil, sesudah → Cushing disease dewasa",
+      "FSH/LH; sebelum epifisis menutup → pubertas prekoks, sesudah → infertilitas"
+    ],
+    "correct": 1,
+    "explanation": "Sel SOMATOTROPH (acidophil, ~50% sel hipofisis anterior) menghasilkan Growth Hormone (GH/Somatotropin). Adenoma somatotroph menyebabkan GH berlebih dengan manifestasi berbeda tergantung status lempeng epifisis: Sebelum epifisis menutup (anak/remaja) → GIGANTISME (pertumbuhan tinggi badan ekstrem, dapat mencapai >2m). Sesudah epifisis menutup (dewasa) → AKROMEGALI (pertumbuhan akral — tangan, kaki, wajah membesar; prominensi orbita, pembesaran rahang/mandibula, jari-jari memanjang).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/80.jpeg"
+  },
+  {
+    "id": "P38",
+    "question": "Preparat histopatologi ini memperlihatkan folikel-folikel tiroid dengan epitel kolumnar tinggi, 'scalloped colloid', dan infiltrasi limfosit perifolikuler ringan. Dari penyakit apakah preparat ini berasal?",
+    "options": [
+      "Hashimoto Thyroiditis — folikel dengan Hürthle cell metaplasia dan germinal center",
+      "Grave Disease — folikel dengan epitel kolumnar tinggi, scalloped colloid, dan hiperplasia epitel folikel akibat stimulasi TSH-R oleh antibodi TSI",
+      "Struma Koloides — folikel besar berisi koloid abundant, epitel gepeng/kuboid",
+      "Adenoma Folikuler Tiroid — folikel berkapsul dengan epitel uniform tanpa kapsul infiltrasi",
+      "Karsinoma Folikuler Tiroid — folikel dengan invasi kapsul dan vaskular"
+    ],
+    "correct": 1,
+    "explanation": "Gambaran khas Grave Disease: folikel tiroid dengan epitel kolumnar tinggi (tall columnar), koloid yang terlihat 'scalloped' atau bergelombang di tepi (akibat endositosis aktif), dan papilla intrafolikuler (Sanderson polster). Patofisiologi: antibodi TSI (Thyroid Stimulating Immunoglobulin) merangsang reseptor TSH → hiperplasia dan hiperfungsi epitel folikel → peningkatan produksi T3/T4.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/11.jpeg"
+  },
+  {
+    "id": "P39",
+    "question": "Preparat histopatologi ini menunjukkan kelenjar tiroid dengan infiltrasi limfosit masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel eosinofilik besar dengan sitoplasma granular). Ini adalah gambaran dari?",
+    "options": [
+      "Grave Disease — folikel hiperplastik dengan epitel kolumnar dan scalloped colloid",
+      "Karsinoma Papiler Tiroid — papilla dengan fibrovascular core dan nuklei ground-glass",
+      "Hashimoto Thyroiditis — tiroiditis autoimun kronik dengan infiltrat limfoplasmasitik, germinal center, dan Hürthle cell metaplasia",
+      "Tiroiditis De Quervain (granulomatous) — granuloma dengan sel giant dan destruksi folikel",
+      "Struma Koloides — folikel bervariasi ukuran dengan koloid abundant"
+    ],
+    "correct": 2,
+    "explanation": "Hashimoto Thyroiditis: gambaran histopatologi khas adalah (1) infiltrasi limfosit dan sel plasma masif membentuk germinal center, (2) Hürthle cell metaplasia/oncocytic change (sel besar eosinofilik dengan mitokondria abundant), (3) atrofi folikel dan fibrosis interstitial, (4) destruksi arsitektur normal tiroid. Autoimun: anti-TPO dan anti-tiroglobulin positif → hipotiroidisme.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/22.jpeg"
+  },
+  {
+    "id": "P40",
+    "question": "Sediaan histopatologi ini menampilkan nodul tunggal berkapsul dengan folikel-folikel berukuran bervariasi berisi koloid, kapsul fibrosa tipis yang utuh, dan tanpa invasi kapsul maupun invasi vaskular. Diagnosis paling tepat adalah?",
+    "options": [
+      "Karsinoma Folikuler Tiroid — invasi kapsul dan/atau vaskular adalah kriteria utama",
+      "Adenoma Folikuler Tiroid — nodul berkapsul, folikel well-differentiated, kapsul UTUH tanpa invasi",
+      "Struma Koloides — pembesaran difus atau multinodular tanpa kapsul sejati",
+      "Grave Disease — folikel dengan scalloped colloid dan Sanderson polster",
+      "PTC (Papillary Thyroid Carcinoma) — papilla dengan nuklei ground-glass dan psammoma bodies"
+    ],
+    "correct": 1,
+    "explanation": "Adenoma Folikuler Tiroid: nodul soliter berkapsul dengan folikel well-differentiated menyerupai tiroid normal. KUNCI pembeda dari Karsinoma Folikuler: kapsul UTUH tanpa invasi kapsul (capsular invasion) dan tanpa invasi vaskular. Secara klinis: nodul soliter, kenyal, tidak nyeri, cold nodule pada skintigrafi, eutiroid pada sebagian besar kasus.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/42.jpeg"
+  },
+  {
+    "id": "P41",
+    "question": "Sediaan ini menunjukkan struktur papilari dengan fibrovascular core yang bercabang-cabang, dilapisi sel epitel dengan nuklei ovoid pucat 'ground-glass' (Orphan Annie eye nuclei), alur nuklei (nuclear grooves), pseudoinklusi intranuklei, dan psammoma bodies. Ini adalah gambaran dari?",
+    "options": [
+      "Karsinoma Folikuler Tiroid — folikel dengan invasi kapsul dan vaskular, tidak ada papilla",
+      "Adenoma Folikuler Tiroid — folikel berkapsul tanpa gambaran nuklei ground-glass",
+      "Karsinoma Papiler Tiroid (PTC) — papilla bercabang, nuklei ground-glass (Orphan Annie), nuclear grooves, pseudoinklusi, psammoma bodies",
+      "Grave Disease — papilla intrafolikuler (Sanderson polster) tanpa fibrovascular core sejati",
+      "Hashimoto Thyroiditis — folikel atrofi dengan Hürthle cell metaplasia dan limfosit"
+    ],
+    "correct": 2,
+    "explanation": "PTC (Papillary Thyroid Carcinoma): diagnosis ditegakkan terutama berdasarkan gambaran NUKLEI, bukan pola pertumbuhan papilari. Nuklei khas PTC: (1) ground-glass/Orphan Annie eye nuclei, (2) nuclear grooves, (3) pseudoinklusi intranuklei. Ditambah: papilla dengan fibrovascular core sejati, psammoma bodies (kalsifikasi lamelar konsentrik). Prognosis umumnya sangat baik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/53_Branching Papilae.jpeg"
+  },
+  {
+    "id": "P42",
+    "question": "Preparat ini memperlihatkan kelenjar tiroid dengan folikel-folikel berukuran sangat bervariasi (mikro hingga makrofolikel), koloid abundant, epitel folikel gepeng hingga kuboid, tanpa kapsul sejati. Gambaran ini paling sesuai dengan?",
+    "options": [
+      "Adenoma Folikuler — harus ada kapsul fibrosa utuh",
+      "Karsinoma Folikuler — harus ada bukti invasi kapsul/vaskular",
+      "Struma Koloides (Non-toxic Goiter) — folikel bervariasi ukuran, koloid abundant, tanpa kapsul, arsitektur multinodular",
+      "Grave Disease — folikel dengan epitel kolumnar tinggi dan scalloped colloid",
+      "PTC — papilla dengan nuklei ground-glass dan psammoma bodies"
+    ],
+    "correct": 2,
+    "explanation": "Struma Koloides (Non-toxic/Simple Goiter): gambaran histopatologi berupa folikel-folikel bervariasi ukuran (makrofolikel dominan pada fase involusi), koloid abundant tanpa scalloping, epitel folikel gepeng atau kuboid. Pada multinodular goiter dapat dijumpai perubahan sekunder: fibrosis, kalsifikasi, perdarahan, dan kistik. Etiologi tersering: defisiensi iodin dan stimulasi TSH kronik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/35.png"
+  },
+  {
+    "id": "P43",
+    "question": "Preparat histopatologi ini menunjukkan sel-sel tumor poligonal kecil tersusun dalam lembaran monoton ('sheet-like'), kehilangan pola acinar normal, tanpa granula sekretori yang nyata, dan pewarnaan retikulin menunjukkan loss of reticulin framework. Dari organ dan diagnosis apakah preparat ini?",
+    "options": [
+      "Pankreas endokrin — Insulinoma dengan sel ribbon positif insulin",
+      "Kelenjar adrenal — Pheochromocytoma dengan sel zymbal besar",
+      "Hipofisis anterior — Adenoma Hipofisis dengan sel monoton dalam lembaran, loss of reticulin acinar pattern",
+      "Kelenjar tiroid — Karsinoma Folikuler dengan invasi kapsul",
+      "Paratiroid — Adenoma paratiroid dengan sel chief padat"
+    ],
+    "correct": 2,
+    "explanation": "Adenoma Hipofisis: gambaran histopatologi khas adalah sel-sel uniform dalam lembaran atau pola difus tanpa arsitektur acinar normal hipofisis. Reticulin stain menunjukkan LOSS of acinar/lobular pattern (berbeda dengan hipofisis normal yang memiliki pola acinar reguler). IHC digunakan untuk subklasifikasi (GH, PRL, ACTH, TSH, LH/FSH, null cell). Adenoma makro (>1cm) dapat menyebabkan bitemporal hemianopsia.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/77.jpeg"
+  },
+  {
+    "id": "P44",
+    "question": "Preparat histopatologi ini menunjukkan sel-sel poligonal dalam pola ribbon/trabekuler menyerupai sel islet Langerhans normal, dengan sitoplasma eosinofilik halus, nuklei bulat uniform 'salt and pepper chromatin', IHC positif insulin. Dari organ apa dan apa diagnosisnya?",
+    "options": [
+      "Kelenjar adrenal — Karsinoma adrenokortikal dengan sel vakuola besar",
+      "Hipofisis — Adenoma hipofisis non-fungsional dengan sel monoton",
+      "Pankreas endokrin (islet Langerhans) — Insulinoma, tumor sel beta yang menghasilkan insulin berlebihan",
+      "Kelenjar tiroid — Karsinoma meduler tiroid dengan sel fusiform dan amiloid stroma",
+      "Pankreas eksokrin — IPMN dengan epitel musinosa papilari"
+    ],
+    "correct": 2,
+    "explanation": "Insulinoma: tumor neuroendokrin pankreas tersering (35-40% NET pankreas). Asal dari sel beta islet Langerhans. Histopatologi: sel-sel poligonal dalam pola ribbon/trabekuler, 'salt and pepper chromatin' (khas NET), IHC positif untuk insulin dan synaptophysin/chromogranin A. Klinis: Whipple's triad — (1) hipoglikemia saat puasa, (2) gejala neuroglikopenik (kebingungan, seizure), (3) gejala membaik dengan pemberian glukosa. 90% jinak, soliter, <2cm.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Neuroendokrin Pankreas/65_Insulinoma_ribbon or brown stained cells resembling those of the normal islet of Langerhans.jpeg"
+  },
+  {
+    "id": "P45",
+    "question": "Preparat ini menampilkan pankreas eksokrin dengan duktus berdilatasi kistik dilapisi epitel kolumnar musinosa membentuk proyeksi papilari ke dalam lumen, tanpa ovarian-type stroma. Diagnosis yang paling sesuai adalah?",
+    "options": [
+      "Pseudokista Pankreas — tidak ada lapisan epitel, hanya jaringan granulasi",
+      "Serous Cystadenoma — dilapisi sel kuboid dengan glikogen (clear cells), cairan serosa jernih",
+      "MCN (Mucinous Cystic Neoplasm) — epitel musinosa DENGAN ovarian-type stroma",
+      "IPMN (Intraductal Papillary Mucinous Neoplasm) — dilatasi duktus pankreatikus dengan epitel musinosa papilari, TANPA ovarian-type stroma",
+      "Adenokarsinoma duktus pankreas — kelenjar irregular infiltratif dengan desmoplasia"
+    ],
+    "correct": 3,
+    "explanation": "IPMN (Intraductal Papillary Mucinous Neoplasm): kunci diagnosis adalah keterlibatan DUKTUS PANKREATIKUS (main duct atau branch duct) dengan dilatasi kistik, dilapisi epitel musinosa papilari. PEMBEDA dari MCN: IPMN tidak memiliki ovarian-type stroma. Subtipe epitel: gastric (tersering, low risk), intestinal (intermediate risk), pancreatobiliary (high risk), oncocytic. Main-duct IPMN berisiko maligna lebih tinggi.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/68.jpeg"
+  },
+  {
+    "id": "P46",
+    "question": "Grave Disease memiliki beberapa mekanisme patofisiologis utama yang saling terkait. Apa patofisiologi Grave Disease yang paling akurat?",
+    "options": [
+      "Defisiensi iodin → TSH meningkat → hiperplasia tiroid kompensatorik",
+      "Autoimun: antibodi TSI (IgG) berikatan dengan reseptor TSH → stimulasi konstitutif sintesis T3/T4 → hipertiroidisme, ditambah oftalmopati (antibodi anti-fibroblast/orbital) dan dermopati",
+      "Infeksi virus → destruksi folikel → pelepasan T4 berlebih → tirotoksikosis transien",
+      "Mutasi somatik reseptor TSH → aktivasi konstitutif tanpa keterlibatan antibodi",
+      "Neoplasia sel folikel → produksi T3/T4 otonom → hipertiroidisme"
+    ],
+    "correct": 1,
+    "explanation": "Grave Disease: penyakit autoimun triad klasik — (1) Hipertiroidisme akibat antibodi TSI (Thyroid-Stimulating Immunoglobulin / TSH-R Ab stimulatorik) yang merangsang reseptor TSH secara konstitutif → sintesis dan sekresi T3/T4 berlebih. (2) Oftalmopati Grave (exophthalmos) — inflamasi autoimun pada jaringan orbital, antibodi anti-fibroblast orbital → GAG deposit, edema, proptosis. (3) Dermopati (pretibial myxedema) — GAG deposit di dermis. HLA-DR3 dan HLA-B8 terkait.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/12.jpeg"
+  },
+  {
+    "id": "P47",
+    "question": "Hashimoto Thyroiditis memiliki beberapa variasi klinis dan histologis. Apa saja variasi dan hal terkait yang perlu diketahui?",
+    "options": [
+      "Hashimoto hanya ada satu bentuk yaitu hipotiroidisme permanen",
+      "Variasi Hashimoto: fibrous variant (fibrosis masif), Hürthle cell variant, juvenile (anak-anak), hashitoxicosis (fase awal hipertiroid transien 'hashitoxicosis'). Hubungan: meningkatkan risiko limfoma tiroid primer (MALT lymphoma)",
+      "Hashimoto hanya mengenai wanita dan tidak ada variasi histologis",
+      "Hashimoto selalu hasilkan hipertiroidisme dan tidak pernah hipotiroidisme",
+      "Hashimoto identik dengan De Quervain thyroiditis dan dibedakan hanya berdasarkan serologi"
+    ],
+    "correct": 1,
+    "explanation": "Variasi Hashimoto Thyroiditis: (1) Classic form — infiltrat limfoplasmasitik masif, germinal center, Hürthle cell metaplasia, fibrosis ringan. (2) Fibrous variant — fibrosis masif mendominasi, mirip Riedel thyroiditis tetapi terbatas pada tiroid. (3) Juvenile — pada anak-anak, fibrosis minimal. (4) Hashitoxicosis — fase transien hipertiroid dini akibat pelepasan hormon preformed saat destruksi folikel. Komplikasi penting: peningkatan risiko MALT lymphoma tiroid primer.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/21.jpeg"
+  },
+  {
+    "id": "P48",
+    "question": "Adenoma Hipofisis diklasifikasikan berdasarkan beberapa kriteria. Apa saja klasifikasi dan subtipe Adenoma Hipofisis yang dikenal?",
+    "options": [
+      "Adenoma Hipofisis hanya dibagi menjadi mikro dan makro berdasarkan ukuran saja",
+      "Klasifikasi Adenoma Hipofisis: berdasarkan ukuran (mikroadenoma <1cm vs makroadenoma ≥1cm), berdasarkan fungsi (fungsional: PRL-oma, GH-oma/akromegali, ACTH-oma/Cushing, TSH-oma, gonadotropin-oma vs non-fungsional), dan berdasarkan IHC hormonal",
+      "Adenoma Hipofisis semua bersifat non-fungsional dan tidak menghasilkan hormon",
+      "Adenoma Hipofisis hanya dibagi menjadi adenoma asidofil dan basofil berdasarkan HE saja",
+      "Semua Adenoma Hipofisis bersifat maligna dan selalu bermetastasis"
+    ],
+    "correct": 1,
+    "explanation": "Klasifikasi Adenoma Hipofisis: (A) Berdasarkan ukuran: mikroadenoma (<1cm, sering non-invasif) vs makroadenoma (≥1cm, dapat menekan kiasma optik → bitemporal hemianopsia). (B) Berdasarkan aktivitas hormonal: Fungsional — (1) Prolaktinoma/PRL-oma (tersering, galaktorea-amenore-infertilitas), (2) GH-oma (gigantisme pada anak; akromegali pada dewasa), (3) ACTH-oma (penyakit Cushing), (4) TSH-oma (hipertiroidisme sekunder). Non-fungsional — tersering pada pria tua, presentasi dengan gejala massa (sakit kepala, gangguan penglihatan).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/78.jpeg"
+  },
+  {
+    "id": "P49",
+    "question": "Karsinoma Papiler Tiroid (PTC) memiliki berbagai gambaran histologis dalam sub-pola pertumbuhannya. Apa saja subtipe histologis utama PTC di luar yang sudah dibahas (varian klasik, folikuler, tall cell, diffuse sclerosing, solid)?",
+    "options": [
+      "PTC tidak memiliki subtipe — semua PTC identik secara histologis",
+      "Subtipe tambahan PTC yang penting: cribriform-morular variant (terkait FAP/APC mutation), columnar cell variant (agresif, sel kolumnar dengan stratifikasi nuklei), Warthin-like variant (limfosit banyak, mirip Warthin tumor parotis), dan macrofollicular variant",
+      "PTC hanya memiliki 2 subtipe yaitu papilari murni dan folikuler murni",
+      "Subtipe PTC ditentukan hanya berdasarkan IHC, bukan morfologi",
+      "Semua subtipe PTC memiliki prognosis identik tanpa perbedaan klinis"
+    ],
+    "correct": 1,
+    "explanation": "Subtipe PTC tambahan: (1) Cribriform-morular variant — terkait mutasi APC (familial adenomatous polyposis), pola cribriform dengan morule squamous, sering pada wanita muda. (2) Columnar cell variant — sel kolumnar dengan nuklei tersupresi/stratifikasi, agresif mirip tall cell. (3) Warthin-like — stroma limfoplasmasitik masif menyerupai Warthin tumor parotis, prognosis baik. (4) Macrofollicular variant — >50% folikel makro, sering salah diagnosis sebagai struma. Pemahaman subtipe penting untuk prediksi prognosis dan mutasi driver.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/56.jpg"
+  },
+  {
+    "id": "P50",
+    "question": "Mbak Ana, 28 tahun, datang dengan keluhan jantung berdebar, penurunan berat badan 6 kg dalam 2 bulan, tremor halus pada tangan, berkeringat berlebih, dan matanya tampak menonjol. Pemeriksaan tiroid teraba difus membesar dan terdengar bruit. TSH sangat rendah, FT4 sangat tinggi. Diagnosis paling mungkin dan gambaran histopatologis yang diharapkan adalah?",
+    "options": [
+      "Hashimoto Thyroiditis — anti-TPO positif, hipotiroidisme, folikel atrofi dengan limfosit",
+      "Toxic Adenoma (Plummer) — nodul soliter hot pada skintigrafi, folikel otonom berkapsul",
+      "Grave Disease — antibodi TSI positif, folikel dengan epitel kolumnar tinggi, scalloped colloid, papilla intrafolikuler (Sanderson polster)",
+      "Subacute Thyroiditis De Quervain — nyeri tiroid, granuloma dengan sel giant, post-viral",
+      "Karsinoma Papiler Tiroid — nodul tiroid, nuklei ground-glass, psammoma bodies"
+    ],
+    "correct": 2,
+    "explanation": "Mbak Ana memiliki gambaran klasik Grave Disease: hipertiroidisme (palpitasi, penurunan BB, tremor, hiperhidrosis) + exophthalmos + goiter difus dengan bruit. Triad Grave: hipertiroidisme + oftalmopati + dermopati. TSI positif adalah penanda spesifik. Histopatologi: folikel dengan epitel kolumnar tinggi, scalloped colloid di tepi folikel, Sanderson polster (papilla intrafolikuler tanpa fibrovascular core). Tata laksana: thionamide (PTU/MMI), RAI, atau tiroidektomi.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/7.jpeg"
+  },
+  {
+    "id": "P51",
+    "question": "Bapak Ferlix, 45 tahun, datang dengan keluhan lemas, berat badan naik 8 kg dalam 4 bulan, kulit kering dan kasar, rambut rontok, konstipasi, dan wajah tampak puffy. Suara menjadi serak dan sering mengantuk. TSH sangat tinggi, FT4 sangat rendah. Anti-TPO titer sangat tinggi (>1000 IU/mL). Diagnosis dan gambaran histopatologis yang diharapkan?",
+    "options": [
+      "Grave Disease — antibodi TSI positif, hipertiroidisme, folikel hiperplastik dengan scalloped colloid",
+      "Hashimoto Thyroiditis stadium lanjut (hipotiroidisme) — infiltrat limfosit masif dengan germinal center, Hürthle cell metaplasia, atrofi folikel, fibrosis interstitial",
+      "Struma Koloides dengan hipotiroidisme — folikel makro dengan koloid abundant, tidak ada infiltrat limfosit",
+      "Adenoma Folikuler Toksik — nodul berkapsul otonom menghasilkan T4 berlebih",
+      "Karsinoma Anaplastik Tiroid — sel-sel pleomorfik spindle, prognosis buruk"
+    ],
+    "correct": 1,
+    "explanation": "Bapak Ferlix mengalami hipotiroidisme klasik (myxedema): lemas, berat badan naik, kulit kering, rambut rontok, konstipasi, bradikardi, suara serak, edema periorbital. Anti-TPO sangat tinggi menunjukkan etiologi autoimun Hashimoto Thyroiditis. Histopatologi pada stadium lanjut: infiltrat limfoplasmasitik masif dengan germinal center, Hürthle cell metaplasia, atrofi folikel, fibrosis interstitial progresif. Terapi: levotiroksin seumur hidup.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/18.jpeg"
+  },
+  {
+    "id": "P52",
+    "question": "Bapak Alvandy, 38 tahun, datang dengan pembesaran leher yang lambat membesar selama 10 tahun, tidak nyeri. Pemeriksaan: goiter multinodular bilateral, tidak ada gejala hiper- maupun hipotiroidisme. TSH normal. Skintigrafi menunjukkan area campuran cold dan warm nodule. Tidak ada riwayat radiasi. Diagnosis dan gambaran histopatologis yang diharapkan?",
+    "options": [
+      "Grave Disease — goiter difus, TSH rendah, antibodi TSI positif",
+      "Hashimoto Thyroiditis — infiltrat limfosit masif, goiter keras, hipotiroidisme",
+      "Adenoma Folikuler Tiroid — nodul soliter berkapsul, bukan multinodular",
+      "Struma Koloides Multinodular (Non-toxic Multinodular Goiter) — folikel bervariasi ukuran, koloid abundant, tanpa kapsul sejati, perubahan sekunder (fibrosis, kistik, perdarahan)",
+      "PTC — nuklei ground-glass, psammoma bodies, papilla bercabang"
+    ],
+    "correct": 3,
+    "explanation": "Bapak Alvandy memiliki gambaran Non-toxic Multinodular Goiter (Struma Koloides Multinodular): pembesaran lambat, bilateral, eutiroid, mixed cold/warm nodule. Patofisiologi: siklus berulang hiperplasia-involusi folikel menghasilkan nodularitas dengan ukuran folikel sangat bervariasi, koloid abundant pada fase involusi, perubahan degeneratif sekunder. Evaluasi penting: FNAB pada cold nodule untuk menyingkirkan keganasan.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/32.jpeg"
+  },
+  {
+    "id": "P53",
+    "question": "Bapak PM, 55 tahun, seorang kepala departemen, mengeluh nyeri kepala berulang, gangguan penglihatan (kehilangan lapangan pandang lateral), dan kadar prolaktin serum 450 ng/mL (normal <20 ng/mL). MRI kepala: massa 2,5 cm di sella tursika menekan kiasma optikum. Diagnosis dan gambaran histopatologis yang diharapkan?",
+    "options": [
+      "Kraniofaringioma — kista kolesterol dengan epitel squamous bertingkat dan kalsifikasi khas (eggshell)",
+      "Meningioma — sel-sel dalam pola whorling dengan psammoma bodies, asal meningen",
+      "Makroadenoma Hipofisis (Prolaktinoma) — sel-sel monoton dalam lembaran, IHC PRL positif, loss of reticulin framework",
+      "Glioblastoma Multiforme — sel pleomorfik, nekrosis, pembuluh darah proliferatif",
+      "Metastasis hipofisis — sel-sel atipik dengan gambaran primer tersendiri"
+    ],
+    "correct": 2,
+    "explanation": "Bapak PM memiliki makroadenoma hipofisis Prolaktinoma: hiperprolaktinemia (450 ng/mL), nyeri kepala akibat efek massa, bitemporal hemianopsia akibat kompresi kiasma optikum, massa >1cm (makroadenoma). Histopatologi: sel-sel chromophobe atau asidofil monoton dalam lembaran padat, IHC PRL positif, hilangnya pola acinar normal (loss of reticulin framework). Terapi pilihan: agonis dopamin (kabergolin/bromokriptin).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/79.jpeg"
+  },
+  {
+    "id": "P54",
+    "question": "Bapak Odit, 60 tahun, datang dengan nyeri punggung kanan atas hilang timbul selama 1 tahun, demam ringan, nafsu makan menurun, dan penurunan berat badan 5 kg. CT abdomen menunjukkan massa 3 cm di kepala pankreas, tidak berhubungan dengan duktus pankreatikus, solid, dengan enhancement perifer. CA 19-9 normal. Biopsi diperlukan. Apa diagnosis dan gambaran histopatologis yang paling mungkin?",
+    "options": [
+      "Adenokarsinoma Duktus Pankreas — kelenjar irregular desmoplastik, CA 19-9 tinggi, massa solid invasif",
+      "Pseudokista Pankreas — riwayat pankreatitis, kista tanpa epitel, konten debris",
+      "IPMN Branch-duct type — kista berhubungan dengan duktus sekunder, musin, CEA tinggi dalam kista",
+      "Tumor Neuroendokrin Pankreas Non-fungsional — sel-sel poligonal dalam pola ribbon/trabekuler, IHC chromogranin A dan synaptophysin positif, tidak ada gejala hormonal",
+      "Serous Cystadenoma — massa kistik multimikrokista (honeycomb), sel kuboid clear"
+    ],
+    "correct": 3,
+    "explanation": "Bapak Odit memiliki gambaran tumor neuroendokrin pankreas non-fungsional: massa solid, tanpa gejala hormonal spesifik, CA 19-9 normal (CA 19-9 tinggi lebih khas adenokarsinoma duktus). NET non-fungsional adalah tumor neuroendokrin pankreas tersering secara keseluruhan. Histopatologi: sel-sel poligonal dalam pola ribbon/trabekuler/island, nuklei 'salt and pepper chromatin', IHC positif chromogranin A dan synaptophysin. Prognosis bervariasi tergantung grading (Ki-67 index).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Neuroendokrin Pankreas/65_Insulinoma_ribbon or brown stained cells resembling those of the normal islet of Langerhans.jpeg"
+  },
+  {
+    "id": "P55",
+    "question": "Bapak RW, 35 tahun, dengan Grave Disease yang tidak diobati datang dengan kondisi kritis: detak jantung 160x/menit, hipertermia 40°C, agitasi berat, dan muntah. Apa komplikasi yang paling ditakuti ini dan apa tata laksana awalnya?",
+    "options": [
+      "Komplikasi: hipotiroidisme akibat terapi berlebihan; TL: levotiroksin",
+      "Komplikasi: Thyroid Storm (Krisis Tiroid) — komplikasi mengancam jiwa Grave Disease yang tidak terkontrol; TL: PTU dosis tinggi, betablocker (propranolol), steroid, lugol, pendinginan fisik, dan perawatan ICU",
+      "Komplikasi: penyakit jantung hipertiroid; TL: bisoprolol saja",
+      "Komplikasi: sindrom Cushing sekunder akibat terapi steroid",
+      "Komplikasi: limfoma tiroid akibat stimulasi kronis"
+    ],
+    "correct": 1,
+    "explanation": "Thyroid Storm (Krisis Tiroid): komplikasi Grave Disease paling mengancam jiwa. Burch-Wartofsky Point Scale >45 mendukung diagnosis. Pemicu: infeksi, operasi, trauma, penghentian obat antitiroid. Gejala: hipertermia >38.5°C, takikardia >140x/mnt, agitasi/delirium/koma, GI (muntah, diare). Tatalaksana: (1) PTU 500-1000mg loading (memblok sintesis DAN konversi T4→T3), (2) Betablocker IV (propranolol), (3) Hidrokortison (inhibisi konversi T4→T3), (4) Lugol's iodine 1 jam setelah PTU, (5) ICU, pendinginan aktif.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/11.jpeg"
+  },
+  {
+    "id": "P56",
+    "question": "Komplikasi apa yang paling ditakuti dari Hashimoto Thyroiditis yang perlu dimonitor jangka panjang?",
+    "options": [
+      "Komplikasi utama: tirotoksikosis berat dan krisis tiroid akibat destruksi folikel masif",
+      "Komplikasi utama: (1) Hipotiroidisme permanen — paling sering, memerlukan terapi levotiroksin seumur hidup; (2) Peningkatan risiko MALT Lymphoma tiroid primer (limfosit B kronik → transformasi); (3) Hashitoxicosis transien pada fase awal",
+      "Komplikasi utama: transformasi menjadi karsinoma papiler tiroid",
+      "Komplikasi utama: pembentukan kista tiroid multipel",
+      "Komplikasi utama: hiperparatiroidisme sekunder"
+    ],
+    "correct": 1,
+    "explanation": "Komplikasi Hashimoto Thyroiditis: (1) Hipotiroidisme permanen — destruksi autoimun folikel progresif → insufisiensi sintesis T3/T4 → terapi levotiroksin seumur hidup. (2) MALT Lymphoma tiroid primer — stimulasi kronik limfosit B dalam germinal center → risiko transformasi neoplastik; presentasi: pembesaran tiroid mendadak pada pasien Hashimoto. (3) Hashitoxicosis — fase transien hipertiroid awal akibat destruksi folikel akut melepas hormon preformed. (4) Hubungan dengan kanker papiler tiroid tidak terbukti kausal.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/23.jpeg"
+  },
+  {
+    "id": "P57",
+    "question": "Bapak Taye Joe, 67 tahun, pasien dengan Multinodular Goiter (Struma Koloides) bertahun-tahun, tiba-tiba datang dengan sesak napas dan stridor inspiratorik. X-ray leher/dada menunjukkan deviasi dan penyempitan trakea. Kondisi ini merupakan komplikasi apa dan bagaimana penanganannya?",
+    "options": [
+      "Komplikasi: Hashitoxicosis; penanganan: metimazol",
+      "Komplikasi: Obstruksi Trakea (tracheal compression) akibat ekspansi gondok; penanganan: tiroidektomi emergensi untuk dekompresi jalan napas",
+      "Komplikasi: Hipotiroidisme; penanganan: levotiroksin",
+      "Komplikasi: Krisis tiroid; penanganan: PTU dan betablocker",
+      "Komplikasi: Infiltrasi limfatik; penanganan: radioterapi"
+    ],
+    "correct": 1,
+    "explanation": "Kompresi trakea akibat Multinodular Goiter: salah satu komplikasi mekanis paling gawat dari goiter besar/substernal. Gondok yang sangat besar atau tumbuh ke mediastinum (substernal goiter) dapat menyempitkan trakea → dyspnea, stridor inspiratorik, tracheal deviation pada X-ray. Penanganan: tiroidektomi total atau subtotal untuk dekompresi. Komplikasi lain MNG: disfagia (kompresi esofagus), suara serak (kompresi n. laryngeus recurrens), Plummer syndrome (hipertiroidisme), perdarahan intrakistik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/33.jpeg"
+  },
+  {
+    "id": "P58",
+    "question": "Adenoma Folikuler Tiroid memerlukan follow-up jangka panjang karena beberapa risiko. Apa saja komplikasi yang perlu diwaspadai pada Adenoma Folikuler Tiroid?",
+    "options": [
+      "Adenoma folikuler tidak ada komplikasi karena bersifat jinak sepenuhnya",
+      "Komplikasi: (1) Transformasi maligna menjadi Karsinoma Folikuler (invasi kapsul/vaskular), (2) Perdarahan intratumoral → pembesaran tiba-tiba dan nyeri, (3) Adenoma Toksik (Plummer) → hipertiroidisme jika terjadi mutasi aktivasi TSH-R",
+      "Komplikasi utama: metastasis limfatik ke kelenjar servikal",
+      "Komplikasi: penyebaran hematogen ke paru-paru dan tulang",
+      "Komplikasi: rekurensi lokal setelah reseksi pada >50% kasus"
+    ],
+    "correct": 1,
+    "explanation": "Komplikasi Adenoma Folikuler Tiroid: (1) Transformasi maligna → Karsinoma Folikuler: terjadi pada sebagian kecil kasus; ditandai invasi kapsul (minimal capsular invasion atau extensive) dan/atau invasi vaskular. Pembedaan hanya bisa dilakukan histopatologi post-reseksi, BUKAN FNAB. (2) Perdarahan intratumoral spontan → nyeri lokal mendadak, pembesaran nodul tiba-tiba, biasanya self-limited. (3) Adenoma Toksik (Plummer): mutasi somatik aktivasi TSH-R → produksi hormon otonom → hipertiroidisme, 'hot nodule' pada skintigrafi.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/39.jpeg"
+  },
+  {
+    "id": "P59",
+    "question": "Pasien Adenoma Hipofisis dapat mengalami berbagai komplikasi tergantung jenis dan ukuran tumor. Komplikasi apa yang paling signifikan pada makroadenoma hipofisis?",
+    "options": [
+      "Komplikasi makroadenoma: hanya nyeri kepala ringan tanpa gangguan neurologis",
+      "Komplikasi makroadenoma: (1) Bitemporal hemianopsia (kompresi kiasma optikum), (2) Hipopituitarisme (kompresi sel hipofisis normal → defisiensi GH, TSH, ACTH, LH/FSH), (3) Apoplexy hipofisis (perdarahan/infark tumor → emergensi), (4) Hipersekresi hormon (prolaktinoma → amenore-galaktorea; GH-oma → akromegali; ACTH-oma → Cushing)",
+      "Komplikasi: hanya gejala hormonal tanpa efek massa",
+      "Komplikasi: metastasis ke sinus kavernosus dan sistem saraf pusat",
+      "Komplikasi: diabetes mellitus tipe 1 akibat defisiensi insulin hipofisis"
+    ],
+    "correct": 1,
+    "explanation": "Komplikasi Makroadenoma Hipofisis: (1) Efek massa lokal — kompresi kiasma optikum → bitemporal hemianopsia (klasik, dimulai dari kuadran temporal superior); kompresi sinus kavernosus → parese N. III, IV, VI. (2) Hipopituitarisme — kompresi sel-sel hipofisis normal → defisiensi hormon multipel (GH → growth failure; gonadotropin → infertilitas; TSH → hipotiroidisme sekunder; ACTH → insufisiensi adrenal). (3) Apoplexy hipofisis — perdarahan/infark mendadak dalam adenoma → nyeri kepala thunderclap, penurunan kesadaran, gangguan penglihatan akut; emergensi bedah saraf.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/76.jpeg"
+  },
+  {
+    "id": "P60",
+    "question": "Karsinoma Papiler Tiroid (PTC) dikenal memiliki prognosis baik, namun komplikasi dan rekurensi tetap mungkin terjadi. Apa saja komplikasi dan faktor prognostik buruk PTC?",
+    "options": [
+      "PTC tidak pernah bermetastasis dan selalu sembuh total dengan operasi",
+      "Komplikasi PTC: (1) Metastasis limfonodi servikal (sangat sering, >50% kasus, tetapi tidak mempengaruhi survival secara signifikan), (2) Metastasis jauh (paru, tulang) pada kasus stadium lanjut, (3) Rekurensi lokal. Faktor prognosis buruk: usia >45 tahun, ukuran tumor >4cm (T3-T4), invasi ekstratiroidal, metastasis jauh, dan varian agresif (tall cell, columnar cell, diffuse sclerosing)",
+      "Komplikasi utama PTC: transformasi menjadi karsinoma meduler tiroid",
+      "PTC selalu bermetastasis ke hati sebagai lokasi pertama",
+      "Semua varian PTC memiliki prognosis identik tanpa perbedaan survival"
+    ],
+    "correct": 1,
+    "explanation": "Komplikasi PTC: (1) Metastasis KGB servikal — sangat sering (terutama level VI), sering sebagai temuan insidental; tidak secara signifikan memperburuk overall survival. (2) Metastasis jauh — kurang dari 5% kasus; paru (tersering), tulang. (3) Rekurensi lokal/regional. Faktor prognosis buruk (sistem MACIS/TNM/AMES): usia >45th, ukuran >4cm, ekstensi ekstratiroidal, metastasis jauh. Varian agresif: tall cell (sering BRAF V600E), columnar cell. Survival 10 tahun >95% pada risiko rendah.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/58.jpg"
+  },
+  {
+    "id": "P61",
+    "question": "Ibuk Hemor Roid, 38 tahun, dengan riwayat hipoglikemia berulang yang tidak dapat dijelaskan, didiagnosis dengan Insulinoma pankreas. Apa saja komplikasi yang ditakutkan dari kondisi ini?",
+    "options": [
+      "Komplikasi Insulinoma: hiperglikemia refrakter dan ketoasidosis diabetik",
+      "Komplikasi Insulinoma: (1) Hipoglikemia neuroglikopenik berat → kejang, kehilangan kesadaran, kerusakan otak permanen, (2) Pada kasus maligna (10%): metastasis ke hati, KGB regional, (3) Sindrom MEN-1 (10% insulinoma terkait MEN-1) → tumor paratiroid dan hipofisis",
+      "Komplikasi: pankreatitis kronik akibat obstruksi duktus",
+      "Komplikasi: sindrom Zollinger-Ellison dengan ulkus peptik multipel",
+      "Komplikasi: diabetes mellitus tipe 1 akibat destruksi islet sekitar tumor"
+    ],
+    "correct": 1,
+    "explanation": "Komplikasi Insulinoma: (1) Hipoglikemia neuroglikopenik berat (paling utama) — kadar glukosa <40 mg/dL saat puasa → konfusi, kejang, koma, kerusakan otak ireversibel jika tidak ditangani segera. Whipple's triad: hipoglikemia saat puasa + gejala neuroglikopenik + resolusi dengan glukosa. (2) Malignansi (10%) — invasi/metastasis ke KGB atau hati; kriteria maligna: hanya berdasarkan bukti metastasis, bukan morfologi. (3) MEN-1 (10% kasus): periksa PTH dan prolaktin. Terapi: enukleasi/reseksi bedah; diazoxide untuk kontrol medis.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Neuroendokrin Pankreas/65_Insulinoma_ribbon or brown stained cells resembling those of the normal islet of Langerhans.jpeg"
+  },
+  {
+    "id": "P62",
+    "question": "Bapak Ater o'sklerosis, 58 tahun, dengan diagnosis IPMN pankreas main-duct type menolak operasi. Apa komplikasi yang paling ditakutkan jika kondisi ini tidak ditangani?",
+    "options": [
+      "IPMN tidak memiliki risiko maligna dan tidak perlu tindakan operatif",
+      "Komplikasi IPMN: (1) Transformasi maligna menjadi Adenokarsinoma Musinosa Invasif (risiko tinggi pada main-duct type: 40-70%), (2) Pankreatitis rekuren akibat obstruksi duktus oleh musin, (3) Insufisiensi eksokrin/endokrin pankreas pada kasus lanjut",
+      "Komplikasi IPMN: hanya nyeri perut kronis tanpa risiko maligna",
+      "Komplikasi IPMN: transformasi menjadi tumor neuroendokrin pankreas",
+      "Komplikasi IPMN: pseudokista dan fistula pankreatikokutan"
+    ],
+    "correct": 1,
+    "explanation": "Komplikasi IPMN, terutama main-duct type: (1) Transformasi maligna — main-duct IPMN memiliki risiko maligna 40-70% (berbeda dengan branch-duct IPMN ~25%). Histologi: dari displasia low-grade → high-grade → adenokarsinoma invasif. Indikasi operasi absolut pada main-duct IPMN: semua kasus yang operabel. (2) Pankreatitis akut/kronik rekuren — musin kental menyumbat duktus Wirsung. (3) Insufisiensi pankreas — destruksi parenkim akibat dilatasi duktus progresif. Worrisome features (AGA/IAP guidelines) memandu keputusan operasi.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/69.jpg"
+  },
+  {
+    "id": "P63",
+    "question": "Apa gejala klinis KHAS yang akan ditemukan pada pasien dengan kondisi yang ditunjukkan sediaan histopatologis Grave Disease ini?",
+    "options": [
+      "Gejala khas: hipotiroidisme — lemas, berat badan naik, kulit kering, konstipasi, bradikardi",
+      "Gejala khas: Triad Grave — (1) Hipertiroidisme (takikardia, tremor, penurunan BB, hiperhidrosis, heat intolerance, palpitasi) + (2) Exophthalmos/proptosis bilateral + (3) Pretibial myxedema (dermopati); ditambah goiter difus bervaskularisasi dengan bruit",
+      "Gejala khas: nodul tiroid soliter tidak nyeri dengan gangguan menelan",
+      "Gejala khas: nyeri tiroid akut, demam, limfadenopati servikal post-viral",
+      "Gejala khas: hipoglikemia berulang, kebingungan, tremor yang membaik dengan makan"
+    ],
+    "correct": 1,
+    "explanation": "Gejala khas Grave Disease: (1) Hipertiroidisme — palpitasi/takikardia (efek kronotrop β1), tremor halus, penurunan BB meski nafsu makan meningkat, hiperhidrosis, heat intolerance, diare, amenore. (2) Exophthalmos (oftalmopati Grave) — proptosis bilateral, lid lag, lid retraction, kemosis; akibat inflamasi orbital autoimun. (3) Pretibial myxedema — plak eritematosa tebal di pretibial; non-pitting. (4) Goiter difus dengan bruit (aliran darah meningkat). (5) Akropaki (jari tabuh) — lebih jarang.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/12.jpeg"
+  },
+  {
+    "id": "P64",
+    "question": "Apa gejala klinis yang KHAS ditemukan pada pasien dengan kondisi Hashimoto Thyroiditis yang ditunjukkan sediaan histopatologi ini?",
+    "options": [
+      "Gejala khas: hipertiroidisme berat dengan palpitasi, penurunan BB, dan exophthalmos",
+      "Gejala khas: Hipotiroidisme — lemas/fatigue, kenaikan berat badan, intoleransi dingin, konstipasi, bradikardi, kulit kering/kasar/dingin, edema periorbital, rambut rontok, suara serak, depresi; goiter kenyal tidak nyeri; anti-TPO positif",
+      "Gejala khas: nyeri tiroid akut, demam, ESR sangat tinggi, post-viral",
+      "Gejala khas: benjolan tiroid keras tumbuh cepat, suara serak, disfagia progresif",
+      "Gejala khas: nodul tiroid soliter eutiroid teraba kenyal"
+    ],
+    "correct": 1,
+    "explanation": "Gejala khas Hashimoto Thyroiditis: sebagian besar muncul sebagai hipotiroidisme progresif. Gejala: fatigue, kenaikan BB, intoleransi dingin, konstipasi, bradikardi, kulit kering, edema periorbital non-pitting (myxedema), rambut rontok, suara serak, depresi, gangguan memori ('brain fog'), carpal tunnel syndrome. Fase awal: mungkin eutiroid atau bahkan hashitoxicosis transien. Pemeriksaan: TSH meningkat, FT4 rendah, anti-TPO titer sangat tinggi. USG: tiroid hipoekoik heterogen.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/20.jpeg"
+  },
+  {
+    "id": "P65",
+    "question": "Apa gejala klinis khas yang dapat ditemukan pada pasien PTC (Karsinoma Papiler Tiroid) yang ditunjukkan sediaan histopatologi ini?",
+    "options": [
+      "Gejala khas: hipertiroidisme berat dengan takikardia dan tremor",
+      "Gejala khas: sering ASIMTOMATIK atau hanya nodul tiroid tidak nyeri yang ditemukan tidak sengaja; pada kasus lanjut: pembesaran KGB servikal, suara serak (invasi n. laryngeus recurrens), disfagia; hampir selalu eutiroid",
+      "Gejala khas: nyeri tiroid akut difus dan demam tinggi",
+      "Gejala khas: hipotiroidisme berat dengan myxedema dan bradikardi",
+      "Gejala khas: nodul multipel bilateral dengan tanda-tanda hipertiroidisme"
+    ],
+    "correct": 1,
+    "explanation": "Gejala klinis PTC: (1) Sering asimtomatik — ditemukan tidak sengaja saat USG leher atau palpasi rutin. (2) Nodul tiroid tidak nyeri, keras, permukaan tidak rata, tidak mengikuti deglutisi dengan baik. (3) Pembesaran KGB servikal (metastasis KGB lateral/level VI) — sering sebagai presentasi awal pada pasien muda. (4) Stadium lanjut: suara serak (invasi n. laryngeus recurrens), disfagia (invasi esofagus), nyeri, dispnea. (5) Fungsi tiroid NORMAL (eutiroid) pada hampir semua kasus.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/60.jpg"
+  },
+  {
+    "id": "P66",
+    "question": "Apa gejala klinis KHAS yang akan ditemukan pada pasien dengan Adenoma Hipofisis yang menghasilkan Growth Hormone (GH-oma) seperti ditunjukkan sediaan histopatologi ini?",
+    "options": [
+      "Gejala khas: hipoglikemia berulang, pandangan kabur, dan galaktore",
+      "Gejala khas: pada dewasa — Akromegali (pertumbuhan tulang akral: tangan, kaki, wajah membesar; macroglossia; prognathism; sleep apnea; hiperhidrosis; arthropathy; DM sekunder; cardiomegaly), pada anak — Gigantisme (pertumbuhan linear berlebih sebelum penutupan lempeng epifisis)",
+      "Gejala khas: bitemporal hemianopsia saja tanpa gejala hormonal",
+      "Gejala khas: Cushing syndrome — moon face, buffalo hump, striae, hipertensi",
+      "Gejala khas: nyeri kepala dan muntah-muntah tanpa gejala endokrin"
+    ],
+    "correct": 1,
+    "explanation": "GH-oma (Somatotropinoma) — gejala khas berdasarkan usia saat onset: (1) Sebelum penutupan lempeng epifisis → Gigantisme: perawakan sangat tinggi (>2 SD), akral besar, wajah kasar. (2) Setelah lempeng epifisis menutup → Akromegali: tangan/kaki besar (memerlukan ukuran sarung tangan/sepatu lebih besar), wajah kasar (prognathism, supraorbital bossing, macroglossia), sleep apnea, hiperhidrosis, arthropathy, DM sekunder, kardiomegali (penyebab kematian tersering). Diagnosis: IGF-1 serum meningkat + GH tidak tersupresi dengan OGTT.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/80.jpeg"
+  },
+  {
+    "id": "P67",
+    "question": "Apa gejala klinis KHAS yang ditemukan pada pasien dengan kondisi Struma Koloides yang ditunjukkan sediaan histopatologi ini?",
+    "options": [
+      "Gejala khas: hipertiroidisme dengan palpitasi, tremor, dan exophthalmos bilateral",
+      "Gejala khas: pembesaran leher anterior yang lambat dan tidak nyeri; eutiroid (fungsi tiroid normal); pada goiter besar: rasa sesak/penuh di leher, disfagia ringan, suara serak; Pemberton sign positif jika ada substernal extension",
+      "Gejala khas: nyeri tiroid akut dan demam tinggi dengan adenopati servikal",
+      "Gejala khas: fatigue berat, konstipasi, edema, dan bradikardi",
+      "Gejala khas: nodul soliter berbatas tegas dengan 'cold nodule' dan hipotiroidisme"
+    ],
+    "correct": 1,
+    "explanation": "Gejala khas Struma Koloides (Non-toxic Goiter): (1) Pembesaran leher anterior simetris atau asimetris yang berkembang perlahan, tidak nyeri. (2) Fungsi tiroid NORMAL (eutiroid) pada sebagian besar kasus. (3) Gejala mekanis jika besar: disfagia (esofagus), dispnea/stridor (trakea), suara serak (n. laryngeus recurrens). (4) Pemberton sign — elevasi lengan bilateral → facial flushing, stridor, vena jugular distended; menunjukkan substernal goiter menyumbat torak outlet. (5) Dapat berkembang menjadi toksik (Plummer) setelah bertahun-tahun.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/34.jpeg"
+  },
+  {
+    "id": "P68",
+    "question": "Apa etiologi dan faktor risiko utama yang mendasari Grave Disease seperti ditunjukkan sediaan histopatologi ini?",
+    "options": [
+      "Etiologi: defisiensi iodin; faktor risiko: tinggal di daerah pegunungan",
+      "Etiologi: Autoimun (antibodi TSI/TSH-R stimulatorik); faktor risiko: wanita (7-10x lebih sering), usia 20-50 tahun, HLA-DR3/HLA-B8, riwayat keluarga penyakit tiroid autoimun, stres emosional, kehamilan (post-partum), merokok (risiko oftalmopati), defisiensi selenium",
+      "Etiologi: mutasi somatik reseptor TSH; faktor risiko: usia lanjut",
+      "Etiologi: infeksi Yersinia enterocolitica; faktor risiko: higiene buruk",
+      "Etiologi: adenoma hipofisis penghasil TSH (TSH-oma); faktor risiko: riwayat radiasi kepala"
+    ],
+    "correct": 1,
+    "explanation": "Etiologi Grave Disease: (1) Autoimun — antibodi TSI (IgG1) ditujukan terhadap reseptor TSH (TSH-R) → stimulasi konstitutif. (2) Predisposisi genetik: HLA-DR3, HLA-B8, CTLA-4 polimorfisme, PTPN22 polimorfisme. Faktor risiko: (a) Jenis kelamin wanita (rasio W:P = 7-10:1), (b) Usia 20-50 tahun, (c) Riwayat keluarga penyakit Hashimoto/Grave, (d) Stres emosional berat (trigger), (e) Kehamilan/post-partum, (f) Merokok (meningkatkan risiko oftalmopati 7x), (g) Defisiensi selenium, (h) Infeksi (Yersinia, EBV sebagai trigger molecular mimicry).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/7.jpeg"
+  },
+  {
+    "id": "P69",
+    "question": "Apa etiologi dan faktor risiko yang mendasari Hashimoto Thyroiditis seperti ditunjukkan sediaan ini?",
+    "options": [
+      "Etiologi: paparan radiasi ionisasi dosis tinggi; faktor risiko: riwayat terapi radiasi leher",
+      "Etiologi: Autoimun kronik — CD8+ T-cell mediated apoptosis sel folikel + antibodi anti-TPO dan anti-tiroglobulin; faktor risiko: wanita (10-20x lebih sering), usia 30-50 tahun, HLA-DR3/DR5, riwayat keluarga autoimun, sindrom Down/Turner/Klinefelter, kelebihan asupan iodin",
+      "Etiologi: defisiensi iodin endemik; faktor risiko: daerah pegunungan terpencil",
+      "Etiologi: mutasi germline MEN2; faktor risiko: riwayat karsinoma meduler keluarga",
+      "Etiologi: infeksi bakteri tiroid; faktor risiko: imunosupresi"
+    ],
+    "correct": 1,
+    "explanation": "Etiologi Hashimoto Thyroiditis: (1) Autoimun — mekanisme utama: CD8+ T-cell mediated apoptosis sel folikel + antibodi anti-TPO (paling sensitif) + antibodi anti-tiroglobulin; Th1 response dominan. (2) Genetik: HLA-DR3, HLA-DR5, CTLA-4, PTPN22 polimorfisme. Faktor risiko: (a) Wanita 10-20x lebih sering, (b) Usia 30-50 tahun (tersering), (c) Riwayat keluarga autoimun, (d) Sindrom Down/Turner/Klinefelter (asosiasi kuat), (e) Kelebihan asupan iodin (memperparah), (f) Defisiensi selenium, (g) Kehamilan (post-partum thyroiditis sebagai spektrum Hashimoto).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/21.jpeg"
+  },
+  {
+    "id": "P70",
+    "question": "Apa etiologi dan faktor risiko yang mendasari Karsinoma Papiler Tiroid (PTC) yang ditunjukkan sediaan histopatologi ini?",
+    "options": [
+      "Etiologi: autoimun anti-TPO; faktor risiko: Hashimoto thyroiditis sebagai prekursor langsung",
+      "Etiologi: multifaktorial — paparan radiasi ionisasi (faktor risiko TERSIGNIFIKAN), mutasi somatik BRAF V600E (60-70% PTC), RET/PTC rearrangement (post-radiasi/anak-anak); faktor risiko: riwayat radiasi leher/kepala masa kanak-kanak, defisiensi iodin, riwayat keluarga PTC, sindrom familial (FAP, Cowden)",
+      "Etiologi: defisiensi iodin saja; faktor risiko: tinggal di daerah endemik goiter",
+      "Etiologi: infeksi HPV tiroid; faktor risiko: imunosupresi",
+      "Etiologi: mutasi germline RAS; faktor risiko: riwayat adenoma kolon"
+    ],
+    "correct": 1,
+    "explanation": "Etiologi PTC: (1) Paparan radiasi ionisasi — faktor risiko terkuat dan terbukti; paparan masa kanak-kanak (terapi radiasi, fallout nuklir seperti pasca-Chernobyl) meningkatkan risiko 5-10x; menyebabkan RET/PTC rearrangement. (2) Mutasi somatik: BRAF V600E (60-70% PTC sporadik, terkait tall cell variant, prognosis lebih buruk), RET/PTC rearrangement (anak-anak dan post-radiasi), RAS mutation. (3) Faktor risiko klinis: wanita (3:1), usia 25-55 tahun, riwayat radiasi leher. (4) Familial: FAP (cribriform-morular variant), Cowden syndrome (PTEN mutation).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/61.jpg"
+  },
+  {
+    "id": "P71",
+    "question": "Apa etiologi dan faktor risiko yang mendasari Adenoma Hipofisis seperti yang ditunjukkan sediaan ini?",
+    "options": [
+      "Etiologi: autoimun anti-pituitari; faktor risiko: wanita muda dengan riwayat autoimun",
+      "Etiologi: multifaktorial — mutasi somatik gen GNAS (akromegali, 30-40%), mutasi USP8 (ACTH-oma kortikotrof), mutasi AIP/FIPA (familial isolated PA), MEN-1 (menin mutation); faktor risiko: sindrom MEN-1, FIPA, Carney complex, McCune-Albright",
+      "Etiologi: paparan radiasi kranial; faktor risiko: radioterapi kepala masa kanak-kanak semua jenis",
+      "Etiologi: infeksi virus HSV; faktor risiko: imunosupresi kronis",
+      "Etiologi: defisiensi GH kongenital; faktor risiko: mutasi germline GHR"
+    ],
+    "correct": 1,
+    "explanation": "Etiologi Adenoma Hipofisis: (1) Mutasi somatik: GNAS (Gsα) di 30-40% GH-oma (McCune-Albright); USP8 di ~50% kortikotrofinoma (ACTH-oma); DICER1. (2) Genetik sindromik: MEN-1 (mutasi menin — 10-25% PA) → paratiroid, pankreas, hipofisis; FIPA/AIP mutation (familial isolated pituitary adenoma); Carney complex (PRKAR1A) → GH-oma + lentiginoses; McCune-Albright (GNAS). (3) Sebagian besar adenoma hipofisis bersifat SPORADIK tanpa penyebab genetik jelas. Faktor risiko klinis: wanita untuk prolaktinoma.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/76.jpeg"
+  },
+  {
+    "id": "P72",
+    "question": "Apa etiologi dan faktor risiko yang mendasari tumor neuroendokrin pankreas (NET) seperti ditunjukkan sediaan histopatologi ini?",
+    "options": [
+      "Etiologi: paparan karsinogen pankreas (alkohol, rokok) sama seperti adenokarsinoma",
+      "Etiologi: multifaktorial — sporadik (tersering, mutasi somatik DAXX/ATRX, MEN1 gene somatic); sindromik: MEN-1 (10-25% NET pankreas), VHL, NF-1, TSC; faktor risiko: riwayat keluarga MEN-1, sindrom VHL, neurofibromatosis",
+      "Etiologi: infeksi parasit pankreas; faktor risiko: konsumsi daging mentah",
+      "Etiologi: autoimun destruksi islet; faktor risiko: anti-islet antibodies positif",
+      "Etiologi: pankreatitis kronik berulang sebagai satu-satunya faktor risiko"
+    ],
+    "correct": 1,
+    "explanation": "Etiologi NET Pankreas: (1) Sporadik (mayoritas ~90%): mutasi somatik gen DAXX, ATRX (masing-masing ~25%), dan mutasi MEN1 gen somatik (~44%); pathway mTOR terlibat. (2) Sindromik (~10%): MEN-1 (mutasi menin germline) — NET multipel pankreas, terutama non-fungsional dan gastrinoma; VHL syndrome — terutama NET non-fungsional; NF-1 (neurofibromatosis tipe 1) — somatostatinoma duodenum; TSC (tuberous sclerosis). Faktor risiko klinis: riwayat keluarga MEN-1 (periksa kalsium dan PTH). Prognosis tergantung grading WHO (Grade 1: Ki-67 <3%; Grade 2: 3-20%; Grade 3: >20%/NEC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Neuroendokrin Pankreas/65_Insulinoma_ribbon or brown stained cells resembling those of the normal islet of Langerhans.jpeg"
+  },
+  {
+    "id": "P73",
+    "question": "Apa etiologi dan faktor risiko yang mendasari IPMN (Intraductal Papillary Mucinous Neoplasm) pankreas seperti ditunjukkan sediaan histopatologi ini?",
+    "options": [
+      "Etiologi: mutasi KRAS saja; faktor risiko: merokok sama seperti adenokarsinoma",
+      "Etiologi: multifaktorial — mutasi KRAS (60-80% IPMN), GNAS (40-75% IPMN, spesifik lebih sering dari adenokarsinoma), mutasi SMAD4/TP53 pada IPMN high-grade; faktor risiko: usia lanjut (>60 tahun), riwayat keluarga kanker pankreas, mutasi BRCA, sindrom Peutz-Jeghers",
+      "Etiologi: pankreatitis akut berulang sebagai satu-satunya penyebab",
+      "Etiologi: autoimun anti-pankreas (IgG4-related disease); faktor risiko: IgG4 serum tinggi",
+      "Etiologi: infeksi CMV pankreas; faktor risiko: imunosupresi pada transplantasi"
+    ],
+    "correct": 1,
+    "explanation": "Etiologi IPMN Pankreas: (1) Mutasi somatik: KRAS (60-80%, paling awal dalam karsinogenesis) + GNAS (40-75%, spesifik untuk IPMN; jarang pada MCN) → aktivasi konstitutif cAMP signaling → proliferasi epitel duktus. (2) Pada IPMN high-grade dan invasif: mutasi SMAD4, TP53, RNF43. (3) Faktor risiko: usia >60 tahun (insiden puncak 60-70 tahun), pria sedikit lebih sering, riwayat keluarga kanker pankreas/IPMN, mutasi germline (BRCA1/2, STK11/Peutz-Jeghers, CDKN2A/FAMMM). (4) IPMN bukan akibat pankreatitis kronik — mereka sebab pankreatitis.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/70.jpg"
+  },
+  {
+    "id": "P74",
+    "question": "Bapak Kohu, 62 tahun, seorang pensiunan, datang dengan sakit kepala frontal persisten selama 6 bulan, pandangan ganda (diplopia), dan istrinya melaporkan perubahan kepribadian: lebih labil dan impulsif. Pada pemeriksaan lapang pandang: hemianopsia bitemporal. MRI sella: massa 3,5 cm dengan ekstensi suprasella. Kadar GH dan IGF-1 normal. PRL 25 ng/mL (sedikit meningkat akibat stalk effect). Diagnosis dan tindakan paling tepat?",
+    "options": [
+      "Prolaktinoma — kadar PRL sangat tinggi, terapi agonis dopamin",
+      "GH-oma (akromegali) — IGF-1 sangat tinggi, pasien tampak akromegalik",
+      "Makroadenoma Hipofisis Non-fungsional — massa besar tanpa hipersekresi hormon signifikan, menyebabkan efek massa (hemianopsia, diplopia, sakit kepala); terapi: bedah transsphenoidal",
+      "Kraniofaringioma — kalsifikasi suprasella khas pada CT scan",
+      "Meningioma sella — dari meningen, tidak berasal dari sel hipofisis"
+    ],
+    "correct": 2,
+    "explanation": "Bapak Kohu memiliki makroadenoma hipofisis non-fungsional: tidak ada tanda hipersekresi hormon spesifik (GH/IGF-1 normal, PRL hanya sedikit naik akibat 'stalk effect' bukan hipersekresi sejati), tetapi ada efek massa: hemianopsia bitemporal (kompresi kiasma optikum), diplopia (kompresi sinus kavernosus → N. III/IV/VI), sakit kepala, dan perubahan kepribadian. Makroadenoma non-fungsional tersering pada pria tua. Terapi pilihan: bedah transsphenoidal endoskopik untuk dekompresi visual.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/80.jpeg"
+  },
+  {
+    "id": "P75",
+    "question": "Bapak Aldrich, 34 tahun, seorang programmer, datang dengan keluhan benjolan di leher kanan yang tidak nyeri, konsistensi kenyal, berbatas tegas. USG menunjukkan massa solid hipoekoik berkapsul 2,5 cm. FNA menunjukkan sel-sel tersusun dalam pola folikuler tanpa gambaran nuklei Orphan Annie. Hasil histopatologi akhir setelah lobektomi menunjukkan kapsul utuh tanpa invasi. Apa diagnosis dan interpretasinya?",
+    "options": [
+      "Karsinoma Folikuler Tiroid — invasi kapsul dan vaskular ditemukan",
+      "PTC Varian Folikuler — nuklei ground-glass khas PTC dan alur nuklei",
+      "Adenoma Folikuler Tiroid — nodul berkapsul dengan folikel well-differentiated, kapsul UTUH tanpa invasi kapsul/vaskular → jinak; FNA tidak dapat membedakan adenoma dari karsinoma folikuler (butuh histologi lengkap)",
+      "NIFTP (Non-Invasive Follicular Thyroid Neoplasm with Papillary-like nuclear features) — ada nuklei PTC parsial",
+      "Struma Koloides — tidak berkapsul, folikel besar dengan koloid abundant"
+    ],
+    "correct": 2,
+    "explanation": "Bapak Aldrich memiliki Adenoma Folikuler Tiroid: FNA menunjukkan pola folikuler (Bethesda IV: Follicular Neoplasm) — TIDAK DAPAT membedakan adenoma dari karsinoma folikuler. Diagnosis pasti HANYA dengan histopatologi lengkap post-reseksi. Histopatologi menunjukkan kapsul UTUH → Adenoma Folikuler (jinak). Jika ada invasi kapsul minimal → Karsinoma Folikuler invasif minimal; invasi vaskular → prognosis lebih buruk. Prinsip: kapsul utuh = adenoma jinak; invasi kapsul/vaskular = karsinoma.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/41.jpeg"
+  },
+  {
+    "id": "P76",
+    "question": "Bapak Alvandy, 52 tahun, datang dengan benjolan di leher kanan yang tumbuh cepat dalam 3 bulan terakhir, dengan pembesaran beberapa kelenjar limfe servikal lateral. Suara sedikit serak. Skintigrafi: cold nodule soliter. FNAB: sel-sel dengan nuklei ovoid pucat, alur nuklei, pseudoinklusi, tersusun dalam papilla dan folikel. Diagnosis paling mungkin dan langkah tatalaksana?",
+    "options": [
+      "Adenoma Folikuler Tiroid — kapsul utuh, FNA pola folikuler tanpa nuklei PTC",
+      "Hashimoto Thyroiditis — gambaran FNA: limfosit dan sel Hürthle, bukan papilla",
+      "Karsinoma Papiler Tiroid (PTC) — nuklei Orphan Annie, nuclear grooves, pseudoinklusi pada FNA; tatalaksana: tiroidektomi total + diseksi KGB sentral (level VI) ± radioiodin",
+      "Karsinoma Anaplastik Tiroid — sel pleomorfik, spindle, tumbuh sangat cepat dengan nekrosis",
+      "Karsinoma Meduler Tiroid — sel fusiform dengan amiloid stroma, kalsitonin serum meningkat"
+    ],
+    "correct": 2,
+    "explanation": "Bapak Alvandy memiliki gambaran PTC: cold nodule tumbuh cepat, metastasis KGB servikal, FNAB menunjukkan nuklei khas PTC (Orphan Annie/ground-glass, alur nuklei, pseudoinklusi). Tatalaksana PTC: (1) Tiroidektomi total (untuk tumor >1cm atau high-risk), (2) Diseksi KGB sentral profilaktik (level VI), (3) Radioiodin (RAI I-131) adjuvan pada risiko intermediate-high, (4) Supresi TSH dengan levotiroksin dosis tinggi, (5) Follow-up tiroglobulin serum + USG leher berkala.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/59.jpg"
+  },
+  {
+    "id": "P77",
+    "question": "Karsinoma papiler tiroid memiliki beberapa varian histologis yang berbeda. Sebutkan varian utama PTC dan ciri khasnya masing-masing!",
+    "options": [
+      "PTC hanya memiliki satu varian yaitu varian klasik dengan papilla bercabang",
+      "Varian utama PTC: klasik (papilla dengan fibrovascular core), varian folikuler (folikel predominan), varian tall cell (sel kolumnar 2-3x lebih tinggi dari lebar, agresif), varian diffuse sclerosing (fibrosis luas, banyak psammoma body), dan varian solid/trabecular",
+      "PTC hanya memiliki dua varian: papilari dan folikuler, dengan prognosis identik",
+      "Varian utama PTC: mucinous, clear cell, dan spindle cell",
+      "Semua varian PTC memiliki gambaran histologis identik dan dibedakan hanya berdasarkan IHC"
+    ],
+    "correct": 1,
+    "explanation": "Varian histologis PTC: (1) Klasik — papilla bercabang dengan fibrovascular core, nuklei ground-glass, psammoma bodies; prognosis excellent. (2) Follicular variant (FV-PTC) — predominan folikel, nuklei PTC khas; terbagi NIFTP (non-invasif) dan invasif. (3) Tall cell variant — sel kolumnar tinggi (tinggi 2x lebar), sitoplasma eosinofilik, sering BRAF V600E; prognosis lebih buruk. (4) Diffuse sclerosing variant — fibrosis luas, banyak psammoma body, limfosit banyak; sering metastasis KGB. (5) Solid/trabecular — sering post-radiasi dan pada anak.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/59.jpg"
+  },
+  {
+    "id": "P78",
+    "question": "Bapak Aldrich, 48 tahun, datang dengan benjolan di leher kanan yang tidak nyeri sejak 5 tahun, konsistensi kenyal dan berkapsul baik saat USG, nodul soliter. Fungsi tiroid normal. Diagnosis apa yang paling mungkin, dan gambaran histologis apa yang diharapkan?",
+    "options": [
+      "Hashimoto thyroiditis — histologi: infiltrat limfosit masif, germinal center, dan Hurthle cell metaplasia",
+      "Adenoma folikuler tiroid — histologi: nodul berkapsul dengan folikel well-differentiated, kapsul fibrosa utuh tanpa invasi, dapat disertai perubahan sekunder perdarahan dan kistik",
+      "Karsinoma papiler tiroid — histologi: papilla dengan fibrovascular core dan nuklei ground-glass",
+      "Struma koloides — histologi: folikel bervariasi ukuran dengan koloid abundant tanpa kapsul",
+      "Graves disease — histologi: folikel dengan epitel kolumnar tinggi dan scalloped colloid"
+    ],
+    "correct": 1,
+    "explanation": "Bapak Aldrich memiliki gambaran klinis khas adenoma folikuler tiroid: nodul soliter, berkapsul, tidak nyeri, kenyal, eutiroid, USG lesi berkapsul. Histopatologi: massa sel tiroid berkapsul dengan folikel well-differentiated menyerupai tiroid normal; kapsul fibrosa tipis UTUH tanpa invasi (pembeda dari karsinoma folikuler); dapat disertai perubahan sekunder perdarahan, fibrosis, dan kistik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/41.jpeg"
+  },
+  {
+    "id": "P79",
+    "question": "Bapak Kohu, 56 tahun, telah didiagnosis dengan kondisi yang digambarkan sediaan histopatologis ini. Dokter memantau kemungkinan komplikasi jangka panjang. Komplikasi apa yang paling mungkin terjadi?",
+    "options": [
+      "Komplikasi: tirotoksikosis berat dan krisis tiroid",
+      "Komplikasi: nodul jinak tidak menimbulkan komplikasi serius",
+      "Komplikasi: transformasi maligna menjadi karsinoma folikuler (invasi kapsul/vaskular), perdarahan intratumoral menyebabkan pembesaran tiba-tiba dan nyeri, serta penekanan struktur leher jika ukuran sangat besar",
+      "Komplikasi: hipotiroidisme permanen akibat destruksi autoimun",
+      "Komplikasi: metastasis limfatik ke kelenjar limfe servikal"
+    ],
+    "correct": 2,
+    "explanation": "Sediaan menunjukkan Adenoma Folikuler Tiroid. Komplikasi: (1) Transformasi maligna menjadi Karsinoma Folikuler — terjadi pada sebagian kecil kasus; ditandai invasi kapsul dan/atau invasi vaskular. (2) Perdarahan intratumoral — dapat terjadi spontan atau setelah trauma, menyebabkan pembesaran nodul tiba-tiba dan nyeri lokal, biasanya mereda sendiri. (3) Adenoma Toksik (Plummer adenoma) — mutasi somatik reseptor TSH yang otonom dapat menyebabkan hipertiroidisme.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/40.jpeg"
+  },
+  {
+    "id": "P80",
+    "question": "Apa gejala klinis KHAS yang biasanya ditemukan pada pasien dengan kondisi yang ditunjukkan sediaan histopatologis ini?",
+    "options": [
+      "Gejala khas: hipertiroidisme dengan palpitasi, tremor, penurunan BB, dan exophthalmos",
+      "Gejala khas: nodul tiroid soliter yang teraba, konsistensi kenyal, tidak nyeri, tanpa gangguan fungsi tiroid — sering ditemukan tidak sengaja saat pemeriksaan fisik atau USG",
+      "Gejala khas: gondok difus lunak dengan gejala hipotiroidisme dan anti-TPO positif",
+      "Gejala khas: benjolan keras tidak nyeri tumbuh cepat dengan pembesaran KGB servikal",
+      "Gejala khas: nyeri tiroid akut, demam, dan limfadenopati"
+    ],
+    "correct": 1,
+    "explanation": "Sediaan menunjukkan Adenoma Folikuler Tiroid. Gejala khas: (1) Nodul tiroid soliter — teraba sebagai massa kenyal, tidak nyeri, berbatas tegas, bisa digerakkan. (2) Fungsi tiroid NORMAL (eutiroid) pada sebagian besar kasus. (3) Sering ditemukan secara tidak sengaja (incidentaloma). (4) Cold nodule pada skintigrafi tiroid. (5) USG: nodul solid/campuran berkapsul. Tidak ada gejala sistemik bermakna — kecuali jika berkembang menjadi adenoma toksik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/43.jpeg"
+  },
+  {
+    "id": "P81",
+    "question": "Apa etiologi dan faktor risiko yang mendasari terjadinya kondisi yang terlihat pada sediaan histopatologis ini?",
+    "options": [
+      "Etiologi: autoimun akibat antibodi anti-TSH receptor; faktor risiko: wanita muda dan HLA-DR3",
+      "Etiologi: multifaktorial — stimulasi TSH kronik (defisiensi iodin), mutasi somatik gen reseptor TSH atau Gsα; faktor risiko: wanita, usia pertengahan-lanjut, defisiensi iodin endemik, riwayat paparan radiasi dosis rendah",
+      "Etiologi: paparan radiasi ionisasi dosis tinggi; faktor risiko: riwayat terapi radiasi leher masa kanak-kanak",
+      "Etiologi: infeksi virus; faktor risiko: HLA-B35",
+      "Etiologi: mutasi germline MEN1; faktor risiko: riwayat keluarga MEN1"
+    ],
+    "correct": 1,
+    "explanation": "Etiologi Adenoma Folikuler Tiroid bersifat multifaktorial: (1) Stimulasi TSH kronik akibat defisiensi iodin — stimulasi berlebihan mendorong proliferasi sel folikel yang dapat berkembang menjadi adenoma. (2) Mutasi somatik: mutasi gen reseptor TSH (aktivasi konstitutif) → adenoma toksik; mutasi gen Gsα (GNAS) pada adenoma toksik lainnya. (3) Faktor risiko: wanita (2-3x lebih sering), usia pertengahan-lanjut, konsumsi goitrogen, dan riwayat paparan radiasi dosis rendah.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/44.jpeg"
+  },
+  {
+    "id": "P82",
+    "question": "Struma koloides (non-toxic goiter) memiliki beberapa variasi yang perlu dibedakan. Apa saja variasi dan kondisi terkait yang dikenal?",
+    "options": [
+      "Struma koloides hanya ada satu tipe yaitu difus tanpa nodulasi",
+      "Variasi struma: goiter difus vs multinodular goiter; dapat menjadi toksik (Plummer syndrome) jika nodula menjadi otonom; dapat mengalami komplikasi kistik, perdarahan, kalsifikasi, dan fibrosis sebagai perubahan sekunder",
+      "Struma koloides identik dengan Graves disease dan dibedakan hanya berdasarkan fungsi tiroid",
+      "Struma koloides selalu eutiroid dan tidak pernah berkembang menjadi toksik",
+      "Variasi struma hanya berdasarkan ukuran saja"
+    ],
+    "correct": 1,
+    "explanation": "Variasi struma koloides: (1) Simple/Difus goiter — pembesaran tiroid merata tanpa nodulasi jelas, sering akibat defisiensi iodin; reversibel. (2) Multinodular goiter (MNG) — siklus berulang hiperplasia-involusi membentuk nodula multipel dengan variasi ukuran folikel. (3) Toxic multinodular goiter (Plummer syndrome) — nodula berkembang otonom menghasilkan hormon berlebih → hipertiroidisme, terutama pada lansia. (4) Perubahan sekunder: perdarahan, kalsifikasi distrofik, fibrosis, kistik. (5) Struma endemik (defisiensi iodin) vs sporadik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/33.jpeg"
+  },
+  {
+    "id": "P83",
+    "question": "Pasien dengan kondisi sesuai sediaan histopatologis ini dapat mengalami berbagai komplikasi jangka panjang. Komplikasi paling signifikan apa yang perlu diwaspadai?",
+    "options": [
+      "Komplikasi: hipotiroidisme permanen akibat destruksi autoimun",
+      "Komplikasi: gejala obstruktif mekanik (disfagia, dispnea, stridor) akibat kompresi trakea/esofagus; Plummer syndrome (hipertiroidisme); peningkatan risiko karsinoma tiroid pada cold nodule dalam gondok multinodular",
+      "Komplikasi: krisis tiroid, gagal jantung output tinggi, dan osteoporosis",
+      "Komplikasi: metastasis ke kelenjar limfe dan organ jauh",
+      "Komplikasi: limfoma tiroid primer"
+    ],
+    "correct": 1,
+    "explanation": "Komplikasi Struma Koloides (Multinodular Goiter): (1) Efek mekanis/obstruktif — gondok sangat besar menekan trakea (dispnea, stridor), esofagus (disfagia), n. laryngeus recurrens (suara serak); dapat meluas ke mediastinum (substernal goiter). (2) Plummer syndrome/Toxic MNG — nodula otonom menghasilkan hormon berlebih → hipertiroidisme (terutama lansia → risiko aritmia dan gagal jantung). (3) Keganasan — risiko karsinoma tiroid meningkat pada cold nodule dalam MNG; perlu evaluasi FNAB. (4) Perdarahan intrakistik akut → nyeri lokal mendadak.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/34.jpeg"
+  },
+  {
+    "id": "P84",
+    "question": "Faktor genetik dan etiologi apa yang mendasari terjadinya kondisi yang ditunjukkan sediaan histopatologis ini?",
+    "options": [
+      "Etiologi: paparan radiasi ionisasi; gen: BRAF V600E dan RET/PTC rearrangement",
+      "Etiologi: defisiensi iodin (faktor tersering di daerah endemik), konsumsi goitrogen, stimulasi TSH kronik; faktor genetik: polimorfisme gen tiroglobulin, DUOX2; faktor risiko: wanita, usia pertengahan, dan kehamilan",
+      "Etiologi: autoimun; gen: HLA-DR3, CTLA-4, dan PTPN22 polimorfisme",
+      "Etiologi: mutasi somatik gen menin (MEN1); faktor risiko: sindrom MEN1 familial",
+      "Etiologi: infeksi parasit yang menginvasi folikel tiroid"
+    ],
+    "correct": 1,
+    "explanation": "Etiologi Struma Koloides (Non-toxic Goiter): (1) Defisiensi iodin — faktor TERSERING di daerah endemik; kadar iodin rendah → penurunan sintesis hormon tiroid → TSH meningkat → hiperplasia tiroid kompensatorik. (2) Goitrogen — bahan yang mengganggu sintesis hormon tiroid: glukosinolat (sawi, kol, brokoli dosis besar), lithium, amiodarone. (3) Faktor genetik: polimorfisme gen tiroglobulin dan DUOX2 meningkatkan kerentanan. (4) Faktor risiko: wanita (4-5x), pubertas dan kehamilan (peningkatan kebutuhan iodin), usia pertengahan.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/32.jpeg"
+  },
+  {
+    "id": "P85",
+    "question": "Preparat histologis ini berasal dari organ apakah, dan apa gambaran serta diagnosis yang paling sesuai?",
+    "options": [
+      "Lambung — tampak epitel mukosa lambung yang hiperplastik dengan sel goblet banyak",
+      "Pankreas eksokrin — tampak duktus kistik besar dilapisi epitel musinosa papilari dalam lumen yang melebar, sesuai IPMN (Intraductal Papillary Mucinous Neoplasm)",
+      "Kandung empedu — tampak epitel kolumnar musinosa dengan metaplasia intestinal",
+      "Usus halus — tampak vili yang bercabang dengan sel goblet dan enteroendokrin",
+      "Kelenjar liur — tampak asini mukus dan saluran ekskretori dengan kista retensi"
+    ],
+    "correct": 1,
+    "explanation": "Sediaan berasal dari pankreas eksokrin, menunjukkan IPMN (Intraductal Papillary Mucinous Neoplasm). Gambaran khas: duktus pankreatikus yang berdilatasi kistik dilapisi epitel kolumnar musinosa papilari, dengan proyeksi papilari ke dalam lumen. IPMN adalah lesi kistik pankreas berpotensi maligna yang timbul dari epitel duktus pankreatikus (main duct atau branch duct). Empat subtipe: gastric (tersering, risiko rendah), intestinal, pancreatobiliary (risiko tinggi), dan oncocytic.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/69.jpg"
+  },
+  {
+    "id": "P86",
+    "question": "Bapak Ferlix, 62 tahun, dirujuk dengan keluhan nyeri perut kanan atas episodik, mual, dan rasa penuh setelah makan selama 8 bulan terakhir. CT scan menunjukkan lesi kistik multilokuler berukuran 4 cm di kepala pankreas yang berhubungan dengan ductus pankreatikus utama yang mengalami dilatasi. Kadar CEA dalam cairan kista sangat tinggi. Diagnosis apa yang paling mungkin dan gambaran histologis apa yang akan ditemukan?",
+    "options": [
+      "Serous cystadenoma — histologi: kista kecil berisi cairan serosa dilapisi sel kuboid dengan glikogen (clear cells)",
+      "IPMN (Intraductal Papillary Mucinous Neoplasm) main-duct type — histologi: duktus dilatasi dilapisi epitel musinosa papilari dengan berbagai derajat displasia",
+      "Pseudokista pankreas — histologi: dinding kista tanpa lapisan epitel sejati, hanya jaringan granulasi dan fibrosis",
+      "MCN (Mucinous Cystic Neoplasm) — histologi: epitel musinosa dengan ovarian-type stroma di bawahnya",
+      "Insulinoma — histologi: sel ribbon/trabekuler menyerupai sel islet dengan IHC insulin positif"
+    ],
+    "correct": 1,
+    "explanation": "Bapak Ferlix mengalami IPMN main-duct type: lesi kistik di pankreas yang berhubungan dengan dilatasi ductus pankreatikus utama, disertai kadar CEA tinggi dalam cairan kista (penanda musin). Gejala: nyeri episodik dan mual akibat obstruksi parsial duktus. Main-duct IPMN memiliki risiko maligna lebih tinggi dibanding branch-duct IPMN. Histologi: duktus pankreatikus utama yang berdilatasi dilapisi epitel kolumnar musinosa dengan proyeksi papilari dan berbagai derajat displasia (low grade hingga high grade).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/70.jpg"
+  },
+  {
+    "id": "P87",
+    "question": "Apa gejala KHAS yang akan ditemukan pada pasien dengan kondisi yang ditunjukkan sediaan histopatologis ini?",
+    "options": [
+      "Gejala khas: hipoglikemia berulang, kebingungan, dan gejala yang membaik setelah makan",
+      "Gejala khas: awalnya sering tanpa gejala (asimtomatik/incidentaloma), atau gejala tidak spesifik seperti nyeri/ketidaknyamanan perut samar, mual, pankreatitis rekuren; pada kasus lanjut dapat muncul ikterus obstruktif dan penurunan berat badan",
+      "Gejala khas: diare berair masif, hipokalemia, dan achlorhydria",
+      "Gejala khas: sindrom Zollinger-Ellison dengan ulkus peptik multipel yang sulit sembuh",
+      "Gejala khas: gondok masif dengan gejala obstruktif dan hipotiroidisme"
+    ],
+    "correct": 1,
+    "explanation": "Gejala tumor kistik pankreas (IPMN dan MCN): (1) Sering asimtomatik — ditemukan secara incidental pada CT/MRI yang dilakukan untuk indikasi lain (incidentaloma). (2) Gejala tidak spesifik: nyeri atau ketidaknyamanan abdomen samar-samar, mual, distesi. (3) Pankreatitis rekuren — musin kental dari IPMN dapat menyumbat duktus pankreatikus → episode pankreatitis akut berulang. (4) Gejala lanjut: ikterus obstruktif (lesi di kepala pankreas), penurunan berat badan, diabetes baru (komplikasi insufisiensi endokrin). (5) Berbeda dari insulinoma yang khas hipoglikemia.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/68.jpeg"
+  },
+  {
+    "id": "P88",
+    "question": "Preparat histopatologi ini berasal dari organ apakah, dan apa gambaran spesifik serta diagnosis yang paling sesuai?",
+    "options": [
+      "Kelenjar tiroid — tampak folikel tiroid koloid dengan sel-sel kuboid dan koloid abundant",
+      "Pankreas endokrin — tampak sel-sel poligonal dalam pola ribbon/trabekuler menyerupai sel islet Langerhans normal, dengan pewarnaan IHC cokelat positif insulin, sesuai Insulinoma",
+      "Kelenjar adrenal — tampak sel-sel korteks bervakuola dengan nuklei kecil",
+      "Hipofisis anterior — tampak sel monoton dalam lembaran tanpa reticulin framework",
+      "Kelenjar paratiroid — tampak sel chief dalam pola asinar padat"
+    ],
+    "correct": 1,
+    "explanation": "Sediaan berasal dari pankreas endokrin (islet Langerhans), menunjukkan Insulinoma — tumor sel islet pankreas tersering. Gambaran khas: sel-sel tumor poligonal dalam pola ribbon/trabekuler yang menyerupai sel islet Langerhans normal, IHC menunjukkan pewarnaan cokelat positif insulin (chromogenic staining). Insulinoma umumnya jinak (90%), soliter, berukuran kecil (<2cm), dan dapat terjadi di mana saja di sepanjang pankreas. Gejala patognomonik: Whipple's triad dengan hipoglikemia episodik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Neuroendokrin Pankreas/65_Insulinoma_ribbon or brown stained cells resembling those of the normal islet of Langerhans.jpeg"
+  },
+  {
+    "id": "P89",
+    "question": "Tumor neuroendokrin pankreas memiliki beberapa subtipe berdasarkan sel dan hormon yang dihasilkan. Apa saja variasi/subtipe tumor neuroendokrin pankreas yang dikenal?",
+    "options": [
+      "Tumor neuroendokrin pankreas hanya berupa insulinoma dan tidak ada subtipe lain",
+      "Subtipe tumor neuroendokrin pankreas: Insulinoma (sel beta, insulin → hipoglikemia), Gastrinoma (sel G, gastrin → Zollinger-Ellison), Glucagonoma (sel alfa, glukagon → 4D syndrome), VIPoma (VIP → WDHA), Somatostatinoma, dan Non-fungsional (tersering pada dewasa)",
+      "Tumor neuroendokrin pankreas semua memproduksi insulin dan memiliki gejala identik",
+      "Hanya insulinoma dan gastrinoma yang dikenal; tumor neuroendokrin lainnya tidak ada di pankreas",
+      "Semua tumor neuroendokrin pankreas bersifat maligna dan bermetastasis ke hati"
+    ],
+    "correct": 1,
+    "explanation": "Subtipe tumor neuroendokrin pankreas berdasarkan sel asal dan hormon: (1) Insulinoma (sel beta) — tersering (35-40%), menyebabkan hipoglikemia; 90% jinak. (2) Gastrinoma (sel G) — 20%, sindrom Zollinger-Ellison: hipergastrinemia → ulkus peptik multipel refrakter, diare; 60% maligna. (3) Glucagonoma (sel alfa) — 4D syndrome: Diabetes, Dermatitis (nekrolitik migratori eritema), DVT, Depresi. (4) VIPoma (sel D1) — WDHA syndrome (Watery Diarrhea, Hypokalemia, Achlorhydria). (5) Somatostatinoma (sel delta) — diabetes, kolelitiasis, steatorea. (6) Non-fungsional — tersering secara keseluruhan, tanpa gejala hormonal.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Neuroendokrin Pankreas/65_Insulinoma_ribbon or brown stained cells resembling those of the normal islet of Langerhans.jpeg"
+  },
+  {
+    "id": "P90",
+    "question": "Gambaran gross ini menunjukkan kelenjar tiroid yang membesar dengan multipel nodul-nodul ireguler berwarna cokelat-kemerahan dan area kekuningan, beberapa tampak hemoragik. Apakah diagnosis yang paling sesuai dengan gambaran ini?",
+    "options": [
+      "Struma multinodular (goiter nodular non-toksik) — nodul-nodul ireguler dengan variasi warna akibat perubahan degeneratif (hemoragik, kistik, fibrosis) pada folikel yang membesar tidak merata",
+      "Karsinoma anaplastik tiroid — massa tunggal yang menginvasi jaringan sekitar dengan nekrosis luas",
+      "Tiroiditis Riedel — kelenjar keras seperti kayu (woody) dengan fibrosis padat menggantikan parenkim",
+      "Adenoma tiroid soliter — nodul tunggal berkapsul dengan kompresi parenkim sekitar",
+      "Tiroid normal — variasi warna mencerminkan lobulasi fisiologis kelenjar"
+    ],
+    "correct": 0,
+    "explanation": "Gambaran gross struma multinodular (goiter nodular non-toksik) khas berupa kelenjar tiroid yang membesar secara asimetris dengan multipel nodul berbatas tidak tegas, ukuran bervariasi, dan warna heterogen (cokelat-kemerahan, kekuningan, area hemoragik atau kistik). Variasi ini timbul karena nodul-nodul mengalami siklus hiperplasia-involusi berulang akibat fluktuasi stimulasi TSH kronik, menyebabkan perubahan degeneratif sekunder seperti perdarahan, kalsifikasi, dan fibrosis pada beberapa nodul namun tidak pada yang lain — berbeda dengan adenoma soliter (satu nodul berkapsul) atau karsinoma anaplastik (massa infiltratif tunggal dengan nekrosis luas).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/32 (2).jpeg"
+  },
+  {
+    "id": "P91",
+    "question": "Preparat histopatologi tiroid ini menunjukkan folikel-folikel dengan ukuran yang sangat bervariasi — beberapa folikel sangat besar dan distensi berisi koloid, sementara folikel lain kecil dan hiperplastik. Apa istilah untuk gambaran folikel besar berisi koloid ini, dan apa makna keseluruhan gambaran ini?",
+    "options": [
+      "Disebut 'macrofollicle' (folikel makro); gambaran ini mendukung diagnosis struma koloides (nodular goiter) yang menunjukkan heterogenitas folikel akibat siklus hiperplasia-involusi berulang",
+      "Disebut 'Hurthle cell change'; gambaran ini patognomonik untuk Hashimoto thyroiditis",
+      "Disebut 'Orphan Annie eye nuclei'; gambaran ini patognomonik untuk karsinoma papiler tiroid",
+      "Disebut 'psammoma body'; gambaran ini menunjukkan kalsifikasi pada karsinoma meduler",
+      "Disebut 'ground glass nuclei'; gambaran ini menunjukkan infiltrasi limfositik difus"
+    ],
+    "correct": 3,
+    "explanation": "Folikel tiroid yang sangat distensi dan dipenuhi koloid disebut macrofollicle, berdampingan dengan folikel kecil yang hiperplastik (microfollicle). Heterogenitas ukuran folikel ini adalah ciri khas struma koloides (nodular goiter), mencerminkan respons tiroid yang tidak uniform terhadap stimulasi TSH kronik — sebagian area mengalami hiperplasia aktif (microfollicle, sel kolumnar, koloid sedikit) sementara area lain mengalami involusi dan akumulasi koloid berlebih (macrofollicle, sel gepeng/atrofi). Berbeda dengan Orphan Annie eye nuclei dan psammoma body yang merupakan ciri karsinoma papiler, atau Hurthle cell change pada Hashimoto.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/32 (3).jpeg"
+  },
+  {
+    "id": "P92",
+    "question": "Preparat histopatologi kelenjar tiroid ini menunjukkan kelompok sel-sel dengan nukleus oval pucat ('ground glass'), beberapa tampak tumpang tindih (overlapping) dan terdapat lekukan nukleus (nuclear groove). Apakah diagnosis yang ditunjukkan oleh gambaran nukleus ini, dan apa nama lain untuk gambaran nukleus pucat tersebut?",
+    "options": [
+      "Karsinoma papiler tiroid; gambaran nukleus pucat disebut 'Orphan Annie eye nuclei' akibat kromatin yang terdispersi halus dan menumpuk di membran nukleus",
+      "Hashimoto thyroiditis; gambaran nukleus pucat disebut 'Hurthle cell nuclei' akibat akumulasi mitokondria",
+      "Adenoma folikuler tiroid; gambaran nukleus pucat disebut 'clear cell change' akibat akumulasi glikogen",
+      "Karsinoma meduler tiroid; gambaran nukleus pucat disebut 'amyloid nuclei' akibat deposisi amiloid intranuklear",
+      "Struma koloides; gambaran nukleus pucat disebut 'colloid nuclei' akibat resorpsi koloid berlebih"
+    ],
+    "correct": 0,
+    "explanation": "Gambaran ini khas untuk karsinoma papiler tiroid. Nukleus sel tumor tampak besar, oval, dan pucat ('empty' atau ground glass appearance) karena kromatin terdispersi halus dan terdorong ke tepi membran nukleus, dikenal sebagai 'Orphan Annie eye nuclei' (menyerupai mata kosong karakter komik Little Orphan Annie). Sering disertai nuclear groove (lekukan longitudinal pada nukleus) dan sel-sel yang overlapping. Bersama dengan psammoma body dan struktur papilari bercabang, ini merupakan kriteria diagnostik utama karsinoma papiler tiroid pada pemeriksaan sitologi maupun histopatologi.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/52_Orphan annie atau ground glass.jpeg"
+  },
+  {
+    "id": "P93",
+    "question": "Gambar ini menunjukkan hasil pemeriksaan sitologi dari FNAB (Fine Needle Aspiration Biopsy) tiroid, tampak kelompok sel epitel dengan nukleus besar, beberapa overlapping dan pucat. Apakah kegunaan utama pemeriksaan FNAB pada evaluasi nodul tiroid, dan apa keuntungannya?",
+    "options": [
+      "FNAB merupakan pemeriksaan awal (first-line) untuk membedakan nodul tiroid jinak vs ganas secara minimal invasif, cepat, murah, dan dapat dilakukan rawat jalan tanpa anestesi umum",
+      "FNAB hanya digunakan untuk mengukur kadar hormon tiroid dalam jaringan",
+      "FNAB digunakan untuk terapi definitif karsinoma tiroid dengan mengangkat seluruh nodul",
+      "FNAB tidak dapat mendeteksi karsinoma papiler karena sel-selnya terlalu kecil untuk diaspirasi",
+      "FNAB hanya bermanfaat untuk diagnosis Graves disease, bukan untuk nodul tiroid"
+    ],
+    "correct": 0,
+    "explanation": "FNAB (Fine Needle Aspiration Biopsy) adalah pemeriksaan lini pertama (first-line) untuk evaluasi nodul tiroid karena bersifat minimal invasif, cepat, relatif murah, dan dapat dilakukan secara rawat jalan dengan jarum halus tanpa anestesi umum. FNAB sangat efektif mendeteksi karsinoma papiler tiroid karena gambaran sitologinya khas — sel-sel dengan nukleus besar, overlapping, 'Orphan Annie eye' (ground glass), dan nuclear groove dapat dikenali langsung dari aspirat. Hasil FNAB mengkategorikan nodul (sistem Bethesda) menjadi jinak, mencurigakan, atau ganas, yang menentukan apakah diperlukan tindakan bedah lanjutan.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/50_FNAB-BAJAH.jpeg"
+  }
+]
