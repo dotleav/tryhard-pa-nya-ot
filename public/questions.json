@@ -31,13 +31,13 @@
   },
   {
     "id": "P3",
-    "question": "Preparat histopatologi ini menunjukkan gambaran tiroid pada hipertiroidisme. Sel-sel epitel folikel tampak seperti apa, dan apa maknanya secara fungsional?",
+    "question": "Preparat histopatologi ini menunjukkan gambaran tiroid pada hipertiroidisme. Sel-sel epitel folikel tampak seperti apa?",
     "options": [
-      "Sel kolumnar tinggi hiperaktif lining folikel — tanda stimulasi berlebihan Graves disease",
-      "Sel oksifilik (Hurthle cell) dengan sitoplasma granular — tanda Hashimoto thyroiditis",
-      "Sel kuboid rendah dengan koloid penuh — tanda tiroid inaktif (hipotiroid)",
-      "Sel clear (ground glass) dengan nuklei kosong — tanda karsinoma papiler tiroid",
-      "Sel basaloid kecil tanpa koloid — tanda adenoma embrional tiroid"
+      "Sel kolumnar tinggi hiperaktif lining folikel",
+      "Sel oksifilik (Hurthle cell) dengan sitoplasma granular",
+      "Sel kuboid rendah dengan koloid penuh",
+      "Sel clear (ground glass) dengan nuklei kosong",
+      "Sel basaloid kecil tanpa koloid"
     ],
     "correct": 0,
     "explanation": "Pada Graves disease, sel folikel tiroid tampak sebagai sel kolumnar tinggi hiperaktif (tall columnar epithelium) yang melapisi folikel-folikel. Ini berbeda dari tiroid normal yang selnya kuboid. Hiperplasia sel kolumnar tinggi ini diinduksi oleh Thyroid-Growth Immunoglobulin (TGI) yang menstimulasi pembesaran kelenjar, sementara TSI menstimulasi produksi hormon berlebihan.",
