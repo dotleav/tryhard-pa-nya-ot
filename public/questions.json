@@ -1468,7 +1468,7 @@
     "explanation": "Pada skintigrafi tiroid: 'hot' nodule = hipermetabolik (mengambil isotop lebih banyak, biasanya jinak/adenoma toksik). 'Cold' nodule = hipometabolik (tidak/kurang mengambil isotop) — dapat berupa kista atau tumor solid. Cold nodule memiliki risiko keganasan yang lebih tinggi (~10-15%) dibanding hot nodule, sehingga memerlukan evaluasi lebih lanjut dengan FNAB (Fine Needle Aspiration Biopsy/BAJAH).",
     "category": "Patologi Endokrin (Bergambar)",
     "img": "Struma Koloides [Goiter]/33.jpeg"
-  }
+  },
   {
     "id": "P99",
     "question": "Preparat histologi ini menunjukkan gambaran duktus pankreas dengan epitel kolumnar yang mengalami displasia ringan, inti membesar namun teratur, tanpa arsitektur papiler kompleks. Apakah diagnosis yang paling tepat untuk gambaran ini?",
@@ -1518,11 +1518,11 @@
     "id": "P102",
     "question": "Preparat histologi kista pankreas ini memperlihatkan proyeksi papiler berlapis epitel kolumnar tinggi dengan musin goblet cell-like. Apakah subtipe IPMN yang paling sesuai, dan bagaimana karakteristik imunohistokimianya?",
     "options": [
-      "CN dengan displasia tinggi",
-      "IPMN subtipe gastrik",
-      "IPMN subtipe pankreatobilier",
-      "IPMN subtipe onkositik",
-      "MIPMN subtipe intestinal"
+      "MCN dengan displasia tinggi — MUC1 (+), ER/PR (+) pada stroma",
+      "IPMN subtipe gastrik — MUC5AC (+), MUC2 (-), CDX2 (-)",
+      "IPMN subtipe pankreatobilier — MUC1 (+), MUC2 (-)",
+      "IPMN subtipe onkositik — MUC5AC (+), MUC6 (+)",
+      "IPMN subtipe intestinal — MUC2 (+), MUC5AC (+), CDX2 (+)"
     ],
     "correct": 4,
     "explanation": "IPMN subtipe intestinal (D): epitel menyerupai villous adenoma kolon — sel kolumnar dengan goblet cells, papilae panjang. Imunohistokimia: MUC2 (+), CDX2 (+), MUC5AC (+), MUC1 (-). Risiko keganasan SEDANG-TINGGI, terutama pada main duct IPMN. Jika berprogresi invasif, cenderung menjadi colloid (mucinous non-cystic) carcinoma — prognosis relatif lebih baik dibanding tubular carcinoma.",
@@ -1554,7 +1554,7 @@
       "IPMN subtipe onkositik",
       "Acinar cell carcinoma"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "IPMN subtipe onkositik (F): sel dengan sitoplasma eosinofilik granular melimpah (akibat akumulasi mitokondria), inti bulat-irregular dengan nukleolus besar, papilae kompleks padat. MUC5AC (+), MUC6 (+), MUC1 fokal (+). Kini sering diklasifikasikan tersendiri sebagai 'Intraductal Oncocytic Papillary Neoplasm (IOPN)'. Perilaku biologis intermediate — lebih jarang invasif dibanding subtipe pankreatobilier, namun prognosis setelah reseksi umumnya baik.",
     "category": "Patologi Eksokrin Pankreas (Bergambar)",
     "img": "Tumor Kelenjar Eksokrin Pankreas/F.jpg"
@@ -1608,7 +1608,7 @@
     "id": "P108",
     "question": "Preparat histologi kista pankreas ini memperlihatkan epitel musinosa dengan displasia berat, atipia sitonuklear prominen, stratifikasi inti, dan arsitektur kompleks, disertai stroma selular menyerupai stroma ovarium di bawahnya. Apakah diagnosis yang paling tepat, dan apa implikasi klinisnya?",
     "options": [
-      "MCN dengan karsinoma invasifn",
+      "MCN dengan karsinoma invasif",
       "MCN low grade",
       "IPMN subtipe pankreatobilier",
       "MCN high grade",
