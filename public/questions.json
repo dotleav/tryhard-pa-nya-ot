@@ -121,7 +121,7 @@
   },
   {
     "id": "P9",
-    "question": "Gambar ini menunjukkan pasien dengan pembesaran leher masif (kiri) dan gambaran gross serta histologi (kanan). Gambaran histologi menunjukkan variasi ukuran folikel yang mencolok. Apakah diagnosis ini dan apa ciri khas histologinya?",
+    "question": "Gambar ini menunjukkan pasien dengan pembesaran leher masif (kiri) dan gambaran gross serta histologi (kanan). Gambaran histologi menunjukkan variasi ukuran folikel yang mencolok. Apakah diagnosis ini dan apa ciri  histologinya?",
     "options": [
       "Graves disease — folikel uniform dengan e.kolumnar tinggi dan scalloped colloid",
       "Non-toxic goiter — Terdapat variasi ukuran folikel dengan koloid yang melimpah.",
@@ -181,7 +181,7 @@
   },
   {
     "id": "P13",
-    "question": "Preparat histologi ini menunjukkan adenoma folikuler tiroid jenis Embryonal. Folikel-folikel tampak poorly formed dalam pola trabekular. Apa ciri khas Embryonal adenoma dibanding subtipe adenoma folikuler lainnya?",
+    "question": "Preparat histologi ini menunjukkan adenoma folikuler tiroid jenis Embryonal. Folikel-folikel tampak poorly formed dalam pola trabekular. Apa ciri  Embryonal adenoma dibanding subtipe adenoma folikuler lainnya?",
     "options": [
       "Folikel kecil seragam (microfollicular) dalam pola fetal yang teratur",
       "Sel oksifilik abundan dengan sitoplasma granular eosinofilik",
@@ -256,7 +256,7 @@
   },
   {
     "id": "P18",
-    "question": "Preparat histologi Hurthle Cell Adenoma ini menunjukkan sel-sel dengan ciri morfologi yang sangat khas. Apa ciri sel Hurthle (Askanazy cell) yang terlihat pada gambar ini?",
+    "question": "Preparat histologi Hurthle Cell Adenoma ini menunjukkan sel-sel dengan ciri morfologi yang sangat . Apa ciri sel Hurthle (Askanazy cell) yang terlihat pada gambar ini?",
     "options": [
       "Sel dengan nuklei clear (ground glass) dan pseudoinclusion — tanda keganasan papiler",
       "Sel besar dengan sitoplasma eosinofilik granular abundant dan nuklei kecil reguler",
@@ -301,7 +301,7 @@
   },
   {
     "id": "P21",
-    "question": "Preparat histologi ini menunjukkan dua gambaran PTC: kiri (B) — well-formed papillae, kanan (C) — 'Orphan Annie eye' atau ground glass nuclei. Apa struktur papilla pada PTC secara histologis?",
+    "question": "Sediaan histopatologi ini menunjukkan sediaan Pappilary Thyroid Carcinoma (PTC). Apa struktur papilla pada sediaan PTC ini secara histologis?",
     "options": [
       "Papilla tanpa sumbu fibrovaskular, dilapisi sel skuamosa berlapis",
       "Papilla dilapisi sel oksifilik (Hurthle cells) dengan sitoplasma granular",
@@ -318,11 +318,11 @@
     "id": "P22",
     "question": "Preparat histologi PTC ini menunjukkan branching papillae dilapisi epitel kolumnar neoplastik dengan nuklei clear, dan terdapat badan bulat hitam-gelap (ditunjuk panah). Struktur apa itu dan apa maknanya?",
     "options": [
-      "Asteroid body — tanda tiroiditis granulomatosa sarkoidosis",
-      "Hematoksilin body — deposit DNA dari sel yang mengalami apoptosis",
-      "Corpora amylacea — deposit glikoprotein jinak pada parenkim tiroid normal",
-      "Psammoma body (calcospherite) — kalsifikasi konsentris laminasi yang patognomonik PTC",
-      "Cristae di dalam mitokondria Hurthle cells — tanda metaplasia oksifilik"
+      "Asteroid body",
+      "Hematoksilin body",
+      "Corpora amylacea",
+      "Psammoma body",
+      "Cristae di dalam mitokondria Hurthle cells"
     ],
     "correct": 3,
     "explanation": "Psammoma bodies (calcospherites) adalah badan kalsifikasi konsentris laminasi berbentuk bulat, tampak basofilik gelap pada H&E. Terbentuk akibat kalsifikasi bertahap pada pusat papilla yang nekrotik. Psammoma bodies sangat karakteristik PTC dan dianggap patognomonik — jika ditemukan di KGB leher tanpa tumor yang jelas, pikirkan PTC tersembunyi. Tersendiri ini tidak cukup untuk diagnosis PTC (perlu nuklei khas).",
@@ -333,11 +333,11 @@
     "id": "P23",
     "question": "Preparat histologi ini menunjukkan papillary carcinoma tiroid dengan branching papillae. Karsinoma papiler tiroid memiliki mutasi molekuler yang khas. Mutasi/rearrangement mana yang PALING sering ditemukan pada PTC?",
     "options": [
-      "RAS mutation (NRAS codon 61) — paling sering pada karsinoma folikuler",
-      "MEN1 gene mutation — khas tumor neuroendokrin multipel",
-      "KRAS mutation — khas adenokarsinoma pankreas",
-      "BRAF V600E mutation dan RET/PTC rearrangement — khas PTC",
-      "PAX8-PPARγ1 fusion gene — khas karsinoma folikuler"
+      "RAS mutation (NRAS codon 61)",
+      "MEN1 gene mutation",
+      "KRAS mutation",
+      "BRAF V600E mutation",
+      "PAX8-PPARγ1 fusion gene"
     ],
     "correct": 3,
     "explanation": "Mutasi khas PTC: (1) BRAF V600E mutation — ditemukan pada 1/3-1/2 kasus PTC, paling sering pada PTC klasik; (2) RET/PTC rearrangement — ditemukan pada ~1/5 kasus, lebih sering pada anak-anak dan kasus post-radiasi; (3) RAS mutations — kurang sering. BRAF V600E dikaitkan dengan prognosis lebih buruk (ekstrakapsuler, rekurensi). Berbeda dengan karsinoma folikuler yang khas RAS mutation dan PAX8-PPARγ1 fusion.",
@@ -393,11 +393,11 @@
     "id": "P27",
     "question": "Preparat histologi ini memperlihatkan PTC dengan papilla-papilla dan folikel. Karsinoma papiler tiroid dapat memiliki beberapa varian histologis. Varian mana yang memiliki prognosis PALING BURUK?",
     "options": [
-      "Varian diffuse sclerosing PTC — prognosis sangat baik meskipun presentasi dramatis",
-      "Varian microcarcinoma PTC (<1cm) — prognosis paling buruk karena tidak terdeteksi",
-      "Varian klasik (conventional) PTC — prognosis paling buruk karena paling sering",
-      "Varian tall cell PTC — prognosis lebih buruk, agresif, sering rekurensi dan metastasis jauh",
-      "Varian folikuler PTC (follicular variant) — prognosis buruk karena sulit dibedakan dari adenoma"
+      "Varian diffuse sclerosing PTC",
+      "Varian microcarcinoma PTC (<1cm)",
+      "Varian klasik",
+      "Varian tall cell PTC",
+      "Varian folikuler PTC"
     ],
     "correct": 3,
     "explanation": "Varian histologis PTC dengan prognosis lebih buruk: TALL CELL VARIANT — sel tumor berbentuk kolumnar tinggi (tinggi 2-3x lebar), sitoplasma eosinofilik, lebih sering terjadi invasi vaskular, ekstrakapsuler, dan metastasis jauh. Tall cell variant dikaitkan dengan BRAF V600E yang lebih sering dan rekurensi lebih tinggi. Varian klasik memiliki prognosis excellent. Varian mikrokarsinoma (<1cm) justru prognosis terbaik.",
@@ -451,13 +451,13 @@
   },
   {
     "id": "P31",
-    "question": "Preparat histologi ini menunjukkan subtipe-subtipe Intraductal Papillary Mucinous Neoplasm (IPMN) pankreas: gastric (C), intestinal (D), pancreatobiliary (E), dan oncocytic (F). IPMN adalah lesi kistik pankreas berpotensi maligna. Subtipe IPMN mana yang memiliki risiko keganasan TERTINGGI?",
+    "question": "Preparat histologi ini menunjukkan subtipe-subtipe Intraductal Papillary Mucinous Neoplasm (IPMN) pankreas. IPMN adalah lesi kistik pankreas berpotensi maligna. Subtipe IPMN mana dari bawah ini yang memiliki risiko keganasan TERTINGGI?",
     "options": [
-      "Subtipe pankreatobilier (E) dan intestinal (D) — risiko lebih tinggi dari subtipe gastrik",
+      "Subtipe pankreatobilier",
       "Semua subtipe IPMN memiliki risiko keganasan identik sehingga tidak perlu dibedakan",
-      "Subtipe onkositik (F) — sel oksifilik agresif, selalu maligna",
-      "Subtipe gastrik (C) — paling sering, risiko keganasan tertinggi",
-      "Subtipe intestinal (D) saja yang memiliki risiko keganasan signifikan"
+      "Subtipe onkositik",
+      "Subtipe gastrik",
+      "Subtipe intestinal"
     ],
     "correct": 0,
     "explanation": "Subtipe IPMN dan risiko keganasan: Gastric type (C) — paling sering, risiko RENDAH (biasanya low-grade, jarang invasif). Intestinal type (D) — risiko SEDANG-TINGGI, jika invasif biasanya koloid karsinoma. Pancreatobiliary type (E) — risiko TINGGI, jika invasif berupa tubular/ductal adenocarcinoma, prognosis buruk. Oncocytic type (F) — langka, perilaku intermediate. Prinsip: 'main duct IPMN' (melibatkan ductus Wirsung) memiliki risiko maligna lebih tinggi dari 'branch duct IPMN'.",
@@ -1468,5 +1468,170 @@
     "explanation": "Pada skintigrafi tiroid: 'hot' nodule = hipermetabolik (mengambil isotop lebih banyak, biasanya jinak/adenoma toksik). 'Cold' nodule = hipometabolik (tidak/kurang mengambil isotop) — dapat berupa kista atau tumor solid. Cold nodule memiliki risiko keganasan yang lebih tinggi (~10-15%) dibanding hot nodule, sehingga memerlukan evaluasi lebih lanjut dengan FNAB (Fine Needle Aspiration Biopsy/BAJAH).",
     "category": "Patologi Endokrin (Bergambar)",
     "img": "Struma Koloides [Goiter]/33.jpeg"
+  }
+  {
+    "id": "P99",
+    "question": "Preparat histologi ini menunjukkan gambaran duktus pankreas dengan epitel kolumnar yang mengalami displasia ringan, inti membesar namun teratur, tanpa arsitektur papiler kompleks. Apakah diagnosis yang paling tepat untuk gambaran ini?",
+    "options": [
+      "Pancreatic Intraepithelial Neoplasia (PanIN) low grade",
+      "Pancreatic Intraepithelial Neoplasia (PanIN) high grade",
+      "IPMN subtipe gastrik",
+      "Mucinous Cystic Neoplasm low grade",
+      "Intraductal Tubulopapillary Neoplasm (ITPN)"
+    ],
+    "correct": 0,
+    "explanation": "Gambaran PanIN low grade (sebelumnya PanIN-1 dan PanIN-2): epitel kolumnar dengan musin apikal, displasia ringan-sedang, inti membesar namun masih teratur, nukleus basal. Tidak ada arsitektur papiler kompleks atau cribriform. PanIN adalah prekursor paling umum adenokarsinoma duktal pankreas. Perbedaan kunci: PanIN high grade (B) menunjukkan atipia berat, kehilangan polaritas, arsitektur kompleks — setara carcinoma in situ.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/A.jpg"
+  },
+  {
+    "id": "P100",
+    "question": "Preparat histologi ini memperlihatkan epitel duktus pankreas dengan displasia berat, kehilangan polaritas inti, atipia sitonuklear nyata, arsitektur kribriforma, dan stratifikasi inti. Tidak tampak invasi stroma. Apakah diagnosis yang paling tepat?",
+    "options": [
+      "Pancreatic Intraepithelial Neoplasia (PanIN) low grade",
+      "Pancreatic Intraepithelial Neoplasia (PanIN) high grade",
+      "IPMN subtipe gastrik",
+      "Mucinous Cystic Neoplasm low grade",
+      "Intraductal Tubulopapillary Neoplasm (ITPN)"
+    ],
+    "correct": 1,
+    "explanation": "PanIN high grade (dulu PanIN-3) adalah carcinoma in situ pankreas: displasia berat, atipia sitonuklear prominen, arsitektur kribriforma/papiler kompleks, kehilangan polaritas, mitosis abnormal — namun membrana basalis masih intak (belum invasif). Ini adalah prekursor langsung adenokarsinoma duktal invasif. Berbeda dengan IPMN yang makroskopis membentuk kista/dilatasi duktus yang terlihat imaging; PanIN berukuran <5 mm dan tidak terdeteksi imaging rutin.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/B.jpg"
+  },
+  {
+    "id": "P101",
+    "question": "Preparat histologi kista pankreas ini menunjukkan epitel kolumnar penghasil musin yang menyerupai epitel foveolar lambung, dengan displasia rendah, tanpa komponen papiler kompleks. Apakah subtipe IPMN yang paling sesuai dengan gambaran ini?",
+    "options": [
+      "Pancreatic Intraepithelial Neoplasia (PanIN) low grade",
+      "Pancreatic Intraepithelial Neoplasia (PanIN) high grade",
+      "IPMN subtipe gastrik",
+      "Mucinous Cystic Neoplasm low grade",
+      "Intraductal Tubulopapillary Neoplasm (ITPN)"
+    ],
+    "correct": 2,
+    "explanation": "IPMN subtipe gastrik (C): epitel menyerupai mukosa foveolar gaster, sel kolumnar tinggi dengan musin apikal pucat, inti basal kecil-reguler. Ini adalah subtipe IPMN paling sering, umumnya ditemukan pada branch duct IPMN. Risiko keganasan RENDAH — jarang berprogresi ke invasif. Ekspresi MUC5AC (+), MUC1 (-), MUC2 (-). Jika invasif, cenderung berupa tubular carcinoma.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/C.jpg"
+  },
+  {
+    "id": "P102",
+    "question": "Preparat histologi kista pankreas ini memperlihatkan proyeksi papiler berlapis epitel kolumnar tinggi dengan musin goblet cell-like. Apakah subtipe IPMN yang paling sesuai, dan bagaimana karakteristik imunohistokimianya?",
+    "options": [
+      "CN dengan displasia tinggi",
+      "IPMN subtipe gastrik",
+      "IPMN subtipe pankreatobilier",
+      "IPMN subtipe onkositik",
+      "MIPMN subtipe intestinal"
+    ],
+    "correct": 4,
+    "explanation": "IPMN subtipe intestinal (D): epitel menyerupai villous adenoma kolon — sel kolumnar dengan goblet cells, papilae panjang. Imunohistokimia: MUC2 (+), CDX2 (+), MUC5AC (+), MUC1 (-). Risiko keganasan SEDANG-TINGGI, terutama pada main duct IPMN. Jika berprogresi invasif, cenderung menjadi colloid (mucinous non-cystic) carcinoma — prognosis relatif lebih baik dibanding tubular carcinoma.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/D.jpg"
+  },
+  {
+    "id": "P103",
+    "question": "Preparat histologi kista pankreas ini menunjukkan papilae kompleks bercabang dengan epitel kuboid-kolumnar, inti besar dengan nukleolus prominen, rasio N:C tinggi, dan displasia berat. Produksi musin minimal. Apakah subtipe IPMN yang paling sesuai?",
+    "options": [
+      "IPMN subtipe pankreatobilier",
+      "IPMN subtipe intestinal",
+      "IPMN subtipe gastrik",
+      "IPMN subtipe onkositik",
+      "Intraductal Tubulopapillary Neoplasm (ITPN)"
+    ],
+    "correct": 0,
+    "explanation": "IPMN subtipe pankreatobilier (E): papilae kompleks bercabang, epitel kuboid dengan atipia berat menyerupai epitel bilier, inti besar — nukleolus prominen, rasio N:C tinggi. MUC1 (+), MUC5AC (+), MUC2 (-). Ini adalah subtipe IPMN dengan risiko keganasan TERTINGGI. Jika invasif, berupa tubular/ductal adenocarcinoma dengan prognosis paling buruk di antara semua subtipe IPMN. Sering ditemukan pada main duct IPMN.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/E.jpg"
+  },
+  {
+    "id": "P104",
+    "question": "Preparat histologi kista pankreas ini memperlihatkan papilae dengan sel-sel bersitoplaasma eosinofilik granular berlimpah, inti bulat dengan nukleolus prominen, dan nodul intraduktus yang padat. Apakah subtipe IPMN yang paling sesuai?",
+    "options": [
+      "IPMN subtipe gastrik",
+      "IPMN subtipe pankreatobilier",
+      "IPMN subtipe intestinal",
+      "IPMN subtipe onkositik"",
+      "Acinar cell carcinoma"
+    ],
+    "correct": 0,
+    "explanation": "IPMN subtipe onkositik (F): sel dengan sitoplasma eosinofilik granular melimpah (akibat akumulasi mitokondria), inti bulat-irregular dengan nukleolus besar, papilae kompleks padat. MUC5AC (+), MUC6 (+), MUC1 fokal (+). Kini sering diklasifikasikan tersendiri sebagai 'Intraductal Oncocytic Papillary Neoplasm (IOPN)'. Perilaku biologis intermediate — lebih jarang invasif dibanding subtipe pankreatobilier, namun prognosis setelah reseksi umumnya baik.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/F.jpg"
+  },
+  {
+    "id": "P105",
+    "question": "Preparat histologi ini menunjukkan kelenjar-kelenjar irregular berukuran bervariasi yang menginfiltrasi stroma fibrotik padat (desmoplastik), dengan gambaran angulasi dan incomplete lumina. Lesi ini timbul dari suatu neoplasma kistik intraduktus. Apakah diagnosis yang paling tepat?",
+    "options": [
+      "Acinar cell carcinoma",
+      "Invasive colloid carcinoma arising in IPMN",
+      "Pancreatic ductal adenocarcinoma de novo",
+      "Mucinous cystic neoplasm dengan high grade dysplasia",
+      "Invasive tubular carcinoma arising in IPMN"
+    ],
+    "correct": 4,
+    "explanation": "Invasive tubular carcinoma arising in IPMN (G): kelenjar-kelenjar angulat/irregular menginfiltrasi stroma desmoplastik padat — identik morfologinya dengan adenokarsinoma duktal konvensional. Ciri khas: timbul dalam konteks IPMN (ada komponen IPMN residual). Berbeda dengan colloid carcinoma (H) yang menunjukkan pulau-pulau epitel mengapung dalam pool musin ekstraselular. Tubular carcinoma arising in IPMN subtipe pankreatobilier memiliki prognosis paling buruk.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/G.jpg"
+  },
+  {
+"id": "P106",
+    "question": "Preparat histologi ini memperlihatkan pool-pool musin ekstraselular yang luas, di dalamnya terdapat sel-sel epitel neoplastik yang mengapung dalam kelompok kecil atau pita epitelial. Lesi ini timbul dari neoplasma intraduktus pankreas. Apakah diagnosis yang paling tepat?",
+    "options": [
+      "Invasive tubular carcinoma arising in IPMN",
+      "Invasive colloid carcinoma arising in IPMN",
+      "Mucinous cystic neoplasm (MCN) ruptur",
+      "Pseudomyxoma peritonei",
+      "Signet ring cell carcinoma pankreas"
+    ],
+    "correct": 1,
+    "explanation": "Invasive colloid (mucinous non-cystic) carcinoma arising in IPMN (H): pool musin ekstraselular berlimpah dengan epitel neoplastik mengapung di dalamnya. Umumnya timbul dari IPMN subtipe intestinal. Prognosis relatif LEBIH BAIK dibanding tubular carcinoma karena: pertumbuhan lambat, respons imun host lebih baik, tepi tumor lebih terdefinisi. Berbeda dengan pseudomyxoma peritonei yang merupakan musin di kavitas peritoneal, bukan dalam parenkim organ.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/H.jpg"
+  },
+  {
+    "id": "P107",
+    "question": "Preparat histologi kista pankreas ini menunjukkan epitel kolumnar penghasil musin dengan displasia ringan yang melapisi kista, di bawahnya terdapat stroma selular yang menyerupai stroma ovarium dengan sel-sel spindel padat. Apakah diagnosis yang paling tepat?",
+    "options": [
+      "Mucinous Cystic Neoplasm (MCN) high grade",
+      "IPMN subtipe gastrik",
+      "Mucinous Cystic Neoplasm (MCN) low grade",
+      "Serous cystadenoma",
+      "Solid pseudopapillary neoplasm (SPN)"
+    ],
+    "correct": 2,
+    "explanation": "Mucinous Cystic Neoplasm (MCN) low grade (I): kista dilapisi epitel kolumnar musinosa dengan displasia ringan + stroma ovarian-type yang khas (sel spindel padat, ER/PR positif) — ini adalah pembeda utama MCN dari IPMN. MCN hampir eksklusif pada wanita paruh baya, tidak berhubungan dengan sistem duktus utama. Low grade = displasia ringan-sedang, tanpa atipia berat. Stroma ovarian-type adalah sine qua non diagnosis MCN.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/I.jpg"
+  },
+  {
+    "id": "P108",
+    "question": "Preparat histologi kista pankreas ini memperlihatkan epitel musinosa dengan displasia berat, atipia sitonuklear prominen, stratifikasi inti, dan arsitektur kompleks, disertai stroma selular menyerupai stroma ovarium di bawahnya. Apakah diagnosis yang paling tepat, dan apa implikasi klinisnya?",
+    "options": [
+      "MCN dengan karsinoma invasifn",
+      "MCN low grade",
+      "IPMN subtipe pankreatobilier,
+      "MCN high grade",
+      "Serous cystadenocarcinoma"
+    ],
+    "correct": 3,
+    "explanation": "MCN high grade (J): sama dengan MCN low grade (stroma ovarian-type tetap ada) namun epitel menunjukkan displasia BERAT — atipia berat, stratifikasi, mitosis, kehilangan polaritas = carcinoma in situ. Implikasi klinis: risiko sangat tinggi untuk progresi ke MCN dengan karsinoma invasif. Reseksi bedah diindikasikan untuk semua MCN yang resektabel, terlepas dari grade, karena tidak ada cara membedakan low vs high grade secara pra-operatif yang reliable. Berbeda dengan IPMN yang bisa diobservasi pada kasus tertentu.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/J.jpg"
+  },
+  {
+    "id": "P109",
+    "question": "Preparat histologi ini menunjukkan neoplasma intraduktus dengan arsitektur kribriforma padat, sel-sel dengan atipia tinggi namun produksi musin minimal, dan pola pertumbuhan tubularis. Tidak tampak stroma ovarian-type. Apakah diagnosis yang paling tepat, dan apa perbedaan utamanya dari IPMN?",
+    "options": [
+      "Acinar cell carcinoma intraduktus",
+      "IPMN subtipe pankreatobilier",
+      "PanIN high grade",
+      "MCN high grade",
+      "Intraductal Tubulopapillary Neoplasm (ITPN)"
+    ],
+    "correct": 4,
+    "explanation": "Intraductal Tubulopapillary Neoplasm (ITPN) (K): neoplasma intraduktus dengan arsitektur TUBULAR dan kribriforma padat, SELALU high grade dysplasia, produksi musin MINIMAL (membedakan dari IPMN). MUC1 (+), MUC2 (-), MUC5AC (-/fokal). Berbeda dari IPMN yang selalu ada produksi musin bermakna. ITPN memiliki mutasi berbeda dari IPMN (tidak ada mutasi GNAS yang khas IPMN). Prognosis setelah reseksi relatif lebih baik dari adenokarsinoma duktal konvensional, namun sebagian dapat berprogresi invasif.",
+    "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/K.jpg"
   }
 ]
