@@ -1394,4 +1394,50 @@
     "category": "Patologi Endokrin (Bergambar)",
     "img": "Karsinoma Papiler Kelenjar Tiroid/50_FNAB-BAJAH.jpeg"
   }
+    },
+  {
+    "id": "P94",
+    "question": "Pada skintigrafi tiroid dengan 99mTc-Technetium, gambaran A paling tepat disebut sebagai apa?",
+    "options": [
+      "Solitary cold nodule",
+      "Multiple hot nodules",
+      "Tiroid normal",
+      "Tiroiditis difus",
+      "Struma Koloides Chronic"
+    ],
+    "correct": 2,
+    "explanation": "Gambaran A menunjukkan uptake radioisotop yang simetris dan homogen pada kedua lobus tiroid. Gambaran tersebut paling tepat diinterpretasikan sebagai Tiroid yang normal.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/33.jpeg"
+  },
+  {
+    "id": "P95",
+    "question": "Pada skintigrafi tiroid dengan 99mTc-Technetium, gambaran B paling tepat disebut sebagai apa?",
+    "options": [
+      "Diffuse uptake",
+      "Solitary cold nodule",
+      "Non-functioning thyroid",
+      "Multiple hot nodules",
+      "Tiroid Normal"
+    ],
+    "correct": 3,
+    "explanation": "Gambaran B menunjukkan beberapa area dengan peningkatan uptake radioisotop dibanding jaringan sekitarnya. Gambaran tersebut disebut sebagai Multiple hot nodules.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/33.jpeg"
+  },
+  {
+    "id": "P96",
+    "question": "Pada skintigrafi tiroid dengan 99mTc-Technetium, gambaran C paling tepat disebut sebagai apa?",
+    "options": [
+      "Solitary cold nodule",
+      "Multiple hot nodules",
+      "Diffuse toxic uptake",
+      "Single Hot nodules",
+      "Single Hot nodules in your area"
+    ],
+    "correct": 0,
+    "explanation": "gambaran C (ditunjuk panah) menunjukkan area fokal yang tidak menangkap radioisotop. Gambaran tersebut disebut sebagai Solitary cold nodule. sudah pasti bukan Single hot nodule  in your area karena itu mah iklan disamping iklan zeus",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/33.jpeg"
+  },
 ]
