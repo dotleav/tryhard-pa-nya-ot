@@ -1,7 +1,7 @@
 [
   {
     "id": "P1",
-    "question": "Perhatikan gambar klinis pasien ini. Tanda panah menunjukkan dua temuan khas pada kondisi ini. Apakah diagnosis dan mekanisme utama penyakit ini?",
+    "question": "Perhatikan gambar klinis pasien ini. Gambar menunjukkan dua temuan khas pada kondisi ini. Apakah diagnosis dan mekanisme utama penyakit ini?",
     "options": [
       "Karsinoma papiler tiroid, akibat mutasi BRAF menyebabkan massa tiroid progresif",
       "Hashimoto thyroiditis, akibat defisiensi iodin menyebabkan hipotiroid",
