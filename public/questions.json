@@ -64,8 +64,8 @@
     "question": "Gambaran gross patologi ini menunjukkan kelenjar tiroid yang simetris membesar dan noduler kasar. Penampang koronal memperlihatkan nodula-nodula ireguler dengan kapsul intak. Diagnosis apakah ini?",
     "options": [
       "Hashimoto thyroiditis — tiroid simetris membesar dengan nodula ireguler",
-      "Struma multinodular (goiter nodular non-toksik)",
-      "Graves disease — tiroid difus membesar tanpa nodulasi",
+      "Hashimoto thyroiditis — (goiter nodular non-toksik)",
+      "Graves disease dengan pembesaran difus seluruh kelenjar tiroid tanpa pembentukan nodul yang jelas dan disertai hiperplasia folikel",
       "Karsinoma folikuler tiroid dengan invasi kapsul",
       "Adenoma folikuler soliter dengan perubahan kistik"
     ],
@@ -108,10 +108,10 @@
     "id": "P8",
     "question": "Preparat histopatologi ini dari kasus Hashimoto thyroiditis menunjukkan dua zona berbeda. Zona kiri memperlihatkan folikel residual dengan sel-sel tertentu, zona kanan padat limfosit dengan germinal center. Sel apakah yang melapisi folikel residual tersebut?",
     "options": [
-      "Sel kolumnar tinggi hiperaktif — tanda Graves disease",
+      "Sel kolumnar tinggi yang tampak hiperaktif dengan resorpsi koloid meningkat",
       "Sel C (parafollicular cells) penghasil kalsitonin — tanda karsinoma meduler",
       "Sel goblet mukus-sekretori — tanda struma ovarii",
-      "Hurthle cells (sel oksifilik/Askanazy) dengan sitoplasma eosinofilik granular",
+      "Hurthle cells dengan sitoplasma eosinofilik granular",
       "Sel clear (ground glass) — tanda karsinoma papiler tiroid"
     ],
     "correct": 3,
@@ -123,8 +123,8 @@
     "id": "P9",
     "question": "Gambar ini menunjukkan pasien dengan pembesaran leher masif (kiri) dan gambaran gross serta histologi (kanan). Gambaran histologi menunjukkan variasi ukuran folikel yang mencolok. Apakah diagnosis ini dan apa ciri khas histologinya?",
     "options": [
-      "Graves disease — folikel uniform dengan epitel kolumnar tinggi dan scalloped colloid",
-      "Non-toxic goiter (struma koloides) — marked variation in follicle size dengan koloid abundant",
+      "Graves disease — folikel uniform dengan e.kolumnar tinggi dan scalloped colloid",
+      "Non-toxic goiter — Terdapat variasi ukuran folikel dengan koloid yang melimpah.",
       "Hashimoto thyroiditis — folikel atrofik uniform dengan infiltrat limfosit",
       "Karsinoma folikuler — folikel dengan invasi kapsul dan vaskular",
       "Adenoma folikuler — folikel seragam dikelilingi kapsul fibrosa tipis"
@@ -141,7 +141,7 @@
       "Cold nodule menandakan goiter endemik akibat defisiensi iodin yang reversibel",
       "Cold nodule pasti jinak karena tidak aktif memproduksi hormon tiroid",
       "Cold nodule memiliki risiko keganasan lebih tinggi dan perlu evaluasi lebih lanjut (FNAB)",
-      "Cold nodule identik dengan adenoma toksik yang memerlukan terapi radioiodin",
+      "Cold nodule identik dengan adenoma toksik",
       "Cold nodule hanya ditemukan pada Hashimoto thyroiditis dan tidak memerlukan biopsi"
     ],
     "correct": 2,
@@ -157,7 +157,7 @@
       "Akibat transformasi maligna menjadi karsinoma folikuler yang menginvasi stroma",
       "Akibat siklus berulang hiperplasia-involusi: perdarahan, nekrosis, fibrosis, dan kalsifikasi",
       "Akibat efek radiasi eksternal yang menyebabkan degenerasi stroma",
-      "Akibat defisiensi iodin akut yang menyebabkan nekrosis folikuler difus"
+      "Akibat kekurangan iodin akut yang memicu kerusakan struktural folikel tiroid secara menyeluruh hingga terjadi nekrosis folikuler difus"
     ],
     "correct": 2,
     "explanation": "Goiter nodular mengalami perubahan sekunder akibat siklus berulang hiperplasia (ketika TSH meningkat) dan involusi (ketika iodine cukup). Siklus berulang ini menyebabkan: (1) perdarahan fokal → hemosiderin, (2) nekrosis → kavitas kistik, (3) fibrosis reaktif → pita fibrosa antar nodula, dan (4) kalsifikasi dystrophik. Hasilnya adalah goiter dengan tampilan 'coarsely nodular' dengan area fibrosis dan cystic change.",
