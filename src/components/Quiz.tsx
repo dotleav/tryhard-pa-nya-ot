@@ -359,7 +359,7 @@ export default function Quiz() {
                 PA Quiz
               </h1>
               <p style={{ color: '#6e7681', fontSize: '0.72rem', marginTop: '2px' }}>
-                Latihan Soal Kedokteran — Patologi Anatomi Endokrin
+                Latihan Soal Medis — Patologi Anatomi Endokrin
               </p>
             </div>
 
