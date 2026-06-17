@@ -885,7 +885,7 @@
     "img": "Adenoma Hipofisis/76.jpeg"
   },
   {
-"id": "P60",
+    "id": "P60",
     "question": "Karsinoma Papiler Tiroid (PTC) dikenal memiliki prognosis baik, namun komplikasi dan rekurensi tetap mungkin terjadi. Apa saja komplikasi dan faktor prognostik buruk PTC?",
     "options": [
       "Metastasis jauh ke paru dan tulang sangat sering terjadi pada tahap awal, menurunkan survival rate secara drastis.",
@@ -1632,6 +1632,741 @@
     "correct": 4,
     "explanation": "Intraductal Tubulopapillary Neoplasm (ITPN) (K): neoplasma intraduktus dengan arsitektur TUBULAR dan kribriforma padat, SELALU high grade dysplasia, produksi musin MINIMAL (membedakan dari IPMN). MUC1 (+), MUC2 (-), MUC5AC (-/fokal). Berbeda dari IPMN yang selalu ada produksi musin bermakna. ITPN memiliki mutasi berbeda dari IPMN (tidak ada mutasi GNAS yang khas IPMN). Prognosis setelah reseksi relatif lebih baik dari adenokarsinoma duktal konvensional, namun sebagian dapat berprogresi invasif.",
     "category": "Patologi Eksokrin Pankreas (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/K.jpg"
+  },
+  {
+    "id": "P110",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous"
+    ],
+    "correct": 0,
+    "explanation": "Adenoma hipofisis adalah neoplasma jinak yang timbul dari sel-sel hipofisis anterior. Gambaran histopatologis khas: sel-sel monomorfik poligonal tersusun dalam lembaran solid atau trabekuler, hilangnya arsitektur asinar normal, dan hilangnya reticulin framework (dibanding hipofisis normal yang memiliki checkerboard reticulin). Diklasifikasikan berdasarkan ukuran (mikro <1cm, makro >1cm) dan produksi hormon (prolaktinoma, GH-oma, ACTH-oma, dll).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/76.jpeg"
+  },
+  {
+    "id": "P111",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)"
+    ],
+    "correct": 1,
+    "explanation": "Adenoma hipofisis adalah neoplasma jinak yang timbul dari sel-sel hipofisis anterior. Gambaran histopatologis khas: sel-sel monomorfik poligonal tersusun dalam lembaran solid atau trabekuler, hilangnya arsitektur asinar normal, dan hilangnya reticulin framework (dibanding hipofisis normal yang memiliki checkerboard reticulin). Diklasifikasikan berdasarkan ukuran (mikro <1cm, makro >1cm) dan produksi hormon (prolaktinoma, GH-oma, ACTH-oma, dll).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/77.jpeg"
+  },
+  {
+    "id": "P112",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial"
+    ],
+    "correct": 2,
+    "explanation": "Adenoma hipofisis adalah neoplasma jinak yang timbul dari sel-sel hipofisis anterior. Gambaran histopatologis khas: sel-sel monomorfik poligonal tersusun dalam lembaran solid atau trabekuler, hilangnya arsitektur asinar normal, dan hilangnya reticulin framework (dibanding hipofisis normal yang memiliki checkerboard reticulin). Diklasifikasikan berdasarkan ukuran (mikro <1cm, makro >1cm) dan produksi hormon (prolaktinoma, GH-oma, ACTH-oma, dll).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/78.jpeg"
+  },
+  {
+    "id": "P113",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin"
+    ],
+    "correct": 3,
+    "explanation": "Adenoma hipofisis adalah neoplasma jinak yang timbul dari sel-sel hipofisis anterior. Gambaran histopatologis khas: sel-sel monomorfik poligonal tersusun dalam lembaran solid atau trabekuler, hilangnya arsitektur asinar normal, dan hilangnya reticulin framework (dibanding hipofisis normal yang memiliki checkerboard reticulin). Diklasifikasikan berdasarkan ukuran (mikro <1cm, makro >1cm) dan produksi hormon (prolaktinoma, GH-oma, ACTH-oma, dll).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/79.jpeg"
+  },
+  {
+    "id": "P114",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap"
+    ],
+    "correct": 4,
+    "explanation": "Adenoma hipofisis adalah neoplasma jinak yang timbul dari sel-sel hipofisis anterior. Gambaran histopatologis khas: sel-sel monomorfik poligonal tersusun dalam lembaran solid atau trabekuler, hilangnya arsitektur asinar normal, dan hilangnya reticulin framework (dibanding hipofisis normal yang memiliki checkerboard reticulin). Diklasifikasikan berdasarkan ukuran (mikro <1cm, makro >1cm) dan produksi hormon (prolaktinoma, GH-oma, ACTH-oma, dll).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Hipofisis/80.jpeg"
+  },
+  {
+    "id": "P115",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal"
+    ],
+    "correct": 0,
+    "explanation": "Adenoma folikuler tiroid adalah neoplasma jinak berkapsul lengkap yang timbul dari sel folikuler tiroid. Gambaran khas: nodul soliter berkapsul fibrous lengkap, folikel dengan berbagai pola (makrofolikuler/koloid, mikrofolikuler/fetal, trabeksular/embrional, Hürthle cell), TANPA invasi kapsul atau vaskular (yang membedakan dari karsinoma folikuler). Subvarian: colloid adenoma, fetal adenoma, embryonal adenoma, Hürthle cell adenoma.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/39.jpeg"
+  },
+  {
+    "id": "P116",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies"
+    ],
+    "correct": 1,
+    "explanation": "Adenoma folikuler tiroid adalah neoplasma jinak berkapsul lengkap yang timbul dari sel folikuler tiroid. Gambaran khas: nodul soliter berkapsul fibrous lengkap, folikel dengan berbagai pola (makrofolikuler/koloid, mikrofolikuler/fetal, trabeksular/embrional, Hürthle cell), TANPA invasi kapsul atau vaskular (yang membedakan dari karsinoma folikuler). Subvarian: colloid adenoma, fetal adenoma, embryonal adenoma, Hürthle cell adenoma.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/40.jpeg"
+  },
+  {
+    "id": "P117",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous"
+    ],
+    "correct": 2,
+    "explanation": "Adenoma folikuler tiroid adalah neoplasma jinak berkapsul lengkap yang timbul dari sel folikuler tiroid. Gambaran khas: nodul soliter berkapsul fibrous lengkap, folikel dengan berbagai pola (makrofolikuler/koloid, mikrofolikuler/fetal, trabeksular/embrional, Hürthle cell), TANPA invasi kapsul atau vaskular (yang membedakan dari karsinoma folikuler). Subvarian: colloid adenoma, fetal adenoma, embryonal adenoma, Hürthle cell adenoma.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/41.jpeg"
+  },
+  {
+    "id": "P118",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)"
+    ],
+    "correct": 3,
+    "explanation": "Adenoma folikuler tiroid adalah neoplasma jinak berkapsul lengkap yang timbul dari sel folikuler tiroid. Gambaran khas: nodul soliter berkapsul fibrous lengkap, folikel dengan berbagai pola (makrofolikuler/koloid, mikrofolikuler/fetal, trabeksular/embrional, Hürthle cell), TANPA invasi kapsul atau vaskular (yang membedakan dari karsinoma folikuler). Subvarian: colloid adenoma, fetal adenoma, embryonal adenoma, Hürthle cell adenoma.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/42.jpeg"
+  },
+  {
+    "id": "P119",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular"
+    ],
+    "correct": 4,
+    "explanation": "Adenoma folikuler tiroid adalah neoplasma jinak berkapsul lengkap yang timbul dari sel folikuler tiroid. Gambaran khas: nodul soliter berkapsul fibrous lengkap, folikel dengan berbagai pola (makrofolikuler/koloid, mikrofolikuler/fetal, trabeksular/embrional, Hürthle cell), TANPA invasi kapsul atau vaskular (yang membedakan dari karsinoma folikuler). Subvarian: colloid adenoma, fetal adenoma, embryonal adenoma, Hürthle cell adenoma.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/43.jpeg"
+  },
+  {
+    "id": "P120",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin"
+    ],
+    "correct": 0,
+    "explanation": "Adenoma folikuler tiroid adalah neoplasma jinak berkapsul lengkap yang timbul dari sel folikuler tiroid. Gambaran khas: nodul soliter berkapsul fibrous lengkap, folikel dengan berbagai pola (makrofolikuler/koloid, mikrofolikuler/fetal, trabeksular/embrional, Hürthle cell), TANPA invasi kapsul atau vaskular (yang membedakan dari karsinoma folikuler). Subvarian: colloid adenoma, fetal adenoma, embryonal adenoma, Hürthle cell adenoma.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Adenoma Kelenjar Tiroid/44.jpeg"
+  },
+  {
+    "id": "P121",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap"
+    ],
+    "correct": 1,
+    "explanation": "Grave Disease (Penyakit Graves) adalah penyakit autoimun akibat Thyroid-Stimulating Immunoglobulin (TSI) yang mengaktivasi reseptor TSH. Gambaran histopatologis khas tiroid: hiperplasia folikuler difus, sel epitel kolumnar tinggi dengan papilary infolding ke dalam folikel, koloid sedikit/sangat pucat dengan pinggiran skalloped (scalloping), dan infiltrasi limfoplasmasitik stromal (germinal center dapat ditemukan).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/11.jpeg"
+  },
+  {
+    "id": "P122",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular"
+    ],
+    "correct": 2,
+    "explanation": "Grave Disease (Penyakit Graves) adalah penyakit autoimun akibat Thyroid-Stimulating Immunoglobulin (TSI) yang mengaktivasi reseptor TSH. Gambaran histopatologis khas tiroid: hiperplasia folikuler difus, sel epitel kolumnar tinggi dengan papilary infolding ke dalam folikel, koloid sedikit/sangat pucat dengan pinggiran skalloped (scalloping), dan infiltrasi limfoplasmasitik stromal (germinal center dapat ditemukan).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/12.jpeg"
+  },
+  {
+    "id": "P123",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies"
+    ],
+    "correct": 3,
+    "explanation": "Grave Disease (Penyakit Graves) adalah penyakit autoimun akibat Thyroid-Stimulating Immunoglobulin (TSI) yang mengaktivasi reseptor TSH. Gambaran histopatologis khas tiroid: hiperplasia folikuler difus, sel epitel kolumnar tinggi dengan papilary infolding ke dalam folikel, koloid sedikit/sangat pucat dengan pinggiran skalloped (scalloping), dan infiltrasi limfoplasmasitik stromal (germinal center dapat ditemukan).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Grave Disease/7.jpeg"
+  },
+  {
+    "id": "P124",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies"
+    ],
+    "correct": 4,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/50_FNAB-BAJAH.jpeg"
+  },
+  {
+    "id": "P125",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)"
+    ],
+    "correct": 0,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/50_gross.jpeg"
+  },
+  {
+    "id": "P126",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial"
+    ],
+    "correct": 1,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/51.jpeg"
+  },
+  {
+    "id": "P127",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin"
+    ],
+    "correct": 2,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/52_Orphan annie atau ground glass.jpeg"
+  },
+  {
+    "id": "P128",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap"
+    ],
+    "correct": 3,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/52_Well-formed.jpeg"
+  },
+  {
+    "id": "P129",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies"
+    ],
+    "correct": 4,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/53_Branching Papilae.jpeg"
+  },
+  {
+    "id": "P130",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal"
+    ],
+    "correct": 0,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/54.jpeg"
+  },
+  {
+    "id": "P131",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous"
+    ],
+    "correct": 1,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/56.jpg"
+  },
+  {
+    "id": "P132",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)"
+    ],
+    "correct": 2,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/58.jpg"
+  },
+  {
+    "id": "P133",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial"
+    ],
+    "correct": 3,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/59.jpg"
+  },
+  {
+    "id": "P134",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies"
+    ],
+    "correct": 4,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/60.jpg"
+  },
+  {
+    "id": "P135",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap"
+    ],
+    "correct": 0,
+    "explanation": "Karsinoma Papiler Tiroid (PTC) adalah karsinoma tiroid tersering (~80%). Gambaran diagnostik: (1) Papilla fibrovaskular bercabang kompleks; (2) Inti khas PTC: ground-glass/Orphan Annie eye (inti besar pucat akibat dispersi kromatin), nuclear groove, intranuclear pseudoinclusion; (3) Psammoma bodies (kalsifikasi konsentris lamellar). Diagnosis ditegakkan berdasarkan gambaran inti meski tanpa papilla (varian folikuler PTC).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/61.jpg"
+  },
+  {
+    "id": "P136",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular"
+    ],
+    "correct": 1,
+    "explanation": "Struma koloides (non-toxic goiter) adalah pembesaran tiroid akibat defisiensi yodium atau gangguan sintesis hormon tanpa disfungsi tiroid bermakna. Gambaran histopatologis: folikel-folikel makrofolikuler sangat besar berisi koloid padat (colloid-filled), dilapisi sel epitel kuboid/pipih tanpa atipia, stroma fibrous tipis. Pada bentuk nodular (multinodular goiter): variasi ukuran folikel, perdarahan, kalsifikasi, fibrosis, dan degenerasi kistik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/32 (2).jpeg"
+  },
+  {
+    "id": "P137",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal"
+    ],
+    "correct": 2,
+    "explanation": "Struma koloides (non-toxic goiter) adalah pembesaran tiroid akibat defisiensi yodium atau gangguan sintesis hormon tanpa disfungsi tiroid bermakna. Gambaran histopatologis: folikel-folikel makrofolikuler sangat besar berisi koloid padat (colloid-filled), dilapisi sel epitel kuboid/pipih tanpa atipia, stroma fibrous tipis. Pada bentuk nodular (multinodular goiter): variasi ukuran folikel, perdarahan, kalsifikasi, fibrosis, dan degenerasi kistik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/32 (3).jpeg"
+  },
+  {
+    "id": "P138",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies"
+    ],
+    "correct": 3,
+    "explanation": "Struma koloides (non-toxic goiter) adalah pembesaran tiroid akibat defisiensi yodium atau gangguan sintesis hormon tanpa disfungsi tiroid bermakna. Gambaran histopatologis: folikel-folikel makrofolikuler sangat besar berisi koloid padat (colloid-filled), dilapisi sel epitel kuboid/pipih tanpa atipia, stroma fibrous tipis. Pada bentuk nodular (multinodular goiter): variasi ukuran folikel, perdarahan, kalsifikasi, fibrosis, dan degenerasi kistik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/32.jpeg"
+  },
+  {
+    "id": "P139",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous"
+    ],
+    "correct": 4,
+    "explanation": "Struma koloides (non-toxic goiter) adalah pembesaran tiroid akibat defisiensi yodium atau gangguan sintesis hormon tanpa disfungsi tiroid bermakna. Gambaran histopatologis: folikel-folikel makrofolikuler sangat besar berisi koloid padat (colloid-filled), dilapisi sel epitel kuboid/pipih tanpa atipia, stroma fibrous tipis. Pada bentuk nodular (multinodular goiter): variasi ukuran folikel, perdarahan, kalsifikasi, fibrosis, dan degenerasi kistik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/34.jpeg"
+  },
+  {
+    "id": "P140",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial"
+    ],
+    "correct": 0,
+    "explanation": "Struma koloides (non-toxic goiter) adalah pembesaran tiroid akibat defisiensi yodium atau gangguan sintesis hormon tanpa disfungsi tiroid bermakna. Gambaran histopatologis: folikel-folikel makrofolikuler sangat besar berisi koloid padat (colloid-filled), dilapisi sel epitel kuboid/pipih tanpa atipia, stroma fibrous tipis. Pada bentuk nodular (multinodular goiter): variasi ukuran folikel, perdarahan, kalsifikasi, fibrosis, dan degenerasi kistik.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Struma Koloides [Goiter]/35.png"
+  },
+  {
+    "id": "P141",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin"
+    ],
+    "correct": 1,
+    "explanation": "Tiroiditis Hashimoto adalah tiroiditis autoimun kronik yang dimediasi sel T sitotoksik dan autoantibodi (anti-TPO, anti-tiroglobulin). Gambaran histopatologis khas: (1) Infiltrasi limfoplasmasitik masif dengan pembentukan germinal center intra-tiroid; (2) Atrofi folikel tiroid dengan koloid minimal; (3) Metaplasia Hürthle cell (oksifilik) — sel folikuler berubah menjadi sel besar granular eosinofilik akibat akumulasi mitokondria.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/18.jpeg"
+  },
+  {
+    "id": "P142",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap"
+    ],
+    "correct": 2,
+    "explanation": "Tiroiditis Hashimoto adalah tiroiditis autoimun kronik yang dimediasi sel T sitotoksik dan autoantibodi (anti-TPO, anti-tiroglobulin). Gambaran histopatologis khas: (1) Infiltrasi limfoplasmasitik masif dengan pembentukan germinal center intra-tiroid; (2) Atrofi folikel tiroid dengan koloid minimal; (3) Metaplasia Hürthle cell (oksifilik) — sel folikuler berubah menjadi sel besar granular eosinofilik akibat akumulasi mitokondria.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/20.jpeg"
+  },
+  {
+    "id": "P143",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular"
+    ],
+    "correct": 3,
+    "explanation": "Tiroiditis Hashimoto adalah tiroiditis autoimun kronik yang dimediasi sel T sitotoksik dan autoantibodi (anti-TPO, anti-tiroglobulin). Gambaran histopatologis khas: (1) Infiltrasi limfoplasmasitik masif dengan pembentukan germinal center intra-tiroid; (2) Atrofi folikel tiroid dengan koloid minimal; (3) Metaplasia Hürthle cell (oksifilik) — sel folikuler berubah menjadi sel besar granular eosinofilik akibat akumulasi mitokondria.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/21.jpeg"
+  },
+  {
+    "id": "P144",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)"
+    ],
+    "correct": 4,
+    "explanation": "Tiroiditis Hashimoto adalah tiroiditis autoimun kronik yang dimediasi sel T sitotoksik dan autoantibodi (anti-TPO, anti-tiroglobulin). Gambaran histopatologis khas: (1) Infiltrasi limfoplasmasitik masif dengan pembentukan germinal center intra-tiroid; (2) Atrofi folikel tiroid dengan koloid minimal; (3) Metaplasia Hürthle cell (oksifilik) — sel folikuler berubah menjadi sel besar granular eosinofilik akibat akumulasi mitokondria.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/22.jpeg"
+  },
+  {
+    "id": "P145",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies"
+    ],
+    "correct": 0,
+    "explanation": "Tiroiditis Hashimoto adalah tiroiditis autoimun kronik yang dimediasi sel T sitotoksik dan autoantibodi (anti-TPO, anti-tiroglobulin). Gambaran histopatologis khas: (1) Infiltrasi limfoplasmasitik masif dengan pembentukan germinal center intra-tiroid; (2) Atrofi folikel tiroid dengan koloid minimal; (3) Metaplasia Hürthle cell (oksifilik) — sel folikuler berubah menjadi sel besar granular eosinofilik akibat akumulasi mitokondria.",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Thyroiditis Hashimoto/23.jpeg"
+  },
+  {
+    "id": "P146",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous"
+    ],
+    "correct": 1,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/68.jpeg"
+  },
+  {
+    "id": "P147",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)"
+    ],
+    "correct": 2,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/70.jpg"
+  },
+  {
+    "id": "P148",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin"
+    ],
+    "correct": 3,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/A.jpg"
+  },
+  {
+    "id": "P149",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial"
+    ],
+    "correct": 4,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/B.jpg"
+  },
+  {
+    "id": "P150",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular"
+    ],
+    "correct": 0,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/C.jpg"
+  },
+  {
+    "id": "P151",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal"
+    ],
+    "correct": 1,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/D.jpg"
+  },
+  {
+    "id": "P152",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies"
+    ],
+    "correct": 2,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/E.jpg"
+  },
+  {
+    "id": "P153",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous"
+    ],
+    "correct": 3,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/F.jpg"
+  },
+  {
+    "id": "P154",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial"
+    ],
+    "correct": 4,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/G.jpg"
+  },
+  {
+    "id": "P155",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Karsinoma Papiler Kelenjar Tiroid — karsinoma tiroid dengan papilla fibrovaskular bercabang, inti ground-glass (Orphan Annie eye), nuclear groove, intranuclear pseudoinclusion, dan psammoma bodies",
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin"
+    ],
+    "correct": 0,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/H.jpg"
+  },
+  {
+    "id": "P156",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Struma Koloides — pembesaran tiroid difus/nodular dengan folikel-folikel makrofolikuler berisi koloid padat, sel folikel kuboid pipih tanpa atipia, dan stroma fibrous",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap"
+    ],
+    "correct": 1,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/I.jpg"
+  },
+  {
+    "id": "P157",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Thyroiditis Hashimoto — tiroiditis autoimun kronik dengan infiltrasi limfoplasmasitik masif membentuk germinal center, atrofi folikel, dan metaplasia Hürthle cell (sel oksifilik eosinofilik)",
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular"
+    ],
+    "correct": 2,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Tumor Kelenjar Eksokrin Pankreas/J.jpg"
+  },
+  {
+    "id": "P158",
+    "question": "Sediaan histopatologis apa gambar ini?",
+    "options": [
+      "Tumor Neuroendokrin Pankreas — tumor sel islet pankreas dengan sel poligonal monomorfik dalam pola trabekuler/ribbon/sarang, granula neurosekretori, dan IHC positif synaptophysin/chromogranin",
+      "Adenoma Hipofisis — neoplasma jinak sel hipofisis anterior dengan sel-sel monomorfik dalam pola lembaran/trabekuler, hilangnya reticulin framework normal, dan tidak ada kapsul lengkap",
+      "Adenoma Kelenjar Tiroid — neoplasma jinak folikel tiroid berkapsul lengkap dengan folikel-folikel berbagai ukuran berisi koloid, tanpa invasi kapsul maupun vaskular",
+      "Tumor Kelenjar Eksokrin Pankreas — neoplasma kistik/duktus pankreas eksokrin (IPMN/MCN/PanIN) dengan epitel musinosa kolumnar papilari intraluminal, dilatasi duktus kistik, dan displasia epithelial",
+      "Grave Disease — hiperplasia folikuler difus tiroid dengan sel epitel kolumnar tinggi, koloid skalloped (scalloping), papilary infolding ke dalam folikel, dan infiltrasi limfositik stromal"
+    ],
+    "correct": 3,
+    "explanation": "Tumor kelenjar eksokrin pankreas mencakup spektrum neoplasma kistik dan duktus pankreas. Gambaran histopatologis: epitel kolumnar musinosa dengan proyeksi papilari ke dalam lumen duktus yang berdilatasi (kistik), displasia epitelial bertingkat. Termasuk: IPMN (Intraductal Papillary Mucinous Neoplasm) — dengan subtipe gastric, intestinal, pancreatobiliary, dan oncocytic; MCN (Mucinous Cystic Neoplasm) dengan stroma ovarian-like; PanIN (Pancreatic Intraepithelial Neoplasia).",
+    "category": "Patologi Endokrin (Bergambar)",
     "img": "Tumor Kelenjar Eksokrin Pankreas/K.jpg"
   }
 ]
