@@ -356,7 +356,7 @@ export default function Quiz() {
                 lineHeight: 1.2,
                 margin: 0,
               }}>
-                PA Quiz
+                Latihan Soal PA
               </h1>
               <p style={{ color: '#6e7681', fontSize: '0.72rem', marginTop: '2px' }}>
                 Disclaimer: Soal dbuat mggnkn AI, mhn jgn mmpercayai penjelasan jwbn sepenuhnya
