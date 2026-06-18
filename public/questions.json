@@ -886,7 +886,7 @@
   },
   {
     "id": "P141",
-    "question": "Sediaan histopatologis apa gambar ini?",
+    "question": "Skema ini adalah proses patologis dari diagnosis apa?",
     "options": [
       "Karsinoma Papiler Kelenjar Tiroid",
       "Thyroiditis Hashimoto",
@@ -895,7 +895,7 @@
       "Tumor Neuroendokrin Pankreas"
     ],
     "correct": 1,
-    "explanation": "Tiroiditis Hashimoto adalah tiroiditis autoimun kronik yang dimediasi sel T sitotoksik dan autoantibodi (anti-TPO, anti-tiroglobulin). Gambaran histopatologis khas: (1) Infiltrasi limfoplasmasitik masif dengan pembentukan germinal center intra-tiroid; (2) Atrofi folikel tiroid dengan koloid minimal; (3) Metaplasia Hürthle cell (oksifilik) — sel folikuler berubah menjadi sel besar granular eosinofilik akibat akumulasi mitokondria.",
+    "explanation": "Gambar tersebut menunjukkan mekanisme patogenesis autoimun pada **tiroiditis Hashimoto**, yang diawali oleh sensitisasi sel T terhadap antigen tiroid. Aktivasi **helper T cell (CD4+)** kemudian memicu tiga jalur utama kerusakan tiroid: (1) aktivasi **sel T sitotoksik CD8+** yang secara langsung menghancurkan sel folikel tiroid melalui interaksi Fas–FasL (T-cell-mediated cytotoxicity); (2) diferensiasi **sel Th1** yang menghasilkan **interferon-γ (IFN-γ)** sehingga mengaktivasi makrofag dan menimbulkan inflamasi serta cedera tirosit (thyrocyte injury); dan (3) stimulasi **sel B** menjadi sel plasma yang memproduksi antibodi anti-tiroid, yang kemudian menyebabkan kerusakan sel melalui **antibody-dependent cell-mediated cytotoxicity (ADCC)** dengan perantaraan sel NK yang berikatan melalui reseptor Fc. Kombinasi ketiga mekanisme tersebut mengakibatkan destruksi progresif jaringan tiroid, infiltrasi limfositik, dan akhirnya hipotiroidisme.",
     "category": "Patologi Endokrin (Bergambar)",
     "img": "Thyroiditis Hashimoto/18.jpeg"
   },
