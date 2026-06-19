@@ -147,7 +147,7 @@
     "correct": 2,
     "explanation": "Pada skintigrafi tiroid: 'hot' nodule = hipermetabolik (mengambil isotop lebih banyak, biasanya jinak/adenoma toksik). 'Cold' nodule = hipometabolik (tidak/kurang mengambil isotop) — dapat berupa kista atau tumor solid. Cold nodule memiliki risiko keganasan yang lebih tinggi (~10-15%) dibanding hot nodule, sehingga memerlukan evaluasi lebih lanjut dengan FNAB (Fine Needle Aspiration Biopsy/BAJAH).",
     "category": "Patologi Endokrin (Bergambar)",
-    "img": "Struma Koloides [Goiter]/33.jpeg"
+    "img": "Struma Koloides [Goiter]/33_b.jpeg"
   },
   {
     "id": "P11",
@@ -1293,14 +1293,14 @@
     "id": "P115",
     "question": "Sediaan histopatologis apa gambar ini?",
     "options": [
-      "Adenoma Kelenjar Tiroid",
-      "Tumor Kelenjar Eksokrin Pankreas",
-      "Tumor Neuroendokrin Pankreas",
+      "Adenoma Kelenjar Tiroid - Embryonal",
+      "Tumor Kelenjar Eksokrin Pankreas - Simple adenoma",
+      "Hurthel cell adenoma",
       "Adenoma Hipofisis",
-      "Grave Disease"
+      "Adenoma Kelenjar Tiroid - Colloid Adenoma"
     ],
     "correct": 0,
-    "explanation": "Adenoma folikuler tiroid adalah neoplasma jinak berkapsul lengkap yang timbul dari sel folikuler tiroid. Gambaran khas: nodul soliter berkapsul fibrous lengkap, folikel dengan berbagai pola (makrofolikuler/koloid, mikrofolikuler/fetal, trabeksular/embrional, Hürthle cell), TANPA invasi kapsul atau vaskular (yang membedakan dari karsinoma folikuler). Subvarian: colloid adenoma, fetal adenoma, embryonal adenoma, Hürthle cell adenoma.",
+    "explanation": "Gambar diatas menunjukan adenoma folikuler tiroid jenis Embryonal. Adenoma folikuler tiroid adalah neoplasma jinak berkapsul lengkap yang timbul dari sel folikuler tiroid. Gambaran khas: nodul soliter berkapsul fibrous lengkap, folikel dengan berbagai pola (makrofolikuler/koloid, mikrofolikuler/fetal, trabeksular/embrional, Hürthle cell), TANPA invasi kapsul atau vaskular (yang membedakan dari karsinoma folikuler). Subvarian: colloid adenoma, fetal adenoma, embryonal adenoma, Hürthle cell adenoma.",
     "category": "Patologi Endokrin (Bergambar)",
     "img": "Adenoma Kelenjar Tiroid/39.jpeg"
   },
@@ -1514,6 +1514,21 @@
     "category": "Patologi Endokrin (Bergambar)",
     "img": "Karsinoma Papiler Kelenjar Tiroid/53_Branching Papilae.jpeg"
   },
+  {
+    "id": "P129",
+    "question": "Ciri khas dari sediaan histopatologis dibawah ini adalah nukleus yang tampak kosong yang terkadang juga disebut sebagai...",
+    "options": [
+      "Ground-Glass Sitoplasma",
+      "Kakakasang-Adkéren Appearance",
+      "Orphan Annie’s sharingan",
+      "Orphan Jennie’s eye",
+      "Orphan Annie’s eye"
+    ],
+        "correct": 4,
+    "explanation": "Cih, gak pilih B. Sediaan diatas adalah preparat dari karsinoma papiler kelenjar tiroid dengan ciri khas histopatologis nukleus yang tampak kosong. Disebut juga dengan Orphan Annie’s eye, ground-glass nuclei, atau empty appearing nuclei",
+    "category": "Patologi Endokrin (Bergambar)",
+    "img": "Karsinoma Papiler Kelenjar Tiroid/53_Branching Papilae.jpeg"
+    },
   {
     "id": "P130",
     "question": "Sediaan histopatologis apa gambar ini?",
