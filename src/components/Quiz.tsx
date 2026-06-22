@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useRef, type CSSProperties } from 'react'
+import { useState, useEffect, useCallback, useRef, useMemo, memo, type CSSProperties } from 'react'
 import {
   CheckCircle, XCircle, BookOpen, Trophy,
   Filter, Shuffle, RotateCcw, ChevronRight, ImageIcon,
@@ -57,7 +57,7 @@ const LS_KEY = 'quiz_biasa_progress_v2_patologianatomi'
 interface SavedBiasaState {
   selectedCategory: string
   shuffleOn: boolean
-  activeQuestions: Question[]
+  activeQuestionIds: string[] // only IDs are persisted — full question objects are re-resolved from `questions` on load, avoiding a huge JSON.stringify on every single answer
   answers: AnswerState[]
 }
 
@@ -169,16 +169,20 @@ export default function Quiz() {
   useEffect(() => {
     if (questions.length === 0) return
     const saved = loadBiasa()
-    if (saved && saved.activeQuestions.length > 0) {
-      setBiasaCategory(saved.selectedCategory)
-      setBiasaShuffleOn(saved.shuffleOn)
-      setBiasaQuestions(saved.activeQuestions)
-      setBiasaAnswers(saved.answers)
-      setBiasaActive(true)
-    } else {
-      // Auto-start biasa mode with default settings
-      autoStartBiasa(questions, 'Semua', false)
+    if (saved && saved.activeQuestionIds?.length > 0) {
+      const byId = new Map(questions.map(q => [q.id, q]))
+      const restoredQs = saved.activeQuestionIds.map(id => byId.get(id)).filter((q): q is Question => !!q)
+      if (restoredQs.length > 0) {
+        setBiasaCategory(saved.selectedCategory)
+        setBiasaShuffleOn(saved.shuffleOn)
+        setBiasaQuestions(restoredQs)
+        setBiasaAnswers(saved.answers)
+        setBiasaActive(true)
+        return
+      }
     }
+    // Auto-start biasa mode with default settings
+    autoStartBiasa(questions, 'Semua', false)
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [questions])
 
@@ -197,7 +201,7 @@ export default function Quiz() {
     saveBiasa({
       selectedCategory: biasaCategory,
       shuffleOn: biasaShuffleOn,
-      activeQuestions: biasaQuestions,
+      activeQuestionIds: biasaQuestions.map(q => q.id),
       answers: biasaAnswers,
     })
   }, [biasaActive, biasaCategory, biasaShuffleOn, biasaQuestions, biasaAnswers])
@@ -813,6 +817,8 @@ function SetupCard({ questionCount, onStart, difficulty, onDifficultyChange }: {
 
 // ── BiasaMode ──────────────────────────────────────────────────────────────────
 
+const BIASA_PAGE_SIZE = 15
+
 function BiasaMode({ questions, answers, onAnswer }: {
   questions: Question[]
   answers: AnswerState[]
@@ -822,6 +828,17 @@ function BiasaMode({ questions, answers, onAnswer }: {
   const correctCount  = answers.filter((a, i) => typeof a === 'number' && a === questions[i]?.correct).length
   const allDone       = answeredCount === questions.length && questions.length > 0
   const pct           = questions.length > 0 ? Math.round((answeredCount / questions.length) * 100) : 0
+
+  // Only mount a window of questions at a time — mounting hundreds of QuestionCards
+  // at once (each with several option buttons + inline styles) is the main source of lag.
+  const [visibleCount, setVisibleCount] = useState(BIASA_PAGE_SIZE)
+  useEffect(() => {
+    // Reset window whenever the underlying question set changes (filter/shuffle/reset)
+    setVisibleCount(BIASA_PAGE_SIZE)
+  }, [questions])
+
+  const visibleQuestions = questions.slice(0, visibleCount)
+  const hasMore = visibleCount < questions.length
 
   return (
     <div>
@@ -887,9 +904,9 @@ function BiasaMode({ questions, answers, onAnswer }: {
         </div>
       )}
 
-      {/* Question list */}
+      {/* Question list — windowed, not all questions at once */}
       <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-        {questions.map((q, idx) => (
+        {visibleQuestions.map((q, idx) => (
           <div
             key={q.id}
             className="quiz-fade-in"
@@ -897,13 +914,35 @@ function BiasaMode({ questions, answers, onAnswer }: {
           >
             <QuestionCard
               q={q}
+              qIdx={idx}
               qNum={idx + 1}
               answer={answers[idx]}
-              onAnswer={optIdx => onAnswer(idx, optIdx)}
+              onAnswer={onAnswer}
             />
           </div>
         ))}
       </div>
+
+      {/* Load more — keeps DOM size bounded instead of mounting every question at once */}
+      {hasMore && (
+        <button
+          onClick={() => setVisibleCount(c => Math.min(c + BIASA_PAGE_SIZE, questions.length))}
+          style={{
+            width: '100%',
+            marginTop: '20px',
+            padding: '12px',
+            backgroundColor: '#161b22',
+            border: '1px solid #30363d',
+            borderRadius: '12px',
+            color: '#8b949e',
+            fontSize: '0.85rem',
+            fontWeight: 600,
+            cursor: 'pointer',
+          }}
+        >
+          Tampilkan {Math.min(BIASA_PAGE_SIZE, questions.length - visibleCount)} soal lagi ({visibleCount}/{questions.length})
+        </button>
+      )}
     </div>
   )
 }
@@ -1183,41 +1222,42 @@ function TentamenResults({ questions, answers, onRestart }: {
 
 // ── QuestionCard ───────────────────────────────────────────────────────────────
 
-function QuestionCard({ q, qNum, answer, onAnswer }: {
+// Stable style objects to avoid creating new references every render.
+// Only the per-option "correct" / "wrong" / "dim" states vary — computed below.
+const OPT_UNANSWERED: CSSProperties = { backgroundColor: '#21262d', border: '1px solid #30363d', color: '#c9d1d9', cursor: 'pointer' }
+const OPT_CORRECT:    CSSProperties = { backgroundColor: '#16a34a22', border: '1px solid #16a34a60', color: '#86efac' }
+const OPT_WRONG:      CSSProperties = { backgroundColor: '#ef444422', border: '1px solid #ef444460', color: '#fca5a5' }
+const OPT_DIM:        CSSProperties = { backgroundColor: '#161b22', border: '1px solid #21262d', color: '#484f58' }
+
+const LTR_UNANSWERED: CSSProperties = { border: '1px solid #30363d', color: '#8b949e', backgroundColor: 'transparent' }
+const LTR_CORRECT:    CSSProperties = { backgroundColor: '#16a34a', border: 'none', color: '#fff' }
+const LTR_WRONG:      CSSProperties = { backgroundColor: '#ef4444', border: 'none', color: '#fff' }
+const LTR_DIM:        CSSProperties = { border: '1px solid #21262d', color: '#30363d', backgroundColor: 'transparent' }
+
+const QuestionCard = memo(function QuestionCard({ q, qIdx, qNum, answer, onAnswer }: {
   q: Question
+  qIdx: number
   qNum: number
   answer: AnswerState
-  onAnswer: (idx: number) => void
+  onAnswer: (qIdx: number, optIdx: number) => void
 }) {
-  const catColor  = CATEGORY_COLORS[q.category] ?? 'bg-slate-500/20 text-slate-300 border-slate-500/30'
+  const catColor   = CATEGORY_COLORS[q.category] ?? 'bg-slate-500/20 text-slate-300 border-slate-500/30'
   const isAnswered = answer !== null
 
-  const optStyle = (idx: number): CSSProperties => {
-    if (!isAnswered) {
-      return {
-        backgroundColor: '#21262d',
-        border: '1px solid #30363d',
-        color: '#c9d1d9',
-        cursor: 'pointer',
-      }
-    }
-    if (idx === q.correct) {
-      return { backgroundColor: '#16a34a22', border: '1px solid #16a34a60', color: '#86efac' }
-    }
-    if (typeof answer === 'number' && idx === answer) {
-      return { backgroundColor: '#ef444422', border: '1px solid #ef444460', color: '#fca5a5' }
-    }
-    return { backgroundColor: '#161b22', border: '1px solid #21262d', color: '#484f58' }
-  }
+  // Pre-compute per-option styles once per render (answer/q change triggers re-render anyway)
+  const optStyles = useMemo(() => q.options.map((_, idx) => {
+    if (!isAnswered)                                           return OPT_UNANSWERED
+    if (idx === q.correct)                                     return OPT_CORRECT
+    if (typeof answer === 'number' && idx === answer)          return OPT_WRONG
+    return OPT_DIM
+  }), [isAnswered, answer, q.correct, q.options.length]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  const letterStyle = (idx: number): CSSProperties => {
-    if (!isAnswered) {
-      return { border: '1px solid #30363d', color: '#8b949e', backgroundColor: 'transparent' }
-    }
-    if (idx === q.correct) return { backgroundColor: '#16a34a', border: 'none', color: '#fff' }
-    if (typeof answer === 'number' && idx === answer) return { backgroundColor: '#ef4444', border: 'none', color: '#fff' }
-    return { border: '1px solid #21262d', color: '#30363d', backgroundColor: 'transparent' }
-  }
+  const ltrStyles = useMemo(() => q.options.map((_, idx) => {
+    if (!isAnswered)                                           return LTR_UNANSWERED
+    if (idx === q.correct)                                     return LTR_CORRECT
+    if (typeof answer === 'number' && idx === answer)          return LTR_WRONG
+    return LTR_DIM
+  }), [isAnswered, answer, q.correct, q.options.length]) // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
     <div style={{
@@ -1262,10 +1302,10 @@ function QuestionCard({ q, qNum, answer, onAnswer }: {
         {q.options.map((opt, idx) => (
           <button
             key={idx}
-            onClick={() => !isAnswered && onAnswer(idx)}
+            onClick={() => !isAnswered && onAnswer(qIdx, idx)}
             className={!isAnswered ? 'option-hoverable' : ''}
             style={{
-              ...optStyle(idx),
+              ...optStyles[idx],
               borderRadius: '10px',
               width: '100%',
               textAlign: 'left',
@@ -1277,7 +1317,7 @@ function QuestionCard({ q, qNum, answer, onAnswer }: {
             }}
           >
             <span style={{
-              ...letterStyle(idx),
+              ...ltrStyles[idx],
               borderRadius: '50%',
               width: '24px',
               height: '24px',
@@ -1327,4 +1367,4 @@ function QuestionCard({ q, qNum, answer, onAnswer }: {
       )}
     </div>
   )
-}
+})
